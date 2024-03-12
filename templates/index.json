@@ -37,6 +37,7 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/6d951a1e1459bda16de03240657100c2.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/1000_1600_1.jpg",
             "focal_point": "image_presentation",
             "mobile_focal_point": "image_presentation",
             "media_link": "",
