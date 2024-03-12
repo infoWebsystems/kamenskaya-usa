@@ -509,6 +509,7 @@
             "width": "50",
             "height": 300,
             "mobile_height": 460,
+            "image": "shopify:\/\/shop_images\/IMG_1956.jpg",
             "media_fit": "cover",
             "focal_point": "image_presentation",
             "mobile_focal_point": "image_presentation",
