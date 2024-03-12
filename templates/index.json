@@ -1624,24 +1624,13 @@
     },
     "16548801325228c324": {
       "type": "blog-posts",
-      "blocks": {
-        "article_Eq9khK": {
-          "type": "article",
-          "settings": {
-            "article": "blog\/recommendations-for-the-use-of-alcohol-inks"
-          }
-        }
-      },
-      "block_order": [
-        "article_Eq9khK"
-      ],
       "settings": {
         "heading": "From the Blog",
         "subheading": "",
         "button_link": "",
         "link_text": "View all posts",
         "display_type": "all",
-        "blog": "news",
+        "blog": "blog",
         "max_articles": 2,
         "show_tags": true,
         "show_author": false,
