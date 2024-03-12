@@ -67,6 +67,8 @@
         "slide_ytdNqD": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/new____-_-__3000_2000_1.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/mobile_1000x1600_4cc6043a-1aba-49e8-94d5-e5b0e12c1165.jpg",
             "focal_point": "image_presentation",
             "mobile_focal_point": "image_presentation",
             "media_link": "",
