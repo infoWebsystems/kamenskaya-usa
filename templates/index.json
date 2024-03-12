@@ -36,6 +36,7 @@
         "template--19727828091163__0160c8e2-10e7-46a9-9903-95e48a4df163-1689150981ac390d2b-1": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/6d951a1e1459bda16de03240657100c2.jpg",
             "focal_point": "image_presentation",
             "mobile_focal_point": "image_presentation",
             "media_link": "",
@@ -58,6 +59,35 @@
             "button_background_color": "#ffffff",
             "button_text_color": "#000000",
             "color_overlay": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 40
+          }
+        },
+        "slide_ytdNqD": {
+          "type": "slide",
+          "settings": {
+            "focal_point": "image_presentation",
+            "mobile_focal_point": "image_presentation",
+            "media_link": "",
+            "text_position": "center_center",
+            "text_position_mobile": "center_center",
+            "accent": "",
+            "title": "Slideshow",
+            "heading_font_class": "fs-heading-display-2",
+            "subheading": "",
+            "subheading_font_class": "fs-heading-5-base",
+            "text": "<p>Use this section to make a bold statement<\/p>",
+            "text_font_class": "fs-body-100",
+            "link_1": "",
+            "link_text_1": "Read more",
+            "button_style_1": "btn--primary",
+            "link_2": "",
+            "link_text_2": "Read more",
+            "button_style_2": "btn--primary",
+            "text_color": "#FFFFFF",
+            "button_background_color": "#FFFFFF",
+            "button_text_color": "#000000",
+            "color_overlay": "#000",
             "color_overlay_gradient": "",
             "overlay_opacity": 40
           }
@@ -154,6 +184,7 @@
       "block_order": [
         "template--19727828091163__0160c8e2-10e7-46a9-9903-95e48a4df163-1689150981ac390d2b-0",
         "template--19727828091163__0160c8e2-10e7-46a9-9903-95e48a4df163-1689150981ac390d2b-1",
+        "slide_ytdNqD",
         "1b50cc8d-0aca-4ec4-a391-e0e0c9e2e356",
         "9b45187d-d8a4-4d23-957e-8554aeaf163f",
         "slide_xi879t"
