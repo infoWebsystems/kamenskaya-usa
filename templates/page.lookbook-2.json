@@ -452,6 +452,7 @@
         "block-0": {
           "type": "image_column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/p_10.webp",
             "image_width": 100,
             "aspect_ratio": "natural",
             "focal_point": "image_presentation",
@@ -492,6 +493,7 @@
         "block-2": {
           "type": "image_column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/p_7.webp",
             "image_width": 100,
             "aspect_ratio": "natural",
             "focal_point": "image_presentation",
