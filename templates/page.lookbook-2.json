@@ -804,6 +804,7 @@
         "block-3": {
           "type": "image_column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/p_6.webp",
             "image_width": 100,
             "aspect_ratio": "portrait",
             "focal_point": "image_presentation",
@@ -824,6 +825,7 @@
         "block-4": {
           "type": "image_column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/p_7.webp",
             "image_width": 100,
             "aspect_ratio": "portrait",
             "focal_point": "image_presentation",
@@ -844,6 +846,7 @@
         "block-5": {
           "type": "image_column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/p_8.webp",
             "image_width": 100,
             "aspect_ratio": "portrait",
             "focal_point": "image_presentation",
@@ -864,6 +867,7 @@
         "block-6": {
           "type": "image_column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/p_9.webp",
             "image_width": 100,
             "aspect_ratio": "portrait",
             "focal_point": "image_presentation",
@@ -884,6 +888,7 @@
         "block-7": {
           "type": "image_column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/p_10.webp",
             "image_width": 100,
             "aspect_ratio": "portrait",
             "focal_point": "image_presentation",
