@@ -128,6 +128,7 @@
         },
         "9b45187d-d8a4-4d23-957e-8554aeaf163f": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "focal_point": "image_presentation",
             "mobile_focal_point": "image_presentation",
