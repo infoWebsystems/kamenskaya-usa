@@ -996,6 +996,7 @@
         "block-1": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/2.png",
             "focal_point": "image_presentation",
             "mobile_focal_point": "image_presentation",
             "title": "Image hero split",
@@ -1008,6 +1009,7 @@
         "block-0": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Alcohol_Inks.jpg",
             "focal_point": "image_presentation",
             "mobile_focal_point": "image_presentation",
             "title": "Image hero split",
