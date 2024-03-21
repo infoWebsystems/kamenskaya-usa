@@ -1,1 +1,398 @@
-{"sections":{"main":{"type":"main-page","disabled":true,"settings":{"enable_animation":true,"content_width":"custom","custom_content_width":700}},"rich-text-1":{"type":"rich-text","blocks":{"block-0":{"type":"heading","settings":{"title":"FAQ","heading_font_class":"fs-heading-1-base"}},"block-1":{"type":"spacer","settings":{"space":12}},"block-2":{"type":"text","disabled":true,"settings":{"text":"<p>Use this text area to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>","text_font_class":"fs-body-100"}},"block-3":{"type":"spacer","settings":{"space":12}}},"block_order":["block-0","block-1","block-2","block-3"],"settings":{"alignment":"center_center","enable_animation":true,"divider_style":"none","section_padding":"section--vertical-padding-top-bottom","content_width":"custom","custom_content_width":700}},"rich-text-2":{"type":"rich-text","blocks":{"block-0":{"type":"heading","settings":{"title":"Orders","heading_font_class":"fs-heading-3-base"}},"block-1":{"type":"text","disabled":true,"settings":{"text":"<p>Below are some of are common questions about orders<\/p>","text_font_class":"fs-body-100"}}},"block_order":["block-0","block-1"],"settings":{"alignment":"center_center","enable_animation":false,"divider_style":"none","section_padding":"section--vertical-padding-top-bottom","content_width":"custom","custom_content_width":700}},"collapsible-row-list-1":{"type":"collapsible-row-list","blocks":{"block-0":{"type":"item","settings":{"expand_by_default":false,"icon":"none","title":"How do I make a purchase?","text":"<p>Select the catalog section you are interested in and the product you like. Choose a color and volume and click on the \"Add to Bag\" button. Enter your contact details on the checkout page. Choose shipping and payment methods. Once your order has been placed we will ship it in 1-2 working days and let you know the tracking number.<\/p>"}},"block-1":{"type":"item","settings":{"expand_by_default":false,"icon":"none","title":"How do I know if my order is confirmed?","text":"<p>You will receive a confirmation e-mail  (we will use e-mail that you provided during checkout).<\/p>"}},"block-2":{"type":"item","disabled":true,"settings":{"expand_by_default":false,"icon":"none","title":"This is an example of a question that a customer might ask","text":"<p>This is an example of a response that you might give. It's good to be as thorough as possible in responses as that has a tendency to improve trust overall.<\/p>"}},"block-3":{"type":"item","disabled":true,"settings":{"expand_by_default":false,"icon":"none","title":"This is an example of a question that a customer might ask","text":"<p>This is an example of a response that you might give. It's good to be as thorough as possible in responses as that has a tendency to improve trust overall.<\/p>"}}},"block_order":["block-0","block-1","block-2","block-3"],"settings":{"title":"","heading_font_class":"fs-heading-3-base","subheading":"","subheading_font_class":"fs-heading-5-base","heading_alignment":"left","item_heading_font":"body","enable_animation":false,"divider_style":"none","section_padding":"section--vertical-padding-bottom-only","content_width":"custom","custom_content_width":850}},"rich-text-3":{"type":"rich-text","blocks":{"block-0":{"type":"heading","settings":{"title":"Shipping & Returns","heading_font_class":"fs-heading-3-base"}},"block-1":{"type":"text","disabled":true,"settings":{"text":"<p>Below are some common questions about shipping, returns, and exchanges<\/p>","text_font_class":"fs-body-100"}}},"block_order":["block-0","block-1"],"settings":{"alignment":"center_center","enable_animation":false,"divider_style":"none","section_padding":"section--vertical-padding-top-bottom","content_width":"custom","custom_content_width":700}},"collapsible-row-list-2":{"type":"collapsible-row-list","blocks":{"block-0":{"type":"item","settings":{"expand_by_default":false,"icon":"none","title":"Do you ship internationally?","text":"<p>Yes, we ship worldwide. <\/p><p>Please note that recipients of international shipments (ie outside EU) may be subject to additional import taxes, fees, and customs duties (hereafter, Import Fees), levied by the customs office of your shipping destination. Import Fees vary according to the customs regulations of the destination country, cannot be estimated prior to shipping and is the responsibility of the recipient. <\/p>"}},"block-1":{"type":"item","settings":{"expand_by_default":false,"icon":"none","title":"When will my order be shipped?","text":"<p>After you place your order we will get it ready for the shipment in 1-2 working days.<\/p>"}},"block-2":{"type":"item","settings":{"expand_by_default":false,"icon":"none","title":"How long will it take until I receive my order?","text":"<p>Planned delivery time* after we submit your parcel to courier company depends on the selected shipping option:<\/p><ol><li>Standard shipping (by post): EU - up to 7 days, other countries - 10-21 days<\/li><li>Expedited shipping with FedEx: <\/li><\/ol><ul><li>FedEx® International Connect Plus: 1-4 business days within Europe, 4 business days to the U.S., 3-5 business days to Asia-Pacific and the rest of the world<\/li><li>FedEx International Economy®: typically, 2-5 business days<\/li><li>FedEx International Priority® Express: typically, 1-3 business days<\/li><\/ul><p><em>*Transit times and delivery commitments may vary depending on the origin and destination of your shipment<\/em><\/p>"}},"block-3":{"type":"item","settings":{"expand_by_default":false,"icon":"none","title":"What is your return policy?","text":"<p>The buyer has the right to cancel the order any time before it is submitted to the courier company, and within 7 days after handing over the goods. Return of goods of proper quality is possible, if the product has retained its marketable appearance, consumer properties, and there is a document confirming the fact and conditions of purchase of the specified goods. The seller reserves the right to refuse to accept the goods if there are traces of their use. If the buyer rejects the goods of proper quality, the sum paid by the buyer, excluding the seller's costs of delivering the returned goods from the buyer, shall be returned to the buyer no later than 10 days from the date of the buyer's request and the return of the goods.<\/p>"}}},"block_order":["block-0","block-1","block-2","block-3"],"settings":{"title":"","heading_font_class":"fs-heading-3-base","subheading":"","subheading_font_class":"fs-heading-5-base","heading_alignment":"left","item_heading_font":"body","enable_animation":false,"divider_style":"none","section_padding":"section--vertical-padding-bottom-only","content_width":"custom","custom_content_width":850}},"rich-text-4":{"type":"rich-text","blocks":{"block-0":{"type":"heading","settings":{"title":"Products","heading_font_class":"fs-heading-3-base"}},"block-1":{"type":"text","disabled":true,"settings":{"text":"<p>Below are some common questions about our products<\/p>","text_font_class":"fs-body-100"}}},"block_order":["block-0","block-1"],"settings":{"alignment":"center_center","enable_animation":false,"divider_style":"none","section_padding":"section--vertical-padding-top-bottom","content_width":"custom","custom_content_width":700}},"collapsible-row-list-3":{"type":"collapsible-row-list","blocks":{"block-1":{"type":"item","settings":{"expand_by_default":false,"icon":"none","title":"Do you have gift cards?","text":"<p>Yes, we offer virtual gift cards with a value of 50, 100, 150 or 200 EUR. Please contact as in any convenient way for you to order it. <\/p><p><\/p><p><strong>Certificate Usage Rules:<\/strong><\/p><p>1. You can redeem your voucher once.<\/p><p>2. The voucher can be used for an unlimited period.<\/p><p>3. When choosing goods for a sum that exceeds the par value of the gift certificate, you may make an additional payment for the missing amount.<\/p><p>4. If you choose goods for less than the par value of the certificate, the rest of the money is not refunded.<\/p>"}},"block-0":{"type":"item","settings":{"expand_by_default":false,"icon":"none","title":"What are my options if the product I receive is defective?","text":"<p>If a defect is found in the goods, the buyer is entitled to file one of the following claims with the seller:<br\/>- To request a replacement with similar goods (the same trade mark and\/or article number);<br\/>- Replace with the same product of a different model (article), with a corresponding adjustment of the purchase price;<br\/>- claim a proportionate reduction of the purchase price;<br\/>- to demand a refund of the purchase price.<br\/><br\/>Customer complaints about returns of goods are accepted by e-mail info@kamenskaya.store.<\/p>"}},"block-2":{"type":"item","disabled":true,"settings":{"expand_by_default":false,"icon":"none","title":"This is an example of a question that a customer might ask","text":"<p>This is an example of a response that you might give. It's good to be as thorough as possible in responses as that has a tendency to improve trust overall.<\/p>"}},"block-3":{"type":"item","disabled":true,"settings":{"expand_by_default":false,"icon":"none","title":"This is an example of a question that a customer might ask","text":"<p>This is an example of a response that you might give. It's good to be as thorough as possible in responses as that has a tendency to improve trust overall.<\/p>"}}},"block_order":["block-1","block-0","block-2","block-3"],"settings":{"title":"","heading_font_class":"fs-heading-3-base","subheading":"","subheading_font_class":"fs-heading-5-base","heading_alignment":"left","item_heading_font":"body","enable_animation":false,"divider_style":"none","section_padding":"section--vertical-padding-bottom-only","content_width":"custom","custom_content_width":850}},"rich-text-5":{"type":"rich-text","blocks":{"block-0":{"type":"heading","settings":{"title":"Didn't find your answer?","heading_font_class":"fs-heading-3-base"}},"block-1":{"type":"text","settings":{"text":"<p>Don't hestitate to contact us<\/p>","text_font_class":"fs-body-100"}},"block-2":{"type":"button","settings":{"link":"shopify:\/\/pages\/contact","link_text":"Contact us","button_style":"btn--primary"}},"block-3":{"type":"spacer","settings":{"space":12}}},"block_order":["block-0","block-1","block-2","block-3"],"settings":{"alignment":"center_center","enable_animation":true,"divider_style":"none","section_padding":"section--vertical-padding-top-bottom","content_width":"custom","custom_content_width":700}}},"order":["main","rich-text-1","rich-text-2","collapsible-row-list-1","rich-text-3","collapsible-row-list-2","rich-text-4","collapsible-row-list-3","rich-text-5"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "enable_animation": true,
+        "content_width": "custom",
+        "custom_content_width": 700
+      }
+    },
+    "rich-text-1": {
+      "type": "rich-text",
+      "blocks": {
+        "block-0": {
+          "type": "heading",
+          "settings": {
+            "title": "FAQ",
+            "heading_font_class": "fs-heading-1-base"
+          }
+        },
+        "block-1": {
+          "type": "spacer",
+          "settings": {
+            "space": 12
+          }
+        },
+        "block-2": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Use this text area to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "text_font_class": "fs-body-100"
+          }
+        },
+        "block-3": {
+          "type": "spacer",
+          "settings": {
+            "space": 12
+          }
+        }
+      },
+      "block_order": [
+        "block-0",
+        "block-1",
+        "block-2",
+        "block-3"
+      ],
+      "settings": {
+        "alignment": "center_center",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom",
+        "content_width": "custom",
+        "custom_content_width": 700
+      }
+    },
+    "rich-text-2": {
+      "type": "rich-text",
+      "blocks": {
+        "block-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Orders",
+            "heading_font_class": "fs-heading-3-base"
+          }
+        },
+        "block-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Below are some of are common questions about orders<\/p>",
+            "text_font_class": "fs-body-100"
+          }
+        }
+      },
+      "block_order": [
+        "block-0",
+        "block-1"
+      ],
+      "settings": {
+        "alignment": "center_center",
+        "enable_animation": false,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom",
+        "content_width": "custom",
+        "custom_content_width": 700
+      }
+    },
+    "collapsible-row-list-1": {
+      "type": "collapsible-row-list",
+      "blocks": {
+        "block-0": {
+          "type": "item",
+          "settings": {
+            "expand_by_default": false,
+            "icon": "none",
+            "title": "How do I make a purchase?",
+            "text": "<p>Select the catalog section you are interested in and the product you like. Choose a color and volume and click on the \"Add to Bag\" button. Enter your contact details on the checkout page. Choose shipping and payment methods. Once your order has been placed we will ship it in 1-2 working days and let you know the tracking number.<\/p>"
+          }
+        },
+        "block-1": {
+          "type": "item",
+          "settings": {
+            "expand_by_default": false,
+            "icon": "none",
+            "title": "How do I know if my order is confirmed?",
+            "text": "<p>You will receive a confirmation e-mail  (we will use e-mail that you provided during checkout).<\/p>"
+          }
+        },
+        "block-2": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "expand_by_default": false,
+            "icon": "none",
+            "title": "This is an example of a question that a customer might ask",
+            "text": "<p>This is an example of a response that you might give. It's good to be as thorough as possible in responses as that has a tendency to improve trust overall.<\/p>"
+          }
+        },
+        "block-3": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "expand_by_default": false,
+            "icon": "none",
+            "title": "This is an example of a question that a customer might ask",
+            "text": "<p>This is an example of a response that you might give. It's good to be as thorough as possible in responses as that has a tendency to improve trust overall.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "block-0",
+        "block-1",
+        "block-2",
+        "block-3"
+      ],
+      "settings": {
+        "title": "",
+        "heading_font_class": "fs-heading-3-base",
+        "subheading": "",
+        "subheading_font_class": "fs-heading-5-base",
+        "heading_alignment": "left",
+        "item_heading_font": "body",
+        "enable_animation": false,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-bottom-only",
+        "content_width": "custom",
+        "custom_content_width": 850
+      }
+    },
+    "rich-text-3": {
+      "type": "rich-text",
+      "blocks": {
+        "block-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Shipping & Returns",
+            "heading_font_class": "fs-heading-3-base"
+          }
+        },
+        "block-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Below are some common questions about shipping, returns, and exchanges<\/p>",
+            "text_font_class": "fs-body-100"
+          }
+        }
+      },
+      "block_order": [
+        "block-0",
+        "block-1"
+      ],
+      "settings": {
+        "alignment": "center_center",
+        "enable_animation": false,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom",
+        "content_width": "custom",
+        "custom_content_width": 700
+      }
+    },
+    "collapsible-row-list-2": {
+      "type": "collapsible-row-list",
+      "blocks": {
+        "block-0": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "expand_by_default": false,
+            "icon": "none",
+            "title": "Do you ship internationally?",
+            "text": "<p>Yes, we ship worldwide. <\/p><p>Please note that recipients of international shipments (ie outside EU) may be subject to additional import taxes, fees, and customs duties (hereafter, Import Fees), levied by the customs office of your shipping destination. Import Fees vary according to the customs regulations of the destination country, cannot be estimated prior to shipping and is the responsibility of the recipient. <\/p>"
+          }
+        },
+        "block-1": {
+          "type": "item",
+          "settings": {
+            "expand_by_default": false,
+            "icon": "none",
+            "title": "When will my order be shipped?",
+            "text": "<p>After you place your order we will get it ready for the shipment in 1-2 working days.<\/p>"
+          }
+        },
+        "block-2": {
+          "type": "item",
+          "settings": {
+            "expand_by_default": false,
+            "icon": "none",
+            "title": "How long will it take until I receive my order?",
+            "text": "<p>Planned delivery time* after we submit your parcel to courier company depends on the selected shipping option:<\/p><ol><li>Standard shipping (by USPS): 7-14 working days<\/li><li>Expedited shipping with FedEx: <\/li><\/ol><ul><li>FedEx® International Connect Plus: 4 business days<\/li><li>FedEx International Economy®: typically, 2-5 business days<\/li><li>FedEx International Priority® Express: typically, 1-3 business days<\/li><\/ul><p><em>*Transit times and delivery commitments may vary depending on the origin and destination of your shipment<\/em><\/p>"
+          }
+        },
+        "block-3": {
+          "type": "item",
+          "settings": {
+            "expand_by_default": false,
+            "icon": "none",
+            "title": "What is your return policy?",
+            "text": "<p>The buyer has the right to cancel the order any time before it is submitted to the courier company, and within 7 days after handing over the goods. Return of goods of proper quality is possible, if the product has retained its marketable appearance, consumer properties, and there is a document confirming the fact and conditions of purchase of the specified goods. The seller reserves the right to refuse to accept the goods if there are traces of their use. If the buyer rejects the goods of proper quality, the sum paid by the buyer, excluding the seller's costs of delivering the returned goods from the buyer, shall be returned to the buyer no later than 10 days from the date of the buyer's request and the return of the goods.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "block-0",
+        "block-1",
+        "block-2",
+        "block-3"
+      ],
+      "settings": {
+        "title": "",
+        "heading_font_class": "fs-heading-3-base",
+        "subheading": "",
+        "subheading_font_class": "fs-heading-5-base",
+        "heading_alignment": "left",
+        "item_heading_font": "body",
+        "enable_animation": false,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-bottom-only",
+        "content_width": "custom",
+        "custom_content_width": 850
+      }
+    },
+    "rich-text-4": {
+      "type": "rich-text",
+      "blocks": {
+        "block-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Products",
+            "heading_font_class": "fs-heading-3-base"
+          }
+        },
+        "block-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Below are some common questions about our products<\/p>",
+            "text_font_class": "fs-body-100"
+          }
+        }
+      },
+      "block_order": [
+        "block-0",
+        "block-1"
+      ],
+      "settings": {
+        "alignment": "center_center",
+        "enable_animation": false,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom",
+        "content_width": "custom",
+        "custom_content_width": 700
+      }
+    },
+    "collapsible-row-list-3": {
+      "type": "collapsible-row-list",
+      "blocks": {
+        "block-1": {
+          "type": "item",
+          "settings": {
+            "expand_by_default": false,
+            "icon": "none",
+            "title": "Do you have gift cards?",
+            "text": "<p>Yes, we offer virtual gift cards with a value of 50, 100, 150 or 200 USD. Please contact as in any convenient way for you to order it. <\/p><p><\/p><p><strong>Certificate Usage Rules:<\/strong><\/p><p>1. You can redeem your voucher once.<\/p><p>2. The voucher can be used for an unlimited period.<\/p><p>3. When choosing goods for a sum that exceeds the par value of the gift certificate, you may make an additional payment for the missing amount.<\/p><p>4. If you choose goods for less than the par value of the certificate, the rest of the money is not refunded.<\/p>"
+          }
+        },
+        "block-0": {
+          "type": "item",
+          "settings": {
+            "expand_by_default": false,
+            "icon": "none",
+            "title": "What are my options if the product I receive is defective?",
+            "text": "<p>If a defect is found in the goods, the buyer is entitled to file one of the following claims with the seller:<br\/>- To request a replacement with similar goods (the same trade mark and\/or article number);<br\/>- Replace with the same product of a different model (article), with a corresponding adjustment of the purchase price;<br\/>- claim a proportionate reduction of the purchase price;<br\/>- to demand a refund of the purchase price.<br\/><br\/>Customer complaints about returns of goods are accepted by e-mail info@kamenskaya.store.<\/p>"
+          }
+        },
+        "block-2": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "expand_by_default": false,
+            "icon": "none",
+            "title": "This is an example of a question that a customer might ask",
+            "text": "<p>This is an example of a response that you might give. It's good to be as thorough as possible in responses as that has a tendency to improve trust overall.<\/p>"
+          }
+        },
+        "block-3": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "expand_by_default": false,
+            "icon": "none",
+            "title": "This is an example of a question that a customer might ask",
+            "text": "<p>This is an example of a response that you might give. It's good to be as thorough as possible in responses as that has a tendency to improve trust overall.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "block-1",
+        "block-0",
+        "block-2",
+        "block-3"
+      ],
+      "settings": {
+        "title": "",
+        "heading_font_class": "fs-heading-3-base",
+        "subheading": "",
+        "subheading_font_class": "fs-heading-5-base",
+        "heading_alignment": "left",
+        "item_heading_font": "body",
+        "enable_animation": false,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-bottom-only",
+        "content_width": "custom",
+        "custom_content_width": 850
+      }
+    },
+    "rich-text-5": {
+      "type": "rich-text",
+      "blocks": {
+        "block-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Didn't find your answer?",
+            "heading_font_class": "fs-heading-3-base"
+          }
+        },
+        "block-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Don't hestitate to contact us<\/p>",
+            "text_font_class": "fs-body-100"
+          }
+        },
+        "block-2": {
+          "type": "button",
+          "settings": {
+            "link": "shopify:\/\/pages\/contact",
+            "link_text": "Contact us",
+            "button_style": "btn--primary"
+          }
+        },
+        "block-3": {
+          "type": "spacer",
+          "settings": {
+            "space": 12
+          }
+        }
+      },
+      "block_order": [
+        "block-0",
+        "block-1",
+        "block-2",
+        "block-3"
+      ],
+      "settings": {
+        "alignment": "center_center",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom",
+        "content_width": "custom",
+        "custom_content_width": 700
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich-text-1",
+    "rich-text-2",
+    "collapsible-row-list-1",
+    "rich-text-3",
+    "collapsible-row-list-2",
+    "rich-text-4",
+    "collapsible-row-list-3",
+    "rich-text-5"
+  ]
+}
