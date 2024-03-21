@@ -7,6 +7,7 @@
       "blocks": {
         "announcement-bar-0": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "title": "<p>Free standard shipping to mainland EU countries on orders over 100 EUR<\/p>",
             "title_mobile": "",
@@ -21,21 +22,11 @@
             "title_mobile": "<p>Happy Women's Day! <\/p><p>Enjoy 15% off all products today with discount code MARCH8<\/p>",
             "link": ""
           }
-        },
-        "announcement-bar-1": {
-          "type": "announcement",
-          "disabled": true,
-          "settings": {
-            "title": "<p>Free standard shipping on orders over 100 EUR<\/p>",
-            "title_mobile": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
         "announcement-bar-0",
-        "announcement_9Vhd8G",
-        "announcement-bar-1"
+        "announcement_9Vhd8G"
       ],
       "settings": {
         "autoplay_enabled": true,
