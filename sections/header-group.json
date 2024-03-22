@@ -7,9 +7,8 @@
       "blocks": {
         "announcement-bar-0": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
-            "title": "<p>Free standard shipping to mainland EU countries on orders over 100 EUR<\/p>",
+            "title": "<p>Free shipping on orders over $100<\/p>",
             "title_mobile": "",
             "link": ""
           }
