@@ -49,7 +49,7 @@
     "product_listing_show_custom_badges": true,
     "cart_item_aspect_ratio": "natural",
     "enable_free_shipping_bar": true,
-    "free_shipping_threshold": "100",
+    "free_shipping_threshold": "69",
     "enable_cross_sells": false,
     "cross_sells_recommendations_type": "product-list",
     "quick_search_product_style": "list",
