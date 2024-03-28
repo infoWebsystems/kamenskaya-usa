@@ -1,1 +1,73 @@
-{"type":"custom.overlay","name":"t:groups.overlay_group.name","sections":{"quick-cart":{"type":"quick-cart","settings":{"enable_quick_cart":true,"show_product_currency":true,"promotion_text":"<p>Not sure where to start?<br\/>Try these collections:<\/p>","collection_list":["sets","best-sellers"],"collection_list_button_style":"btn--secondary"}},"popup":{"type":"popup","settings":{}}},"order":["quick-cart","popup"]}
+{
+  "type": "custom.overlay",
+  "name": "t:groups.overlay_group.name",
+  "sections": {
+    "quick-cart": {
+      "type": "quick-cart",
+      "settings": {
+        "enable_quick_cart": true,
+        "show_product_currency": true,
+        "promotion_text": "<p>Not sure where to start?<br\/>Try these collections:<\/p>",
+        "collection_list": [
+          "sets",
+          "best-sellers"
+        ],
+        "collection_list_button_style": "btn--secondary"
+      }
+    },
+    "popup": {
+      "type": "popup",
+      "blocks": {
+        "popup_signup_AEUTBf": {
+          "type": "popup_signup",
+          "settings": {
+            "delay": "timer_30000",
+            "frequency": "frequency_100000",
+            "show_on_exit_intent": false,
+            "disable_for_account_holders": true,
+            "show_on_specific_page": false,
+            "target_page": "",
+            "accent": "Get $5 off",
+            "heading": "Join us",
+            "heading_font_class": "fs-heading-2-base",
+            "subheading": "",
+            "text": "<p>Signup and get $5 off your first purchase with a value $49+<\/p>",
+            "link_text": "Get offer",
+            "dismiss_text": "No thanks",
+            "footer_text": "<p>By completing this form, you are signing up to receive our emails and can unsubscribe at any time<\/p>",
+            "tags": "newsletter",
+            "show_social_icons": true,
+            "popup_size": "medium",
+            "content_alignment": "center",
+            "image_position": "left",
+            "focal_point": "image_presentation",
+            "show_image_on_mobile": true,
+            "background_color": "#fff",
+            "text_color": "#000000",
+            "input_color": "#000000",
+            "input_background": "#fff",
+            "button_background_color": "#000000",
+            "button_text_color": "#FFFFFF",
+            "color_overlay": "#000",
+            "overlay_opacity": 0,
+            "enable_tab": true,
+            "tab_text": "Get $5 off",
+            "text_font_class": "fs-body-75",
+            "tab_position": "bottom_left_floating",
+            "tab_text_color": "#000000",
+            "tab_background_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "popup_signup_AEUTBf"
+      ],
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "quick-cart",
+    "popup"
+  ]
+}
