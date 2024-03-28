@@ -8,8 +8,8 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "title": "<p>Free shipping on orders over $100<\/p>",
-            "title_mobile": "",
+            "title": "<p>Free shipping on orders over $69<\/p>",
+            "title_mobile": "<p>Free shipping on orders over $69<\/p>",
             "link": ""
           }
         },
