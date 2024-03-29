@@ -191,13 +191,13 @@
         "enable_sticky_product_details": true,
         "show_breadcrumbs": true,
         "show_navigation_buttons": true,
-        "gallery_style": "grid",
+        "gallery_style": "thumbnails",
         "gallery_style_mobile": "carousel",
         "gallery_size": "medium",
         "gallery_overflow": "3",
         "enable_video_looping": true,
         "enable_product_lightbox": true,
-        "image_aspect_ratio": "natural",
+        "image_aspect_ratio": "square",
         "enable_gift_card_recipient": true,
         "enable_animation": true
       }
