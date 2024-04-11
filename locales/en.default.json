@@ -300,7 +300,7 @@
       "previous": "Previous"
     },
     "newsletter_form": {
-      "confirmation": "Thanks for subscribing!",
+      "confirmation": "Thank you! Please check your email to confirm your subscription!",
       "email_placeholder": "Your email",
       "submit": "Subscribe"
     },
