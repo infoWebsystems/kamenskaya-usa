@@ -58,7 +58,7 @@
             "collapse_on_mobile": true,
             "title": "policies",
             "show_title_on_desktop": true,
-            "link_list": "footer"
+            "link_list": "third-footer-menu"
           }
         },
         "footer-4": {
