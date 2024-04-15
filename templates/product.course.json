@@ -43,6 +43,7 @@
         },
         "text": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text_font_class": "fs-body-100",
             "text": "<p>The A-line Alcohol Inks are lush, translucent inks which blend easily with each other. An ideal tool for creating light and airy ink art paintings.<\/p>",
