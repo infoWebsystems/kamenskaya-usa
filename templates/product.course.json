@@ -35,6 +35,7 @@
         },
         "6f9723ce-ad6d-4ba7-99e5-75abc25908f3": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
             "column_placement": "right",
             "custom_liquid": "Volume: 15 ml (0.51 fl oz)"
@@ -74,6 +75,7 @@
         },
         "quantity_selector": {
           "type": "quantity_selector",
+          "disabled": true,
           "settings": {
             "show_labels": true
           }
@@ -114,7 +116,7 @@
         "description": {
           "type": "description",
           "settings": {
-            "title": "Video Review",
+            "title": "Description",
             "text_font_class": "fs-body-100",
             "column_placement": "left",
             "display_as_collapsible_row": true,
@@ -123,6 +125,7 @@
         },
         "accordion-1": {
           "type": "accordion",
+          "disabled": true,
           "settings": {
             "expand_by_default": false,
             "column_placement": "left",
@@ -134,6 +137,7 @@
         },
         "accordion-2": {
           "type": "accordion",
+          "disabled": true,
           "settings": {
             "expand_by_default": false,
             "column_placement": "left",
@@ -145,6 +149,7 @@
         },
         "accordion-3": {
           "type": "accordion",
+          "disabled": true,
           "settings": {
             "expand_by_default": false,
             "column_placement": "left",
@@ -156,6 +161,7 @@
         },
         "103e720b-049d-4099-a527-de2cb6f22e8f": {
           "type": "featured_products",
+          "disabled": true,
           "settings": {
             "heading": "Pairs well with",
             "column_placement": "left",
