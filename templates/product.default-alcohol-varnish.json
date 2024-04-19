@@ -97,7 +97,7 @@
             "icon_3": "chat",
             "text_3": "<p>Have questions? <a href=\"\/pages\/contact\" title=\"Contact\">Contact us<\/a><\/p>",
             "icon_4": "moving-truck",
-            "text_4": "",
+            "text_4": "<p>Free shipping on orders $69+<\/p>",
             "icon_5": "padlock",
             "text_5": "<p>Secure payment<\/p>",
             "icon_6": "none",
@@ -197,7 +197,7 @@
         "gallery_overflow": "3",
         "enable_video_looping": true,
         "enable_product_lightbox": true,
-        "image_aspect_ratio": "portrait",
+        "image_aspect_ratio": "square",
         "enable_gift_card_recipient": true,
         "enable_animation": true
       }
