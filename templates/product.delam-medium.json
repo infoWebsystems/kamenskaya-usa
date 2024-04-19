@@ -206,7 +206,7 @@
         "gallery_overflow": "3",
         "enable_video_looping": true,
         "enable_product_lightbox": true,
-        "image_aspect_ratio": "portrait",
+        "image_aspect_ratio": "square",
         "enable_gift_card_recipient": true,
         "enable_animation": true
       }
