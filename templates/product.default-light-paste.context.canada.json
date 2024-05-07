@@ -1,0 +1,8 @@
+{
+  "parent": "product.default-light-paste.json",
+  "context": {
+    "market": "canada"
+  },
+  "sections": {
+  }
+}
