@@ -1,0 +1,8 @@
+{
+  "parent": "product.default-metallic-inks.json",
+  "context": {
+    "market": "canada"
+  },
+  "sections": {
+  }
+}
