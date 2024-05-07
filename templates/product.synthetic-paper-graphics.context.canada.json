@@ -1,0 +1,8 @@
+{
+  "parent": "product.synthetic-paper-graphics.json",
+  "context": {
+    "market": "canada"
+  },
+  "sections": {
+  }
+}
