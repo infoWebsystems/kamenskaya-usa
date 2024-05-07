@@ -6,10 +6,16 @@
   "sections": {
     "main": {
       "settings": {
-        "gallery_style_mobile": "grid",
-        "gallery_style": "thumbnails"
+        "gallery_style": "thumbnails",
+        "gallery_style_mobile": "grid"
       },
       "blocks": {
+        "product_callouts-2": {
+          "settings": {
+            "icon_4": "none",
+            "text_4": ""
+          }
+        }
       }
     }
   }
