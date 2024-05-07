@@ -10,7 +10,8 @@
       "blocks": {
         "product_callouts-2": {
           "settings": {
-            "icon_4": "none"
+            "icon_4": "none",
+            "text_4": ""
           }
         }
       }
