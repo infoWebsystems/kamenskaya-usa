@@ -1,0 +1,8 @@
+{
+  "parent": "product.default-set-16-nude-inks.json",
+  "context": {
+    "market": "canada"
+  },
+  "sections": {
+  }
+}
