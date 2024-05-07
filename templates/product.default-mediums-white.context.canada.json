@@ -1,0 +1,8 @@
+{
+  "parent": "product.default-mediums-white.json",
+  "context": {
+    "market": "canada"
+  },
+  "sections": {
+  }
+}
