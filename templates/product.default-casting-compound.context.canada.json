@@ -1,0 +1,8 @@
+{
+  "parent": "product.default-casting-compound.json",
+  "context": {
+    "market": "canada"
+  },
+  "sections": {
+  }
+}
