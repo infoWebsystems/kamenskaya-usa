@@ -1,0 +1,8 @@
+{
+  "parent": "product.default-pastel-inks.json",
+  "context": {
+    "market": "canada"
+  },
+  "sections": {
+  }
+}
