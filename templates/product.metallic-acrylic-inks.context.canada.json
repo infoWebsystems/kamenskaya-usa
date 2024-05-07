@@ -1,0 +1,8 @@
+{
+  "parent": "product.metallic-acrylic-inks.json",
+  "context": {
+    "market": "canada"
+  },
+  "sections": {
+  }
+}
