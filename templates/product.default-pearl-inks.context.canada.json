@@ -1,0 +1,8 @@
+{
+  "parent": "product.default-pearl-inks.json",
+  "context": {
+    "market": "canada"
+  },
+  "sections": {
+  }
+}
