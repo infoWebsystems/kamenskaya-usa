@@ -1,0 +1,8 @@
+{
+  "parent": "product.default-product-100-ml.json",
+  "context": {
+    "market": "canada"
+  },
+  "sections": {
+  }
+}
