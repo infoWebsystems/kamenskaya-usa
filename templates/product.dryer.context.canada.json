@@ -1,0 +1,8 @@
+{
+  "parent": "product.dryer.json",
+  "context": {
+    "market": "canada"
+  },
+  "sections": {
+  }
+}
