@@ -1,0 +1,8 @@
+{
+  "parent": "product.default-potal-100.json",
+  "context": {
+    "market": "canada"
+  },
+  "sections": {
+  }
+}
