@@ -1,8 +1,0 @@
-{
-  "parent": "product.course.json",
-  "context": {
-    "market": "canada"
-  },
-  "sections": {
-  }
-}
