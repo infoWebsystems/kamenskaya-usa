@@ -4,5 +4,17 @@
     "market": "canada"
   },
   "sections": {
+    "main": {
+      "settings": {
+      },
+      "blocks": {
+        "product_callouts-2": {
+          "settings": {
+            "icon_4": "none",
+            "text_4": ""
+          }
+        }
+      }
+    }
   }
 }
