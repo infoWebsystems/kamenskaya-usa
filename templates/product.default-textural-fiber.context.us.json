@@ -1,0 +1,8 @@
+{
+  "parent": "product.default-textural-fiber.json",
+  "context": {
+    "market": "us"
+  },
+  "sections": {
+  }
+}
