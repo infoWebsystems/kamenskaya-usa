@@ -1,0 +1,8 @@
+{
+  "parent": "product.default-set4-inks.json",
+  "context": {
+    "market": "canada"
+  },
+  "sections": {
+  }
+}
