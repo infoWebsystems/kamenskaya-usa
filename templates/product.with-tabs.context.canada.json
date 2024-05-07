@@ -4,5 +4,13 @@
     "market": "canada"
   },
   "sections": {
+    "main": {
+      "settings": {
+        "gallery_style": "thumbnails",
+        "image_aspect_ratio": "square"
+      },
+      "blocks": {
+      }
+    }
   }
 }
