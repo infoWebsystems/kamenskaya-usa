@@ -1,0 +1,8 @@
+{
+  "parent": "product.default-black-paste.json",
+  "context": {
+    "market": "canada"
+  },
+  "sections": {
+  }
+}
