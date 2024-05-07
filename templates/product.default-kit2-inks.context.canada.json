@@ -1,0 +1,8 @@
+{
+  "parent": "product.default-kit2-inks.json",
+  "context": {
+    "market": "canada"
+  },
+  "sections": {
+  }
+}
