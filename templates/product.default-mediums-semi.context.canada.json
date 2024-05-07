@@ -1,0 +1,8 @@
+{
+  "parent": "product.default-mediums-semi.json",
+  "context": {
+    "market": "canada"
+  },
+  "sections": {
+  }
+}
