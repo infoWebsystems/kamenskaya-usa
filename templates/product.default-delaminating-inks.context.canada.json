@@ -1,0 +1,8 @@
+{
+  "parent": "product.default-delaminating-inks.json",
+  "context": {
+    "market": "canada"
+  },
+  "sections": {
+  }
+}
