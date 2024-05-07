@@ -1,0 +1,8 @@
+{
+  "parent": "product.empty-vial.json",
+  "context": {
+    "market": "canada"
+  },
+  "sections": {
+  }
+}
