@@ -1,0 +1,8 @@
+{
+  "parent": "product.delam-low.json",
+  "context": {
+    "market": "canada"
+  },
+  "sections": {
+  }
+}
