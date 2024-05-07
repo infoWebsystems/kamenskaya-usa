@@ -1,0 +1,8 @@
+{
+  "parent": "product.black-plastic.json",
+  "context": {
+    "market": "canada"
+  },
+  "sections": {
+  }
+}
