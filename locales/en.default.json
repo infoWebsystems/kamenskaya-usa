@@ -69,7 +69,7 @@
       "order_note_placeholder": "Add special instructions for the seller...",
       "remove": "Remove",
       "subtotal": "Subtotal",
-      "taxes_and_shipping_at_checkout": "Taxes and shipping calculated at checkout",
+      "taxes_and_shipping_at_checkout": "Taxes and shipping calculated at checkout. FREE US SHIPPING ON ORDERS $69+",
       "taxes_and_shipping_policy_at_checkout_html": "Taxes and <a href=\"{{ link }}\">shipping<\/a> calculated at checkout",
       "taxes_included_and_shipping_policy_html": "Tax included. <a href=\"{{ link }}\">Shipping<\/a> calculated at checkout.",
       "taxes_included_but_shipping_at_checkout": "Tax included and shipping calculated at checkout",
