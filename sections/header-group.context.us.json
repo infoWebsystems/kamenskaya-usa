@@ -4,5 +4,16 @@
     "market": "us"
   },
   "sections": {
+    "announcement-bar": {
+      "settings": {
+      },
+      "blocks": {
+        "announcement-bar-0": {
+          "settings": {
+            "title_mobile": "<p>FREE SHIPPING ON ORDERS $69+<\/p>"
+          }
+        }
+      }
+    }
   }
 }
