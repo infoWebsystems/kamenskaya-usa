@@ -583,7 +583,7 @@
         "6fa334f4-5c30-4b19-8344-5770acf77a1f": {
           "type": "submit",
           "settings": {
-            "title": "SEND A REQUEST",
+            "title": "SUBMIT",
             "size": "normal",
             "full_width": true
           }
