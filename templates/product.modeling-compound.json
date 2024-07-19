@@ -174,7 +174,7 @@
             "heading": "Pairs well with",
             "column_placement": "left",
             "max_products": 10,
-            "product_source": "app-recommendations",
+            "product_source": "custom-product-list",
             "product_list": [
               "texture-paste-light",
               "pouring-medium-for-fluid-art",
