@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
@@ -66,7 +75,7 @@
             "text": "",
             "text_font_class": "fs-body-100",
             "text_max_width": 100,
-            "link": "https:\/\/www.amazon.com\/stores\/page\/A84399D8-FC2E-4E73-BBEE-616A1185749F",
+            "link": "https:\/\/www.amazon.com\/stores\/page\/A84399D8-FC2E-4E73-BBEE-616A1185749F?maas=maas_adg_AAC2F1C596FAC24ED5C8D60AA0218EED_afap_abs&ref_=aa_maas&tag=maas",
             "link_text": "VISIT WEB-SITE",
             "button_style": "btn--callout"
           }
