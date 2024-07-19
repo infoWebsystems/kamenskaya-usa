@@ -170,7 +170,6 @@
         },
         "605ec25f-12fd-4d3d-8aa6-82f7a08d5471": {
           "type": "featured_products",
-          "disabled": true,
           "settings": {
             "heading": "Pairs well with",
             "column_placement": "left",
