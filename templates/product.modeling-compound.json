@@ -176,7 +176,12 @@
             "max_products": 10,
             "product_source": "app-recommendations",
             "product_list": [
-
+              "texture-paste-light",
+              "pouring-medium-for-fluid-art",
+              "acrylic-medium",
+              "w4981-vintage-rose",
+              "w002-pearlescent-gold",
+              "w4977-beige"
             ],
             "enable_swiper_mobile": true,
             "display_as_collapsible_row": true,
