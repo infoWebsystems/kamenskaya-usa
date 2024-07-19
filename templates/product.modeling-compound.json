@@ -146,6 +146,17 @@
             "custom_liquid": ""
           }
         },
+        "accordion_EM3fVL": {
+          "type": "accordion",
+          "settings": {
+            "expand_by_default": false,
+            "column_placement": "left",
+            "heading": "Instructions for restoration",
+            "content": "<p><strong>1. Preparing the Mixture:<\/strong><\/p><ul><li>Mix two components in a 2:1 ratio (A+B) in the desired amount.<\/li><\/ul><p><strong>2. Application:<\/strong><\/p><ul><li>Use the mixture to fill in the crack or recreate the necessary fragment.<\/li><\/ul><p><strong>3. Finishing:<\/strong><\/p><ul><li>After the mixture has dried, sand the surface with sandpaper and paint it in the desired color.<\/li><li>We recommend waiting at least 24 hours before painting to ensure the paste has fully dried.<\/li><\/ul>",
+            "page_for_content": "",
+            "custom_liquid": ""
+          }
+        },
         "accordion-3": {
           "type": "accordion",
           "settings": {
@@ -172,17 +183,6 @@
             "display_as_collapsible_row": true,
             "expand_by_default": false
           }
-        },
-        "accordion_EM3fVL": {
-          "type": "accordion",
-          "settings": {
-            "expand_by_default": false,
-            "column_placement": "right",
-            "heading": "Instructions for restoration",
-            "content": "<p><strong>1. Preparing the Mixture:<\/strong><\/p><ul><li>Mix two components in a 2:1 ratio (A+B) in the desired amount.<\/li><\/ul><p><strong>2. Application:<\/strong><\/p><ul><li>Use the mixture to fill in the crack or recreate the necessary fragment.<\/li><\/ul><p><strong>3. Finishing:<\/strong><\/p><ul><li>After the mixture has dried, sand the surface with sandpaper and paint it in the desired color.<\/li><li>We recommend waiting at least 24 hours before painting to ensure the paste has fully dried.<\/li><\/ul>",
-            "page_for_content": "",
-            "custom_liquid": ""
-          }
         }
       },
       "block_order": [
@@ -198,9 +198,9 @@
         "description",
         "accordion-1",
         "accordion-2",
+        "accordion_EM3fVL",
         "accordion-3",
-        "605ec25f-12fd-4d3d-8aa6-82f7a08d5471",
-        "accordion_EM3fVL"
+        "605ec25f-12fd-4d3d-8aa6-82f7a08d5471"
       ],
       "settings": {
         "enable_sticky_product_details": true,
