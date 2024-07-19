@@ -59,7 +59,7 @@
           "type": "text",
           "settings": {
             "text_font_class": "fs-body-100",
-            "text": "<p>Texture fiber for creating 3D fabric textures. 12 elastic fabric pieces (30x30 cm each) moistened in a thick composition to create a shape.<\/p>",
+            "text": "<p><strong>Two-component compound for preparing modeling paste.<\/strong><br\/>Intended for creating volumetric paintings, bas-reliefs and reliefs, strengthening plaster products when creating sculptures and art objects, restoration of stone and wooden products. Strong and elastic material, ensures the preservation and durability of the product. High adhesive characteristics allow the material to adhere to any surface and even to glass. Plastic and soft to work with. Does not cure quickly, which allows you to work for 60-90 minutes. After drying does not form cracks even in very thick layers. Easy to sand. Suitable for wet sanding. Time of full curing - 24-36 hours.<\/p>",
             "column_placement": "left"
           }
         },
@@ -115,6 +115,7 @@
         },
         "description": {
           "type": "description",
+          "disabled": true,
           "settings": {
             "title": "Video Review",
             "text_font_class": "fs-body-100",
@@ -129,19 +130,18 @@
             "expand_by_default": false,
             "column_placement": "left",
             "heading": "Description",
-            "content": "<ul><li>Textural (modeling) fiber - piece of fabric soaked in a special elastic material for creating 3D fabric textures.<\/li><li>Does not crack.<\/li><li>Keeps the shape well and has hight adhesive properties.<\/li><li>Moisture resistant.<\/li><\/ul>",
+            "content": "<ul><li>The mixture turns into a paste<\/li><li>For creating big volume<\/li><li>Plastic, easy to mold<\/li><li>Air-setting - no baking required<\/li><li>Durable, crack resistant<\/li><li>Can be sanded<\/li><\/ul>",
             "page_for_content": "",
             "custom_liquid": ""
           }
         },
         "accordion-2": {
           "type": "accordion",
-          "disabled": true,
           "settings": {
             "expand_by_default": false,
             "column_placement": "left",
-            "heading": "Recommendations",
-            "content": "",
+            "heading": "Instructions for creating volumetric paintings",
+            "content": "<p><strong>1. Mixing the Ingredients:<\/strong><\/p><ul><li>Combine ingredients A and B in a 2:1 ratio.<\/li><li>If a more liquid consistency is desired, add water gradually, ensuring it does not exceed 20% of the mixture's total mass.<\/li><\/ul><p><strong>2. Application:<\/strong><\/p><ul><li>Use a palette knife or your hands to mold the mixture.<\/li><li>Smooth out any irregularities with a damp brush. Be cautious not to use too much water, as it can cause cracks.<\/li><\/ul><p><strong>3. Adjustments:<\/strong><\/p><ul><li>After 12 hours, you can add more volume if needed or sand the surface with sandpaper.<\/li><li>To minimize dust while sanding, we recommend wet sanding. Dampen the area with a cloth during the process.<\/li><\/ul><p><strong>4. Curing time:<\/strong><\/p><ul><li>Allow 24-36 hours for full polymerization.<\/li><\/ul><p><strong>5. Painting:<\/strong><\/p><ul><li>Once fully dried, the piece can be painted.<\/li><li>For a white finish, use a white light texture paste.<\/li><li>For a matte finish, use acrylic ink diluted with acrylic medium.<\/li><li>For a glossy effect, use fluid art medium.<\/li><\/ul>",
             "page_for_content": "",
             "custom_liquid": ""
           }
