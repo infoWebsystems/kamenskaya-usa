@@ -113,6 +113,17 @@
             "column_placement": "left"
           }
         },
+        "accordion_7b3ycV": {
+          "type": "accordion",
+          "settings": {
+            "expand_by_default": false,
+            "column_placement": "left",
+            "heading": "Description",
+            "content": "<ul><li>Your Must-Have Alcohol Ink Supplies - heavyweight synthetic paper (200 gsm), designed for alcohol ink painting<\/li><li>Ideal Surface for Alcohol Ink - the non-absorbent, smooth surface with a matte finish is specially designed to enhance the flow and vibrancy of alcohol inks<\/li><li>Reworkable Surface - once dried, the inks can be easily removed with alcohol, allowing you to rework and perfect your designs without hassle<\/li><li>Stain-Free and Tear-Resistant<\/li><\/ul>",
+            "page_for_content": "",
+            "custom_liquid": ""
+          }
+        },
         "09a262b2-fb00-4246-93da-0f6f1a2be695": {
           "type": "featured_products",
           "settings": {
@@ -139,6 +150,7 @@
         "product_callouts-2",
         "share",
         "text",
+        "accordion_7b3ycV",
         "09a262b2-fb00-4246-93da-0f6f1a2be695"
       ],
       "settings": {
