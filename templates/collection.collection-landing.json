@@ -869,6 +869,7 @@
       "blocks": {
         "heading_m4Mc4j": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "title": "Video",
             "heading_font_class": "fs-heading-display-2"
@@ -876,6 +877,7 @@
         },
         "text_8eYFq4": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>Use this section to promote a particular feature with editorial video.<\/p>",
             "text_font_class": "fs-body-100"
@@ -883,6 +885,7 @@
         },
         "play_button_8hnD3n": {
           "type": "play-button",
+          "disabled": true,
           "settings": {
             "text": "Watch now",
             "button_layout": "full",
@@ -898,7 +901,8 @@
       "settings": {
         "video_source": "external",
         "video_url": "https:\/\/youtu.be\/myE4gU8y0Xc?si=k9Ncd-t7ArCuhY3p",
-        "loop": false,
+        "image": "shopify:\/\/shop_images\/Frame_2_4adb9d07-1573-4af9-a27a-21a0ff66c511.png",
+        "loop": true,
         "media_aspect_ratio": "landscape_wide_alt",
         "focal_point": "image_presentation",
         "text_position": "center_center",
