@@ -87,14 +87,15 @@
         "subheading_aFHT4J": {
           "type": "subheading",
           "settings": {
-            "subheading": "6 different collections with unique effects",
+            "subheading": "MADE BY ARTIST FOR AN ARTIST",
             "subheading_font_class": "fs-heading-5-base"
           }
         },
         "block-0": {
           "type": "text",
+          "disabled": true,
           "settings": {
-            "text": "<p>for professionals and beginners<\/p>",
+            "text": "<p>high concentration, complex shades, light fastness<\/p>",
             "text_font_class": "fs-body-75"
           }
         }
@@ -249,11 +250,11 @@
         "block-0": {
           "type": "column",
           "settings": {
-            "accent": "Accent",
-            "heading": "Column",
+            "accent": "",
+            "heading": "Make your choice:",
             "heading_link": "",
             "heading_font_class": "fs-heading-3-base",
-            "text": "<p>Use a multi-column section to create a gallery of images<\/p>",
+            "text": "<p>6 different collections with unique effects<\/p>",
             "text_font_class": "fs-body-100",
             "text_max_width": 100,
             "link": "",
