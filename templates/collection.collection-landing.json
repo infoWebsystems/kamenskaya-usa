@@ -818,14 +818,14 @@
         "block-2": {
           "type": "heading",
           "settings": {
-            "title": "Alcohol Inks for Professionals and Beginners",
+            "title": "HIGH CONCENTRATION, COMPLEX SHADES AND LIGHT FASTNESS",
             "heading_font_class": "fs-heading-2-base"
           }
         },
         "block-3": {
           "type": "text",
           "settings": {
-            "text": "<p>high concentration, complex shades and light fastness<\/p>",
+            "text": "<p>for professionals and beginners<\/p>",
             "text_font_class": "fs-body-200"
           }
         }
