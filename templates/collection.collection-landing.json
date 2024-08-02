@@ -30,37 +30,6 @@
         "section_padding": "section--vertical-padding-none"
       }
     },
-    "rich-text-1": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_mAYwET": {
-          "type": "heading",
-          "settings": {
-            "title": "KAMENSKAYA ALCOHOL INKS",
-            "heading_font_class": "fs-heading-2-base"
-          }
-        },
-        "block-0": {
-          "type": "text",
-          "settings": {
-            "text": "<p>High concentration, complex shades, light fastness<\/p>",
-            "text_font_class": "fs-body-200"
-          }
-        }
-      },
-      "block_order": [
-        "heading_mAYwET",
-        "block-0"
-      ],
-      "settings": {
-        "alignment": "center_center",
-        "enable_animation": true,
-        "divider_style": "none",
-        "section_padding": "section--vertical-padding-top-bottom",
-        "content_width": "custom",
-        "custom_content_width": 700
-      }
-    },
     "image-hero-1": {
       "type": "image-hero",
       "blocks": {
@@ -89,7 +58,7 @@
         "image_aspect": "original",
         "desktop_height": 75,
         "mobile_height": 75,
-        "image": "shopify:\/\/shop_images\/photo_2024-08-02_12.09.12.jpg",
+        "image": "shopify:\/\/shop_images\/IMG_3237.jpg",
         "focal_point": "image_presentation",
         "mobile_focal_point": "image_presentation",
         "media_link": "",
@@ -103,6 +72,45 @@
         "overlay_opacity": 0,
         "enable_animation": true,
         "section_padding": "section--vertical-padding-none"
+      }
+    },
+    "rich-text-1": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_mAYwET": {
+          "type": "heading",
+          "settings": {
+            "title": "KAMENSKAYA ALCOHOL INKS",
+            "heading_font_class": "fs-heading-2-base"
+          }
+        },
+        "subheading_aFHT4J": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "6 different collections with unique effects",
+            "subheading_font_class": "fs-heading-5-base"
+          }
+        },
+        "block-0": {
+          "type": "text",
+          "settings": {
+            "text": "<p>for professionals and beginners<\/p>",
+            "text_font_class": "fs-body-75"
+          }
+        }
+      },
+      "block_order": [
+        "heading_mAYwET",
+        "subheading_aFHT4J",
+        "block-0"
+      ],
+      "settings": {
+        "alignment": "center_center",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom",
+        "content_width": "full",
+        "custom_content_width": 700
       }
     },
     "multi-column-1": {
@@ -207,6 +215,7 @@
         "block-4",
         "block-5"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "subheading": "",
@@ -226,6 +235,201 @@
         "column_alignment_mobile": "center",
         "background_behind_columns": false,
         "background_color": "#e4e4e4",
+        "text_color": "#000000",
+        "button_background_color": "#000000",
+        "button_text_color": "#ffffff",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
+    "multi-column-2": {
+      "type": "multi-column",
+      "blocks": {
+        "block-0": {
+          "type": "column",
+          "settings": {
+            "accent": "Accent",
+            "heading": "Column",
+            "heading_link": "",
+            "heading_font_class": "fs-heading-3-base",
+            "text": "<p>Use a multi-column section to create a gallery of images<\/p>",
+            "text_font_class": "fs-body-100",
+            "text_max_width": 100,
+            "link": "",
+            "link_text": "",
+            "button_style": "btn--callout"
+          }
+        },
+        "block-1": {
+          "type": "image_column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cc863f7b80c4c8d1116182c027bc08ba.jpg",
+            "image_width": 100,
+            "aspect_ratio": "square",
+            "focal_point": "image_presentation",
+            "image_position": "above_text",
+            "image_link": "shopify:\/\/collections\/core-a-line",
+            "small_caption": "",
+            "accent": "",
+            "heading": "",
+            "heading_font_class": "fs-heading-4-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "text_max_width": 100,
+            "link": "",
+            "link_text": "",
+            "button_style": "btn--primary"
+          }
+        },
+        "block-2": {
+          "type": "image_column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/a3a73e6227bac56fbbfe7ef7d92e35ee.jpg",
+            "image_width": 100,
+            "aspect_ratio": "square",
+            "focal_point": "image_presentation",
+            "image_position": "above_text",
+            "image_link": "shopify:\/\/collections\/nude-inks",
+            "small_caption": "",
+            "accent": "",
+            "heading": "",
+            "heading_font_class": "fs-heading-4-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "text_max_width": 100,
+            "link": "",
+            "link_text": "",
+            "button_style": "btn--primary"
+          }
+        },
+        "block-3": {
+          "type": "image_column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/39c9b5435f93dfe8828c4a480a138974.jpg",
+            "image_width": 100,
+            "aspect_ratio": "square",
+            "focal_point": "image_presentation",
+            "image_position": "above_text",
+            "image_link": "shopify:\/\/collections\/metallic-inks",
+            "small_caption": "",
+            "accent": "",
+            "heading": "",
+            "heading_font_class": "fs-heading-4-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "text_max_width": 100,
+            "link": "",
+            "link_text": "",
+            "button_style": "btn--primary"
+          }
+        },
+        "image_column_4Ratb7": {
+          "type": "image_column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/89b51f1f57ba0159be457ddb80d3836b.jpg",
+            "image_width": 100,
+            "aspect_ratio": "natural",
+            "focal_point": "image_presentation",
+            "image_position": "above_text",
+            "image_link": "",
+            "small_caption": "",
+            "accent": "",
+            "heading": "Column with image",
+            "heading_font_class": "fs-heading-4-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "text_max_width": 100,
+            "link": "",
+            "link_text": "",
+            "button_style": "btn--primary"
+          }
+        },
+        "image_column_cetyyp": {
+          "type": "image_column",
+          "settings": {
+            "image_width": 100,
+            "aspect_ratio": "square",
+            "focal_point": "image_presentation",
+            "image_position": "above_text",
+            "image_link": "",
+            "small_caption": "",
+            "accent": "",
+            "heading": "Column with image",
+            "heading_font_class": "fs-heading-4-base",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post.<\/p>",
+            "text_font_class": "fs-body-100",
+            "text_max_width": 100,
+            "link": "",
+            "link_text": "",
+            "button_style": "btn--primary"
+          }
+        },
+        "image_column_e8P36K": {
+          "type": "image_column",
+          "settings": {
+            "image_width": 100,
+            "aspect_ratio": "square",
+            "focal_point": "image_presentation",
+            "image_position": "above_text",
+            "image_link": "",
+            "small_caption": "",
+            "accent": "",
+            "heading": "Column with image",
+            "heading_font_class": "fs-heading-4-base",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post.<\/p>",
+            "text_font_class": "fs-body-100",
+            "text_max_width": 100,
+            "link": "",
+            "link_text": "",
+            "button_style": "btn--primary"
+          }
+        },
+        "column_JLXY8L": {
+          "type": "column",
+          "settings": {
+            "accent": "",
+            "heading": "Column",
+            "heading_link": "",
+            "heading_font_class": "fs-heading-4-base",
+            "text": "<p>Use text to focus on your chosen product, collection, or blog post.<\/p>",
+            "text_font_class": "fs-body-100",
+            "text_max_width": 100,
+            "link": "",
+            "link_text": "",
+            "button_style": "btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "block-0",
+        "block-1",
+        "block-2",
+        "block-3",
+        "image_column_4Ratb7",
+        "image_column_cetyyp",
+        "image_column_e8P36K",
+        "column_JLXY8L"
+      ],
+      "settings": {
+        "title": "",
+        "subheading": "",
+        "subheading_link": "",
+        "subheading_link_text": "Your link here",
+        "heading_font_class": "fs-heading-3-base",
+        "heading_alignment": "left",
+        "content_vertical_alignment": "center",
+        "content_background_padding": "medium",
+        "columns": "4",
+        "column_spacing": 48,
+        "row_spacing": 28,
+        "column_alignment": "left",
+        "columns_mobile": "2",
+        "column_spacing_mobile": 20,
+        "row_spacing_mobile": 20,
+        "column_alignment_mobile": "left",
+        "background_behind_columns": false,
+        "background_color": "",
         "text_color": "#000000",
         "button_background_color": "#000000",
         "button_text_color": "#ffffff",
@@ -324,33 +528,34 @@
         "block-0": {
           "type": "accent",
           "settings": {
-            "accent": "Accent"
+            "accent": "forever best seller"
           }
         },
         "block-1": {
           "type": "heading",
           "settings": {
-            "title": "Image with text",
+            "title": "Gold Alcohol Ink",
             "heading_font_class": "fs-heading-display-2"
           }
         },
         "block-2": {
           "type": "text",
           "settings": {
-            "text": "<p>Highlight some details about your product<\/p>",
+            "text": "<p>Add right accent to your work!<\/p>",
             "text_font_class": "fs-body-200"
           }
         },
         "block-3": {
           "type": "button",
           "settings": {
-            "link": "",
-            "link_text": "Read more",
-            "button_style": "btn--primary"
+            "link": "shopify:\/\/collections\/metallic-inks",
+            "link_text": "Shop metallic alcohol inks",
+            "button_style": "btn--secondary"
           }
         },
         "block-4": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "link": "",
             "link_text": "Read more",
@@ -368,10 +573,12 @@
       "settings": {
         "image_position": "left",
         "text_alignment": "left",
+        "image": "shopify:\/\/shop_images\/IMG_8953.jpg",
         "aspect_ratio": "square",
         "focal_point": "image_presentation",
         "image_caption": "Optional image caption",
-        "show_small_image": true,
+        "show_small_image": false,
+        "image_small": "shopify:\/\/shop_images\/IMG_8953.jpg",
         "image_small_aspect_ratio": "square",
         "image_small_focal_point": "center",
         "background_color": "",
@@ -383,113 +590,48 @@
         "section_padding": "section--vertical-padding-top-bottom"
       }
     },
-    "multi-column-2": {
-      "type": "multi-column",
+    "featured_collection_slider_d7NPbT": {
+      "type": "featured-collection-slider",
       "blocks": {
-        "block-0": {
-          "type": "column",
+        "collection_qDwpqB": {
+          "type": "collection",
           "settings": {
-            "accent": "Accent",
-            "heading": "Column",
-            "heading_link": "",
-            "heading_font_class": "fs-heading-3-base",
-            "text": "<p>Use a multi-column section to create a gallery of images<\/p>",
-            "text_font_class": "fs-body-100",
-            "text_max_width": 100,
-            "link": "",
-            "link_text": "",
-            "button_style": "btn--callout"
+            "show_view_all": true,
+            "collection": "core-a-line",
+            "collection_name": "'A' Line"
           }
         },
-        "block-1": {
-          "type": "image_column",
+        "collection_XkFQi9": {
+          "type": "collection",
           "settings": {
-            "image_width": 100,
-            "aspect_ratio": "portrait",
-            "focal_point": "image_presentation",
-            "image_position": "above_text",
-            "image_link": "",
-            "small_caption": "",
-            "accent": "",
-            "heading": "",
-            "heading_font_class": "fs-heading-4-base",
-            "text": "",
-            "text_font_class": "fs-body-100",
-            "text_max_width": 100,
-            "link": "",
-            "link_text": "",
-            "button_style": "btn--primary"
+            "show_view_all": true,
+            "collection": "nude-inks",
+            "collection_name": "'Nude' inks"
           }
         },
-        "block-2": {
-          "type": "image_column",
+        "collection_LMkH4r": {
+          "type": "collection",
           "settings": {
-            "image_width": 100,
-            "aspect_ratio": "portrait",
-            "focal_point": "image_presentation",
-            "image_position": "above_text",
-            "image_link": "",
-            "small_caption": "",
-            "accent": "",
-            "heading": "",
-            "heading_font_class": "fs-heading-4-base",
-            "text": "",
-            "text_font_class": "fs-body-100",
-            "text_max_width": 100,
-            "link": "",
-            "link_text": "",
-            "button_style": "btn--primary"
-          }
-        },
-        "block-3": {
-          "type": "image_column",
-          "settings": {
-            "image_width": 100,
-            "aspect_ratio": "portrait",
-            "focal_point": "image_presentation",
-            "image_position": "above_text",
-            "image_link": "",
-            "small_caption": "",
-            "accent": "",
-            "heading": "",
-            "heading_font_class": "fs-heading-4-base",
-            "text": "",
-            "text_font_class": "fs-body-100",
-            "text_max_width": 100,
-            "link": "",
-            "link_text": "",
-            "button_style": "btn--primary"
+            "show_view_all": true,
+            "collection": "metallic-inks",
+            "collection_name": "Metallic"
           }
         }
       },
       "block_order": [
-        "block-0",
-        "block-1",
-        "block-2",
-        "block-3"
+        "collection_qDwpqB",
+        "collection_XkFQi9",
+        "collection_LMkH4r"
       ],
+      "disabled": true,
       "settings": {
-        "title": "",
+        "heading": "Featured collection",
         "subheading": "",
-        "subheading_link": "",
-        "subheading_link_text": "Your link here",
-        "heading_font_class": "fs-heading-3-base",
-        "heading_alignment": "left",
-        "content_vertical_alignment": "center",
-        "content_background_padding": "medium",
+        "link": "",
+        "link_text": "",
+        "maximum_products": 15,
         "columns": "4",
-        "column_spacing": 48,
-        "row_spacing": 28,
-        "column_alignment": "left",
-        "columns_mobile": "2",
-        "column_spacing_mobile": 20,
-        "row_spacing_mobile": 20,
-        "column_alignment_mobile": "left",
-        "background_behind_columns": false,
-        "background_color": "",
-        "text_color": "#000000",
-        "button_background_color": "#000000",
-        "button_text_color": "#ffffff",
+        "mobile_columns": "2",
         "enable_animation": true,
         "divider_style": "none",
         "section_padding": "section--vertical-padding-top-bottom"
@@ -557,6 +699,7 @@
         "block-5",
         "block-6"
       ],
+      "disabled": true,
       "settings": {
         "image_position": "right",
         "text_alignment": "left",
@@ -628,6 +771,7 @@
         "block-4",
         "block-5"
       ],
+      "disabled": true,
       "settings": {
         "image_aspect": "custom",
         "desktop_height": 80,
@@ -710,19 +854,69 @@
         "enable_animation": true,
         "divider_style": "solid"
       }
+    },
+    "video_YmPPEX": {
+      "type": "video",
+      "blocks": {
+        "heading_m4Mc4j": {
+          "type": "heading",
+          "settings": {
+            "title": "Video",
+            "heading_font_class": "fs-heading-display-2"
+          }
+        },
+        "text_8eYFq4": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Use this section to promote a particular feature with editorial video.<\/p>",
+            "text_font_class": "fs-body-100"
+          }
+        },
+        "play_button_8hnD3n": {
+          "type": "play-button",
+          "settings": {
+            "text": "Watch now",
+            "button_layout": "full",
+            "icon_style": "outline"
+          }
+        }
+      },
+      "block_order": [
+        "heading_m4Mc4j",
+        "text_8eYFq4",
+        "play_button_8hnD3n"
+      ],
+      "settings": {
+        "video_source": "external",
+        "video_url": "https:\/\/youtu.be\/myE4gU8y0Xc?si=k9Ncd-t7ArCuhY3p",
+        "loop": false,
+        "media_aspect_ratio": "landscape_wide_alt",
+        "focal_point": "image_presentation",
+        "text_position": "center_center",
+        "text_position_mobile": "center",
+        "button_background_color": "#FFF",
+        "color_overlay": "#000",
+        "color_overlay_text": "#FFF",
+        "color_overlay_gradient": "",
+        "overlay_opacity": 40,
+        "enable_animation": true,
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
     }
   },
   "order": [
     "banner",
-    "rich-text-1",
     "image-hero-1",
+    "rich-text-1",
     "multi-column-1",
+    "multi-column-2",
     "image-with-text-1",
     "image-with-text-2",
-    "multi-column-2",
+    "featured_collection_slider_d7NPbT",
     "image-with-text-3",
     "image-hero-2",
     "rich-text-2",
-    "product-grid"
+    "product-grid",
+    "video_YmPPEX"
   ]
 }
