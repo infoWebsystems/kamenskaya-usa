@@ -818,15 +818,15 @@
         "block-2": {
           "type": "heading",
           "settings": {
-            "title": "The collection",
+            "title": "Kamenskaya Alcohol Inks",
             "heading_font_class": "fs-heading-1-base"
           }
         },
         "block-3": {
           "type": "text",
           "settings": {
-            "text": "<p>Use this text area to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
-            "text_font_class": "fs-body-100"
+            "text": "<p>high concentration, complex shades and high light fastness<\/p>",
+            "text_font_class": "fs-body-200"
           }
         }
       },
