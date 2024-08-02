@@ -585,7 +585,7 @@
         "image": "shopify:\/\/shop_images\/IMG_8953.jpg",
         "aspect_ratio": "square",
         "focal_point": "image_presentation",
-        "image_caption": "Optional image caption",
+        "image_caption": "",
         "show_small_image": false,
         "image_small": "shopify:\/\/shop_images\/IMG_8953.jpg",
         "image_small_aspect_ratio": "square",
