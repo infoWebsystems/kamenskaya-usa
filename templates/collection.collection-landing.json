@@ -822,8 +822,16 @@
             "heading_font_class": "fs-heading-2-base"
           }
         },
+        "subheading_RiXTeA": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "for professionals and beginners",
+            "subheading_font_class": "fs-heading-5-base"
+          }
+        },
         "block-3": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>for professionals and beginners<\/p>",
             "text_font_class": "fs-body-200"
@@ -834,6 +842,7 @@
         "block-0",
         "block-1",
         "block-2",
+        "subheading_RiXTeA",
         "block-3"
       ],
       "settings": {
