@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
@@ -33,19 +42,28 @@
             "text_6": ""
           }
         },
+        "description": {
+          "type": "description",
+          "settings": {
+            "title": "",
+            "text_font_class": "fs-body-100",
+            "column_placement": "left",
+            "display_as_collapsible_row": false,
+            "expand_by_default": true
+          }
+        },
+        "custom_liquid_Qzrte8": {
+          "type": "custom_liquid",
+          "settings": {
+            "column_placement": "left",
+            "custom_liquid": "<iframe width=\"560\" height=\"315\" src=\"https:\/\/www.youtube.com\/embed\/5rZOhaIA2JI?si=rdo49szjAOnQvGUe\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen><\/iframe>"
+          }
+        },
         "76548701-d198-4d97-bf45-ad586c218f64": {
           "type": "custom_liquid",
           "settings": {
             "column_placement": "right",
             "custom_liquid": "Volume: 15 ml (0.51 fl oz)"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text_font_class": "fs-body-100",
-            "text": "<p>‘M’ line inks<strong> <\/strong>are shimmering series of metallic inks to create golden facets and light cobwebs. Perfectly match with the inks of all the ranges to create a magical tandem. Would you like to add the right accent to your work? Then you need metallic inks for sure!<\/p>",
-            "column_placement": "left"
           }
         },
         "variant_picker": {
@@ -111,16 +129,6 @@
           "settings": {
           }
         },
-        "description": {
-          "type": "description",
-          "settings": {
-            "title": "Video Review",
-            "text_font_class": "fs-body-100",
-            "column_placement": "left",
-            "display_as_collapsible_row": true,
-            "expand_by_default": true
-          }
-        },
         "accordion-1": {
           "type": "accordion",
           "settings": {
@@ -173,15 +181,15 @@
       "block_order": [
         "product_header",
         "product_callouts_mini",
+        "description",
+        "custom_liquid_Qzrte8",
         "76548701-d198-4d97-bf45-ad586c218f64",
-        "text",
         "variant_picker",
         "inventory_counter",
         "quantity_selector",
         "buy_buttons",
         "product_callouts-2",
         "share",
-        "description",
         "accordion-1",
         "accordion-2",
         "accordion-3",
@@ -193,7 +201,7 @@
         "show_navigation_buttons": true,
         "gallery_style": "thumbnails",
         "gallery_style_mobile": "carousel",
-        "gallery_size": "small",
+        "gallery_size": "medium",
         "gallery_overflow": "3",
         "enable_video_looping": true,
         "enable_product_lightbox": true,
