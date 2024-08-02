@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
@@ -48,12 +57,21 @@
             "custom_liquid": "Delamination degree: medium"
           }
         },
-        "text": {
-          "type": "text",
+        "description": {
+          "type": "description",
           "settings": {
+            "title": "",
             "text_font_class": "fs-body-100",
-            "text": "<p>Delaminating inks. If you're looking for experiments and want to create something new and unusual, you should definitely try these inks! You can use them to create volume without physically creating volume. Incredible texture. Paintings create themselves!<\/p><p>The paintings are created in the manner of fluid art: spill it, spread it and just leave it to dry! <\/p>",
-            "column_placement": "left"
+            "column_placement": "left",
+            "display_as_collapsible_row": false,
+            "expand_by_default": true
+          }
+        },
+        "custom_liquid_xQWp63": {
+          "type": "custom_liquid",
+          "settings": {
+            "column_placement": "left",
+            "custom_liquid": "<iframe width=\"560\" height=\"315\" src=\"https:\/\/www.youtube.com\/embed\/ZWDGxkM918c?si=lVzgy9ggqzJZLlFq\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen><\/iframe>"
           }
         },
         "variant_picker": {
@@ -119,16 +137,6 @@
           "settings": {
           }
         },
-        "description": {
-          "type": "description",
-          "settings": {
-            "title": "Video Review",
-            "text_font_class": "fs-body-100",
-            "column_placement": "left",
-            "display_as_collapsible_row": true,
-            "expand_by_default": true
-          }
-        },
         "accordion-1": {
           "type": "accordion",
           "settings": {
@@ -183,14 +191,14 @@
         "product_callouts_mini",
         "ce9f3f5b-7e96-45a4-8e8f-3e147fecc6e3",
         "9bd61dee-ffb6-447a-98ab-102450637825",
-        "text",
+        "description",
+        "custom_liquid_xQWp63",
         "variant_picker",
         "inventory_counter",
         "quantity_selector",
         "buy_buttons",
         "product_callouts-2",
         "share",
-        "description",
         "accordion-1",
         "accordion-2",
         "accordion-3",
