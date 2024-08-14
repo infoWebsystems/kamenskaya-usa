@@ -85,11 +85,11 @@
     "rich-text-1": {
       "type": "rich-text",
       "blocks": {
-        "text_xarLyp": {
-          "type": "text",
+        "heading_qJ4R7n": {
+          "type": "heading",
           "settings": {
-            "text": "<h1><strong>ALCOHOL INKS<\/strong><\/h1>",
-            "text_font_class": "fs-body-200"
+            "title": "ALCOHOL INKS",
+            "heading_font_class": "fs-heading-2-base"
           }
         },
         "accent_hiUiQ9": {
@@ -100,7 +100,7 @@
         }
       },
       "block_order": [
-        "text_xarLyp",
+        "heading_qJ4R7n",
         "accent_hiUiQ9"
       ],
       "settings": {
