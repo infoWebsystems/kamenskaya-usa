@@ -552,7 +552,7 @@
     "collection_list_grid_8B7AJt": {
       "type": "collection-list-grid",
       "settings": {
-        "heading": "Make your choice!",
+        "heading": "MAKE YOUR CHOICE!",
         "subheading": "<p>6 different alcohol inks collections with unique effects<\/p>",
         "link": "",
         "link_text": "",
@@ -602,6 +602,74 @@
         "overlay_title_background_style": "gradient",
         "overlay_text_color": "#ffffff",
         "overlay_title_background": "#000000",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
+    "image-with-text-2": {
+      "type": "image-with-text",
+      "blocks": {
+        "block-0": {
+          "type": "accent",
+          "settings": {
+            "accent": "forever best seller"
+          }
+        },
+        "block-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Gold Alcohol Ink",
+            "heading_font_class": "fs-heading-display-2"
+          }
+        },
+        "block-2": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Add right accent to your work!<\/p>",
+            "text_font_class": "fs-body-200"
+          }
+        },
+        "block-3": {
+          "type": "button",
+          "settings": {
+            "link": "shopify:\/\/collections\/metallic-inks",
+            "link_text": "Shop metallic alcohol inks",
+            "button_style": "btn--secondary"
+          }
+        },
+        "block-4": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "link": "",
+            "link_text": "Read more",
+            "button_style": "btn--secondary"
+          }
+        }
+      },
+      "block_order": [
+        "block-0",
+        "block-1",
+        "block-2",
+        "block-3",
+        "block-4"
+      ],
+      "settings": {
+        "image_position": "left",
+        "text_alignment": "left",
+        "image": "shopify:\/\/shop_images\/IMG_8953.jpg",
+        "aspect_ratio": "square",
+        "focal_point": "image_presentation",
+        "image_caption": "",
+        "show_small_image": false,
+        "image_small": "shopify:\/\/shop_images\/IMG_8953.jpg",
+        "image_small_aspect_ratio": "square",
+        "image_small_focal_point": "center",
+        "background_color": "",
+        "text_color": "#000000",
+        "button_background_color": "#000000",
+        "button_text_color": "#ffffff",
         "enable_animation": true,
         "divider_style": "none",
         "section_padding": "section--vertical-padding-top-bottom"
@@ -680,74 +748,6 @@
         "image_caption": "",
         "show_small_image": false,
         "image_small": "shopify:\/\/shop_images\/IMG_1956.jpg",
-        "image_small_aspect_ratio": "square",
-        "image_small_focal_point": "center",
-        "background_color": "",
-        "text_color": "#000000",
-        "button_background_color": "#000000",
-        "button_text_color": "#ffffff",
-        "enable_animation": true,
-        "divider_style": "none",
-        "section_padding": "section--vertical-padding-top-bottom"
-      }
-    },
-    "image-with-text-2": {
-      "type": "image-with-text",
-      "blocks": {
-        "block-0": {
-          "type": "accent",
-          "settings": {
-            "accent": "forever best seller"
-          }
-        },
-        "block-1": {
-          "type": "heading",
-          "settings": {
-            "title": "Gold Alcohol Ink",
-            "heading_font_class": "fs-heading-display-2"
-          }
-        },
-        "block-2": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Add right accent to your work!<\/p>",
-            "text_font_class": "fs-body-200"
-          }
-        },
-        "block-3": {
-          "type": "button",
-          "settings": {
-            "link": "shopify:\/\/collections\/metallic-inks",
-            "link_text": "Shop metallic alcohol inks",
-            "button_style": "btn--secondary"
-          }
-        },
-        "block-4": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "link": "",
-            "link_text": "Read more",
-            "button_style": "btn--secondary"
-          }
-        }
-      },
-      "block_order": [
-        "block-0",
-        "block-1",
-        "block-2",
-        "block-3",
-        "block-4"
-      ],
-      "settings": {
-        "image_position": "left",
-        "text_alignment": "left",
-        "image": "shopify:\/\/shop_images\/IMG_8953.jpg",
-        "aspect_ratio": "square",
-        "focal_point": "image_presentation",
-        "image_caption": "",
-        "show_small_image": false,
-        "image_small": "shopify:\/\/shop_images\/IMG_8953.jpg",
         "image_small_aspect_ratio": "square",
         "image_small_focal_point": "center",
         "background_color": "",
@@ -1097,8 +1097,8 @@
     "multi-column-2",
     "collection_list_grid_8B7AJt",
     "collection_list_slider_w99HzL",
-    "image-with-text-1",
     "image-with-text-2",
+    "image-with-text-1",
     "product-grid",
     "featured_collection_slider_TEmDFL",
     "testimonials_Tg8kTt",
