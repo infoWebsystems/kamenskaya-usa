@@ -30,18 +30,107 @@
         "section_padding": "section--vertical-padding-none"
       }
     },
-    "image-hero-1": {
+    "image_hero_dbYytq": {
       "type": "image-hero",
       "blocks": {
-        "heading_AwBxVw": {
+        "accent_MXJDy9": {
+          "type": "accent",
+          "disabled": true,
+          "settings": {
+            "accent": "kamenskaya"
+          }
+        },
+        "heading_VqpYUx": {
           "type": "heading",
           "disabled": true,
           "settings": {
-            "title": "ALCOHOL INKS",
+            "title": "Alcohol Inks",
+            "heading_font_class": "fs-heading-display-3"
+          }
+        },
+        "text_Q4fT6B": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>MADE BY ARTIST FOR AN ARTIST<\/p>",
+            "text_font_class": "fs-body-75"
+          }
+        }
+      },
+      "block_order": [
+        "accent_MXJDy9",
+        "heading_VqpYUx",
+        "text_Q4fT6B"
+      ],
+      "settings": {
+        "image_aspect": "original",
+        "desktop_height": 100,
+        "mobile_height": 100,
+        "image": "shopify:\/\/shop_images\/02.png",
+        "focal_point": "image_presentation",
+        "mobile_focal_point": "image_presentation",
+        "media_link": "",
+        "text_position": "center_center",
+        "text_position_mobile": "center_center",
+        "text_color": "#FFFFFF",
+        "button_background_color": "#FFFFFF",
+        "button_text_color": "#000000",
+        "color_overlay": "#000",
+        "color_overlay_gradient": "",
+        "overlay_opacity": 0,
+        "enable_animation": true,
+        "section_padding": "section--vertical-padding-none"
+      }
+    },
+    "rich-text-1": {
+      "type": "rich-text",
+      "blocks": {
+        "text_xarLyp": {
+          "type": "text",
+          "settings": {
+            "text": "<h1><strong>ALCOHOL INKS<\/strong><\/h1>",
+            "text_font_class": "fs-body-200"
+          }
+        },
+        "accent_hiUiQ9": {
+          "type": "accent",
+          "settings": {
+            "accent": "MADE BY ARTIST FOR AN ARTIST"
+          }
+        }
+      },
+      "block_order": [
+        "text_xarLyp",
+        "accent_hiUiQ9"
+      ],
+      "settings": {
+        "alignment": "center_center",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom",
+        "content_width": "full",
+        "custom_content_width": 700
+      }
+    },
+    "image_hero_QJJHL9": {
+      "type": "image-hero",
+      "blocks": {
+        "accent_TCHV76": {
+          "type": "accent",
+          "disabled": true,
+          "settings": {
+            "accent": "Accent"
+          }
+        },
+        "heading_N87Jwm": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "title": "Image hero",
             "heading_font_class": "fs-heading-display-2"
           }
         },
-        "block-1": {
+        "text_3xYH3f": {
           "type": "text",
           "disabled": true,
           "settings": {
@@ -51,7 +140,165 @@
         }
       },
       "block_order": [
+        "accent_TCHV76",
+        "heading_N87Jwm",
+        "text_3xYH3f"
+      ],
+      "settings": {
+        "image_aspect": "original",
+        "desktop_height": 100,
+        "mobile_height": 100,
+        "image": "shopify:\/\/shop_images\/05_bbf1a648-5d21-420e-baea-1b5629ab7ce1.jpg",
+        "focal_point": "image_presentation",
+        "mobile_focal_point": "image_presentation",
+        "media_link": "",
+        "text_position": "center_center",
+        "text_position_mobile": "center_center",
+        "text_color": "#FFFFFF",
+        "button_background_color": "#FFFFFF",
+        "button_text_color": "#000000",
+        "color_overlay": "#000",
+        "color_overlay_gradient": "",
+        "overlay_opacity": 0,
+        "enable_animation": true,
+        "section_padding": "section--vertical-padding-none"
+      }
+    },
+    "image_hero_ryiRiF": {
+      "type": "image-hero",
+      "blocks": {
+        "accent_8TiiWR": {
+          "type": "accent",
+          "disabled": true,
+          "settings": {
+            "accent": "Accent"
+          }
+        },
+        "heading_wnTVng": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "title": "Image hero",
+            "heading_font_class": "fs-heading-display-2"
+          }
+        },
+        "text_NNd7Ff": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Use these sections to promote a particular feature with editorial photography.<\/p>",
+            "text_font_class": "fs-body-100"
+          }
+        }
+      },
+      "block_order": [
+        "accent_8TiiWR",
+        "heading_wnTVng",
+        "text_NNd7Ff"
+      ],
+      "settings": {
+        "image_aspect": "original",
+        "desktop_height": 100,
+        "mobile_height": 100,
+        "image": "shopify:\/\/shop_images\/04_ea0cbf0f-9320-444e-8a72-f10419fdbd5a.jpg",
+        "focal_point": "image_presentation",
+        "mobile_focal_point": "image_presentation",
+        "media_link": "",
+        "text_position": "center_center",
+        "text_position_mobile": "center_center",
+        "text_color": "#FFFFFF",
+        "button_background_color": "#FFFFFF",
+        "button_text_color": "#000000",
+        "color_overlay": "#000",
+        "color_overlay_gradient": "",
+        "overlay_opacity": 0,
+        "enable_animation": true,
+        "section_padding": "section--vertical-padding-none"
+      }
+    },
+    "image_hero_VwMzmt": {
+      "type": "image-hero",
+      "blocks": {
+        "accent_NNh3wW": {
+          "type": "accent",
+          "disabled": true,
+          "settings": {
+            "accent": "Accent"
+          }
+        },
+        "heading_LM7JdM": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "title": "Image hero",
+            "heading_font_class": "fs-heading-display-2"
+          }
+        },
+        "text_W9LALE": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Use these sections to promote a particular feature with editorial photography.<\/p>",
+            "text_font_class": "fs-body-100"
+          }
+        }
+      },
+      "block_order": [
+        "accent_NNh3wW",
+        "heading_LM7JdM",
+        "text_W9LALE"
+      ],
+      "settings": {
+        "image_aspect": "original",
+        "desktop_height": 100,
+        "mobile_height": 100,
+        "image": "shopify:\/\/shop_images\/03_b8dd81d4-860c-46d4-8380-357055475896.jpg",
+        "focal_point": "image_presentation",
+        "mobile_focal_point": "image_presentation",
+        "media_link": "",
+        "text_position": "center_center",
+        "text_position_mobile": "center_center",
+        "text_color": "#FFFFFF",
+        "button_background_color": "#FFFFFF",
+        "button_text_color": "#000000",
+        "color_overlay": "#000",
+        "color_overlay_gradient": "",
+        "overlay_opacity": 0,
+        "enable_animation": true,
+        "section_padding": "section--vertical-padding-none"
+      }
+    },
+    "image-hero-1": {
+      "type": "image-hero",
+      "blocks": {
+        "heading_AwBxVw": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "title": "KAMENSKAYA",
+            "heading_font_class": "fs-heading-display-2"
+          }
+        },
+        "subheading_cVHgtT": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "subheading": "ALCOHOL INKS",
+            "subheading_font_class": "fs-heading-4-base"
+          }
+        },
+        "block-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>MADE BY ARTIST FOR AN ARTIST<\/p>",
+            "text_font_class": "fs-body-100"
+          }
+        }
+      },
+      "block_order": [
         "heading_AwBxVw",
+        "subheading_cVHgtT",
         "block-1"
       ],
       "settings": {
@@ -72,46 +319,6 @@
         "overlay_opacity": 0,
         "enable_animation": true,
         "section_padding": "section--vertical-padding-none"
-      }
-    },
-    "rich-text-1": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_mAYwET": {
-          "type": "heading",
-          "settings": {
-            "title": "KAMENSKAYA ALCOHOL INKS",
-            "heading_font_class": "fs-heading-2-base"
-          }
-        },
-        "subheading_aFHT4J": {
-          "type": "subheading",
-          "settings": {
-            "subheading": "MADE BY ARTIST FOR AN ARTIST",
-            "subheading_font_class": "fs-heading-5-base"
-          }
-        },
-        "block-0": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<p>high concentration, complex shades, light fastness<\/p>",
-            "text_font_class": "fs-body-75"
-          }
-        }
-      },
-      "block_order": [
-        "heading_mAYwET",
-        "subheading_aFHT4J",
-        "block-0"
-      ],
-      "settings": {
-        "alignment": "center_center",
-        "enable_animation": true,
-        "divider_style": "none",
-        "section_padding": "section--vertical-padding-top-bottom",
-        "content_width": "full",
-        "custom_content_width": 700
       }
     },
     "multi-column-1": {
@@ -420,6 +627,7 @@
         "image_column_e8P36K",
         "image_column_RBa4it"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "subheading": "",
@@ -442,6 +650,65 @@
         "text_color": "#000000",
         "button_background_color": "#000000",
         "button_text_color": "#ffffff",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
+    "collection_list_slider_w99HzL": {
+      "type": "collection-list-slider",
+      "settings": {
+        "heading": "Make your choice!",
+        "subheading": "<p>6 different alcohol inks collections with unique effects<\/p>",
+        "link": "",
+        "link_text": "",
+        "columns": "5",
+        "mobile_columns": "2",
+        "collection_list": [
+          "core-a-line",
+          "nude-inks",
+          "metallic-inks",
+          "nacre-chameleons",
+          "delaminating-inks",
+          "inks-for-petri-art",
+          "materials-for-ink-art"
+        ],
+        "collection_listing_aspect_ratio": "square",
+        "label_style": "overlay",
+        "overlay_title_background_style": "gradient",
+        "overlay_text_color": "#fff",
+        "overlay_title_background": "#000000",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
+    "collection_list_grid_8B7AJt": {
+      "type": "collection-list-grid",
+      "disabled": true,
+      "settings": {
+        "heading": "Make your choice!",
+        "subheading": "<p>6 different alcohol inks collections with unique effects<\/p>",
+        "link": "",
+        "link_text": "",
+        "columns": "3",
+        "mobile_columns": "2",
+        "collection_list": [
+          "core-a-line",
+          "nude-inks",
+          "metallic-inks",
+          "nacre-chameleons",
+          "delaminating-inks",
+          "inks-for-petri-art",
+          "sets",
+          "blending-solutions",
+          "materials-for-ink-art"
+        ],
+        "collection_listing_aspect_ratio": "square",
+        "label_style": "overlay",
+        "overlay_title_background_style": "gradient",
+        "overlay_text_color": "#fff",
+        "overlay_title_background": "#000000",
         "enable_animation": true,
         "divider_style": "none",
         "section_padding": "section--vertical-padding-top-bottom"
@@ -599,222 +866,9 @@
         "section_padding": "section--vertical-padding-top-bottom"
       }
     },
-    "featured_collection_slider_d7NPbT": {
-      "type": "featured-collection-slider",
-      "blocks": {
-        "collection_qDwpqB": {
-          "type": "collection",
-          "settings": {
-            "show_view_all": true,
-            "collection": "core-a-line",
-            "collection_name": "'A' Line"
-          }
-        },
-        "collection_XkFQi9": {
-          "type": "collection",
-          "settings": {
-            "show_view_all": true,
-            "collection": "nude-inks",
-            "collection_name": "'Nude' inks"
-          }
-        },
-        "collection_LMkH4r": {
-          "type": "collection",
-          "settings": {
-            "show_view_all": true,
-            "collection": "metallic-inks",
-            "collection_name": "Metallic"
-          }
-        }
-      },
-      "block_order": [
-        "collection_qDwpqB",
-        "collection_XkFQi9",
-        "collection_LMkH4r"
-      ],
-      "disabled": true,
-      "settings": {
-        "heading": "Featured collection",
-        "subheading": "",
-        "link": "",
-        "link_text": "",
-        "maximum_products": 15,
-        "columns": "4",
-        "mobile_columns": "2",
-        "enable_animation": true,
-        "divider_style": "none",
-        "section_padding": "section--vertical-padding-top-bottom"
-      }
-    },
-    "image-with-text-3": {
-      "type": "image-with-text",
-      "blocks": {
-        "block-0": {
-          "type": "accent",
-          "settings": {
-            "accent": "Accent"
-          }
-        },
-        "block-1": {
-          "type": "heading",
-          "settings": {
-            "title": "Image with text",
-            "heading_font_class": "fs-heading-display-3"
-          }
-        },
-        "block-2": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Highlight some details about your product<\/p>",
-            "text_font_class": "fs-body-200"
-          }
-        },
-        "block-3": {
-          "type": "button",
-          "settings": {
-            "link": "",
-            "link_text": "Shop this",
-            "button_style": "btn--primary"
-          }
-        },
-        "block-4": {
-          "type": "button",
-          "settings": {
-            "link": "",
-            "link_text": "Shop all",
-            "button_style": "btn--secondary"
-          }
-        },
-        "block-5": {
-          "type": "spacer",
-          "settings": {
-            "space": 24
-          }
-        },
-        "block-6": {
-          "type": "text",
-          "settings": {
-            "text": "<p>———<\/p><p>Include a small detail with a text block<\/p>",
-            "text_font_class": "fs-body-75"
-          }
-        }
-      },
-      "block_order": [
-        "block-0",
-        "block-1",
-        "block-2",
-        "block-3",
-        "block-4",
-        "block-5",
-        "block-6"
-      ],
-      "disabled": true,
-      "settings": {
-        "image_position": "right",
-        "text_alignment": "left",
-        "aspect_ratio": "square",
-        "focal_point": "image_presentation",
-        "image_caption": "Optional image caption",
-        "show_small_image": true,
-        "image_small_aspect_ratio": "square",
-        "image_small_focal_point": "center",
-        "background_color": "",
-        "text_color": "#000000",
-        "button_background_color": "#000000",
-        "button_text_color": "#ffffff",
-        "enable_animation": true,
-        "divider_style": "none",
-        "section_padding": "section--vertical-padding-top-bottom"
-      }
-    },
-    "image-hero-2": {
-      "type": "image-hero",
-      "blocks": {
-        "block-0": {
-          "type": "accent",
-          "settings": {
-            "accent": "Accent"
-          }
-        },
-        "block-1": {
-          "type": "heading",
-          "settings": {
-            "title": "Image hero",
-            "heading_font_class": "fs-heading-display-1"
-          }
-        },
-        "block-2": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Highlight some details about your product<\/p>",
-            "text_font_class": "fs-body-200"
-          }
-        },
-        "block-3": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Highlight some details about your product<\/p>",
-            "text_font_class": "fs-body-75"
-          }
-        },
-        "block-4": {
-          "type": "spacer",
-          "settings": {
-            "space": 16
-          }
-        },
-        "block-5": {
-          "type": "button",
-          "settings": {
-            "link": "",
-            "link_text": "Read more",
-            "button_style": "btn--primary"
-          }
-        }
-      },
-      "block_order": [
-        "block-0",
-        "block-1",
-        "block-2",
-        "block-3",
-        "block-4",
-        "block-5"
-      ],
-      "disabled": true,
-      "settings": {
-        "image_aspect": "custom",
-        "desktop_height": 80,
-        "mobile_height": 65,
-        "focal_point": "image_presentation",
-        "mobile_focal_point": "image_presentation",
-        "media_link": "",
-        "text_position": "flex-end_center",
-        "text_position_mobile": "center_center",
-        "text_color": "#ffffff",
-        "button_background_color": "#ffffff",
-        "button_text_color": "#000000",
-        "color_overlay": "#000000",
-        "color_overlay_gradient": "linear-gradient(90deg, rgba(0, 0, 0, 0) 31%, rgba(0, 0, 0, 1) 100%)",
-        "overlay_opacity": 60,
-        "enable_animation": true,
-        "section_padding": "section--vertical-padding-top-only"
-      }
-    },
     "rich-text-2": {
       "type": "rich-text",
       "blocks": {
-        "block-0": {
-          "type": "spacer",
-          "settings": {
-            "space": 24
-          }
-        },
-        "block-1": {
-          "type": "spacer",
-          "settings": {
-            "space": 12
-          }
-        },
         "block-2": {
           "type": "heading",
           "settings": {
@@ -839,8 +893,6 @@
         }
       },
       "block_order": [
-        "block-0",
-        "block-1",
         "block-2",
         "subheading_RiXTeA",
         "block-3"
@@ -858,7 +910,7 @@
       "type": "main-collection-product-grid",
       "settings": {
         "columns": "4",
-        "rows": "4",
+        "rows": "3",
         "show_item_count": true,
         "show_sort": true,
         "show_filters": true,
@@ -871,6 +923,137 @@
         "pagination": "click",
         "enable_animation": true,
         "divider_style": "solid"
+      }
+    },
+    "featured_collection_slider_TEmDFL": {
+      "type": "featured-collection-slider",
+      "blocks": {
+        "collection_PNLJGM": {
+          "type": "collection",
+          "settings": {
+            "show_view_all": true,
+            "collection": "core-a-line",
+            "collection_name": "'A' Line"
+          }
+        },
+        "collection_LQXzKi": {
+          "type": "collection",
+          "settings": {
+            "show_view_all": true,
+            "collection": "nude-inks",
+            "collection_name": "Pastel"
+          }
+        },
+        "collection_GqLALx": {
+          "type": "collection",
+          "settings": {
+            "show_view_all": true,
+            "collection": "metallic-inks",
+            "collection_name": "Metallic"
+          }
+        },
+        "product_list_cx4GYc": {
+          "type": "product_list",
+          "settings": {
+            "product_list": [
+              "m-041-northern-lights",
+              "m-042-moonlight",
+              "m-043-arctic",
+              "m-044-pearl",
+              "m-045-pink-sunset",
+              "m-046-neptune"
+            ],
+            "collection_name": "Nacre Chameleons"
+          }
+        },
+        "product_list_VHfrfY": {
+          "type": "product_list",
+          "settings": {
+            "product_list": [
+              "p-101-storm",
+              "copy-of-p-101-storm",
+              "p-103-baikal",
+              "p-104-maldives",
+              "p-105-bali",
+              "p-106-island",
+              "p-107-toad",
+              "p-108-malachite",
+              "p-109-asphalt",
+              "p-110-tomato",
+              "p-111-fuchsia",
+              "p-112-purple-blue",
+              "p-113-amethyst",
+              "p-114-marsal",
+              "p-115-eggplant",
+              "p-116-chocolate",
+              "p-117-ruby",
+              "p-118-flamingo",
+              "p-119-sakura",
+              "p-120-peach",
+              "p-121-black",
+              "p-122-sand",
+              "p-123-yellow-ochre"
+            ],
+            "collection_name": "Delaminating"
+          }
+        },
+        "product_list_B3CUji": {
+          "type": "product_list",
+          "settings": {
+            "product_list": [
+              "petri-1-white",
+              "petri-10-bright-red",
+              "petri-11-green-apple",
+              "petri-12-black",
+              "petri-13-chocolate",
+              "petri-2-sky-blue",
+              "petri-20-gold",
+              "petri-21-blueberry",
+              "petri-22-blue",
+              "petri-23-cornflower",
+              "petri-24-milk-malachite",
+              "petri-25-watermelon",
+              "petri-26-mustard",
+              "petri-27-moms-lipstick",
+              "petri-28-stormy-sky",
+              "petri-29-blackberry-yogurt",
+              "petri-3-orange",
+              "petri-30-silver",
+              "petri-31-lavender",
+              "petri-32-barbie-pink",
+              "petri-33-rowanberry",
+              "petri-34-turquoise",
+              "petri-4-blue",
+              "petri-5-lilac",
+              "petri-6-yellow",
+              "petri-7-pink",
+              "petri-8-purple",
+              "petri-9-green"
+            ],
+            "collection_name": "Inks for Resin"
+          }
+        }
+      },
+      "block_order": [
+        "collection_PNLJGM",
+        "collection_LQXzKi",
+        "collection_GqLALx",
+        "product_list_cx4GYc",
+        "product_list_VHfrfY",
+        "product_list_B3CUji"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "",
+        "subheading": "",
+        "link": "",
+        "link_text": "",
+        "maximum_products": 15,
+        "columns": "5",
+        "mobile_columns": "2",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom"
       }
     },
     "testimonials_Tg8kTt": {
@@ -1043,7 +1226,7 @@
         "color_overlay": "#000000",
         "color_overlay_text": "#ffffff",
         "color_overlay_gradient": "",
-        "overlay_opacity": 40,
+        "overlay_opacity": 30,
         "enable_animation": true,
         "section_padding": "section--vertical-padding-top-bottom"
       }
@@ -1051,17 +1234,21 @@
   },
   "order": [
     "banner",
-    "image-hero-1",
+    "image_hero_dbYytq",
     "rich-text-1",
+    "image_hero_QJJHL9",
+    "image_hero_ryiRiF",
+    "image_hero_VwMzmt",
+    "image-hero-1",
     "multi-column-1",
     "multi-column-2",
+    "collection_list_slider_w99HzL",
+    "collection_list_grid_8B7AJt",
     "image-with-text-1",
     "image-with-text-2",
-    "featured_collection_slider_d7NPbT",
-    "image-with-text-3",
-    "image-hero-2",
     "rich-text-2",
     "product-grid",
+    "featured_collection_slider_TEmDFL",
     "testimonials_Tg8kTt",
     "video_YmPPEX"
   ]
