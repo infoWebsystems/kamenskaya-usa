@@ -321,136 +321,6 @@
         "section_padding": "section--vertical-padding-none"
       }
     },
-    "multi-column-1": {
-      "type": "multi-column",
-      "blocks": {
-        "block-0": {
-          "type": "column",
-          "settings": {
-            "accent": "",
-            "heading": "Core 'A' line",
-            "heading_link": "shopify:\/\/collections\/core-a-line",
-            "heading_font_class": "fs-heading-4-base",
-            "text": "<p>light translucent<\/p>",
-            "text_font_class": "fs-body-100",
-            "text_max_width": 100,
-            "link": "",
-            "link_text": "",
-            "button_style": "btn--callout"
-          }
-        },
-        "block-1": {
-          "type": "column",
-          "settings": {
-            "accent": "",
-            "heading": "'Nude' inks",
-            "heading_link": "shopify:\/\/collections\/nude-inks",
-            "heading_font_class": "fs-heading-4-base",
-            "text": "<p>pastel<\/p>",
-            "text_font_class": "fs-body-100",
-            "text_max_width": 100,
-            "link": "",
-            "link_text": "",
-            "button_style": "btn--callout"
-          }
-        },
-        "block-2": {
-          "type": "column",
-          "settings": {
-            "accent": "",
-            "heading": "Metallic",
-            "heading_link": "shopify:\/\/collections\/metallic-inks",
-            "heading_font_class": "fs-heading-4-base",
-            "text": "<p>shimmering metallic<\/p>",
-            "text_font_class": "fs-body-100",
-            "text_max_width": 100,
-            "link": "",
-            "link_text": "",
-            "button_style": "btn--callout"
-          }
-        },
-        "block-3": {
-          "type": "column",
-          "settings": {
-            "accent": "",
-            "heading": "Pearl Chameleons",
-            "heading_link": "shopify:\/\/collections\/nacre-chameleons",
-            "heading_font_class": "fs-heading-4-base",
-            "text": "<p>shimmering pearlescent<\/p>",
-            "text_font_class": "fs-body-100",
-            "text_max_width": 100,
-            "link": "",
-            "link_text": "",
-            "button_style": "btn--callout"
-          }
-        },
-        "block-4": {
-          "type": "column",
-          "settings": {
-            "accent": "",
-            "heading": "Delaminating",
-            "heading_link": "shopify:\/\/collections\/delaminating-inks",
-            "heading_font_class": "fs-heading-4-base",
-            "text": "<p>cracking effects<\/p>",
-            "text_font_class": "fs-body-100",
-            "text_max_width": 100,
-            "link": "",
-            "link_text": "",
-            "button_style": "btn--callout"
-          }
-        },
-        "block-5": {
-          "type": "column",
-          "settings": {
-            "accent": "",
-            "heading": "Inks for Resin",
-            "heading_link": "shopify:\/\/collections\/inks-for-petri-art",
-            "heading_font_class": "fs-heading-4-base",
-            "text": "<p>petri effects<\/p>",
-            "text_font_class": "fs-body-100",
-            "text_max_width": 100,
-            "link": "",
-            "link_text": "",
-            "button_style": "btn--callout"
-          }
-        }
-      },
-      "block_order": [
-        "block-0",
-        "block-1",
-        "block-2",
-        "block-3",
-        "block-4",
-        "block-5"
-      ],
-      "disabled": true,
-      "settings": {
-        "title": "",
-        "subheading": "",
-        "subheading_link": "",
-        "subheading_link_text": "Your link here",
-        "heading_font_class": "fs-heading-3-base",
-        "heading_alignment": "left",
-        "content_vertical_alignment": "top",
-        "content_background_padding": "medium",
-        "columns": "6",
-        "column_spacing": 4,
-        "row_spacing": 20,
-        "column_alignment": "center",
-        "columns_mobile": "2",
-        "column_spacing_mobile": 4,
-        "row_spacing_mobile": 32,
-        "column_alignment_mobile": "center",
-        "background_behind_columns": false,
-        "background_color": "#e4e4e4",
-        "text_color": "#000000",
-        "button_background_color": "#000000",
-        "button_text_color": "#ffffff",
-        "enable_animation": true,
-        "divider_style": "none",
-        "section_padding": "section--vertical-padding-top-bottom"
-      }
-    },
     "multi-column-2": {
       "type": "multi-column",
       "blocks": {
@@ -658,8 +528,8 @@
     "collection_list_slider_w99HzL": {
       "type": "collection-list-slider",
       "settings": {
-        "heading": "Make your choice!",
-        "subheading": "<p>6 different alcohol inks collections with unique effects<\/p>",
+        "heading": "",
+        "subheading": "",
         "link": "",
         "link_text": "",
         "columns": "5",
@@ -1230,6 +1100,45 @@
         "enable_animation": true,
         "section_padding": "section--vertical-padding-top-bottom"
       }
+    },
+    "rich_text_gTbc6r": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_FAjnHM": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "title": "Rich text",
+            "heading_font_class": "fs-heading-2-base"
+          }
+        },
+        "text_naaTUp": {
+          "type": "text",
+          "settings": {
+            "text": "<p>6 different alcohol inks collections with unique effects<\/p>",
+            "text_font_class": "fs-body-100"
+          }
+        },
+        "accent_BkWLRQ": {
+          "type": "accent",
+          "settings": {
+            "accent": "make your choice!"
+          }
+        }
+      },
+      "block_order": [
+        "heading_FAjnHM",
+        "text_naaTUp",
+        "accent_BkWLRQ"
+      ],
+      "settings": {
+        "alignment": "left_left",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom",
+        "content_width": "custom",
+        "custom_content_width": 700
+      }
     }
   },
   "order": [
@@ -1240,7 +1149,6 @@
     "image_hero_QJJHL9",
     "image_hero_ryiRiF",
     "image_hero_VwMzmt",
-    "multi-column-1",
     "multi-column-2",
     "collection_list_slider_w99HzL",
     "collection_list_grid_8B7AJt",
@@ -1250,6 +1158,7 @@
     "product-grid",
     "featured_collection_slider_TEmDFL",
     "testimonials_Tg8kTt",
-    "video_YmPPEX"
+    "video_YmPPEX",
+    "rich_text_gTbc6r"
   ]
 }
