@@ -1126,9 +1126,10 @@
         "image_UrBimn": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/photo_2024-08-14_18.02.45.jpg",
             "focal_point": "image_presentation",
-            "title": "Image with caption",
-            "text": "<p>Use these sections to promote a particular feature with editorial photography.<\/p>"
+            "title": "Ceramic",
+            "text": "<p>Decorate cups and vases with inks for exclusive patterns.<\/p>"
           }
         },
         "image_64EVYe": {
