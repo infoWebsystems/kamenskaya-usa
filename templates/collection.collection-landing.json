@@ -620,7 +620,7 @@
           "type": "heading",
           "settings": {
             "title": "Gold Alcohol Ink",
-            "heading_font_class": "fs-heading-display-2"
+            "heading_font_class": "fs-heading-display-3"
           }
         },
         "block-2": {
@@ -657,7 +657,7 @@
       ],
       "settings": {
         "image_position": "left",
-        "text_alignment": "left",
+        "text_alignment": "center",
         "image": "shopify:\/\/shop_images\/IMG_8953.jpg",
         "aspect_ratio": "square",
         "focal_point": "image_presentation",
@@ -688,7 +688,7 @@
           "type": "heading",
           "settings": {
             "title": "Self-splitting effects",
-            "heading_font_class": "fs-heading-display-2"
+            "heading_font_class": "fs-heading-display-3"
           }
         },
         "block-2": {
@@ -741,7 +741,7 @@
       ],
       "settings": {
         "image_position": "right",
-        "text_alignment": "left",
+        "text_alignment": "center",
         "image": "shopify:\/\/shop_images\/IMG_2043.png",
         "aspect_ratio": "square",
         "focal_point": "image_presentation",
