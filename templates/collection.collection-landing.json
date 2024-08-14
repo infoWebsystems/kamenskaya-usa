@@ -1021,7 +1021,7 @@
         "testimonial_izY9Qr"
       ],
       "custom_css": [
-        ".testimonials__item-quote {font-size: 26px;}"
+        ".testimonials__item-quote {font-size: 16px;}"
       ],
       "settings": {
         "image_size": "small",
