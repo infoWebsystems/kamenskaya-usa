@@ -528,8 +528,8 @@
     "collection_list_slider_w99HzL": {
       "type": "collection-list-slider",
       "settings": {
-        "heading": "",
-        "subheading": "",
+        "heading": "MAKE YOUR CHOICE!",
+        "subheading": "<p>6 different alcohol inks collections with unique effects<\/p>",
         "link": "",
         "link_text": "",
         "columns": "5",
@@ -1100,45 +1100,6 @@
         "enable_animation": true,
         "section_padding": "section--vertical-padding-top-bottom"
       }
-    },
-    "rich_text_gTbc6r": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_FAjnHM": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "title": "Rich text",
-            "heading_font_class": "fs-heading-2-base"
-          }
-        },
-        "text_naaTUp": {
-          "type": "text",
-          "settings": {
-            "text": "<p>6 different alcohol inks collections with unique effects<\/p>",
-            "text_font_class": "fs-body-100"
-          }
-        },
-        "accent_BkWLRQ": {
-          "type": "accent",
-          "settings": {
-            "accent": "make your choice!"
-          }
-        }
-      },
-      "block_order": [
-        "heading_FAjnHM",
-        "text_naaTUp",
-        "accent_BkWLRQ"
-      ],
-      "settings": {
-        "alignment": "left_left",
-        "enable_animation": true,
-        "divider_style": "none",
-        "section_padding": "section--vertical-padding-top-bottom",
-        "content_width": "custom",
-        "custom_content_width": 700
-      }
     }
   },
   "order": [
@@ -1158,7 +1119,6 @@
     "product-grid",
     "featured_collection_slider_TEmDFL",
     "testimonials_Tg8kTt",
-    "video_YmPPEX",
-    "rich_text_gTbc6r"
+    "video_YmPPEX"
   ]
 }
