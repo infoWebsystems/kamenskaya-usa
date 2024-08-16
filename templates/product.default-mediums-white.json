@@ -203,55 +203,6 @@
         "enable_animation": true
       }
     },
-    "video_A7fUWj": {
-      "type": "video",
-      "blocks": {
-        "heading_zUYhYj": {
-          "type": "heading",
-          "settings": {
-            "title": "FREE LESSON",
-            "heading_font_class": "fs-heading-display-3"
-          }
-        },
-        "text_jHtJYP": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Learn how to create abstract painting using our brand White Acrylic Medium with Cracking Effect<\/p>",
-            "text_font_class": "fs-body-100"
-          }
-        },
-        "play_button_YfmVAU": {
-          "type": "play-button",
-          "settings": {
-            "text": "",
-            "button_layout": "minimal",
-            "icon_style": "outline"
-          }
-        }
-      },
-      "block_order": [
-        "heading_zUYhYj",
-        "text_jHtJYP",
-        "play_button_YfmVAU"
-      ],
-      "settings": {
-        "video_source": "external",
-        "video_url": "https:\/\/youtu.be\/xb9f2Y2dgbw",
-        "image": "shopify:\/\/shop_images\/photo_2024-08-16_13.36.08.jpg",
-        "loop": true,
-        "media_aspect_ratio": "landscape_wide_alt",
-        "focal_point": "image_presentation",
-        "text_position": "center_center",
-        "text_position_mobile": "center",
-        "button_background_color": "#FFF",
-        "color_overlay": "#000",
-        "color_overlay_text": "#FFF",
-        "color_overlay_gradient": "",
-        "overlay_opacity": 40,
-        "enable_animation": true,
-        "section_padding": "section--vertical-padding-top-bottom"
-      }
-    },
     "multi-column": {
       "type": "multi-column",
       "blocks": {
@@ -567,7 +518,6 @@
   },
   "order": [
     "main",
-    "video_A7fUWj",
     "multi-column",
     "image-hero",
     "image-with-text-1",
