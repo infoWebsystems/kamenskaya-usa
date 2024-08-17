@@ -371,7 +371,7 @@
             "aspect_ratio": "square",
             "focal_point": "image_presentation",
             "image_position": "above_text",
-            "image_link": "shopify:\/\/collections\/core-a-line",
+            "image_link": "shopify:\/\/collections\/alcohol-inks-core-a-line",
             "small_caption": "",
             "accent": "light translucent",
             "heading": "'A' Line",
@@ -559,7 +559,7 @@
         "columns": "4",
         "mobile_columns": "2",
         "collection_list": [
-          "core-a-line",
+          "alcohol-inks-core-a-line",
           "nude-inks",
           "metallic-inks",
           "nacre-chameleons",
@@ -589,7 +589,7 @@
         "columns": "5",
         "mobile_columns": "2",
         "collection_list": [
-          "core-a-line",
+          "alcohol-inks-core-a-line",
           "nude-inks",
           "metallic-inks",
           "nacre-chameleons",
@@ -928,7 +928,7 @@
           "type": "collection",
           "settings": {
             "show_view_all": true,
-            "collection": "core-a-line",
+            "collection": "alcohol-inks-core-a-line",
             "collection_name": "'A' Line"
           }
         },
