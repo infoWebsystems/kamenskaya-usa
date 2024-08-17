@@ -392,7 +392,7 @@
             "aspect_ratio": "square",
             "focal_point": "image_presentation",
             "image_position": "above_text",
-            "image_link": "shopify:\/\/collections\/nude-inks",
+            "image_link": "shopify:\/\/collections\/pastel-alcohol-inks",
             "small_caption": "",
             "accent": "pastel shades",
             "heading": "'Nude' Inks",
@@ -560,7 +560,7 @@
         "mobile_columns": "2",
         "collection_list": [
           "alcohol-inks-core-a-line",
-          "nude-inks",
+          "pastel-alcohol-inks",
           "metallic-inks",
           "nacre-chameleons",
           "delaminating-inks",
@@ -590,7 +590,7 @@
         "mobile_columns": "2",
         "collection_list": [
           "alcohol-inks-core-a-line",
-          "nude-inks",
+          "pastel-alcohol-inks",
           "metallic-inks",
           "nacre-chameleons",
           "delaminating-inks",
@@ -936,7 +936,7 @@
           "type": "collection",
           "settings": {
             "show_view_all": true,
-            "collection": "nude-inks",
+            "collection": "pastel-alcohol-inks",
             "collection_name": "Pastel"
           }
         },
