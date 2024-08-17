@@ -455,7 +455,7 @@
             "aspect_ratio": "square",
             "focal_point": "image_presentation",
             "image_position": "above_text",
-            "image_link": "shopify:\/\/collections\/delaminating-inks",
+            "image_link": "shopify:\/\/collections\/delaminating-alcohol-inks",
             "small_caption": "",
             "accent": "self-splitting effects",
             "heading": "Delaminating Inks",
@@ -563,7 +563,7 @@
           "pastel-alcohol-inks",
           "metallic-alcohol-inks",
           "shimmering-alcohol-inks",
-          "delaminating-inks",
+          "delaminating-alcohol-inks",
           "inks-for-petri-art",
           "sets",
           "blending-solutions"
@@ -593,7 +593,7 @@
           "pastel-alcohol-inks",
           "metallic-alcohol-inks",
           "shimmering-alcohol-inks",
-          "delaminating-inks",
+          "delaminating-alcohol-inks",
           "inks-for-petri-art",
           "materials-for-ink-art"
         ],
@@ -807,7 +807,7 @@
         "block-3": {
           "type": "button",
           "settings": {
-            "link": "shopify:\/\/collections\/delaminating-inks",
+            "link": "shopify:\/\/collections\/delaminating-alcohol-inks",
             "link_text": "Shop delaminating inks",
             "button_style": "btn--secondary"
           }

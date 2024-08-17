@@ -62,7 +62,7 @@
             "link_1": "",
             "link_text_1": "Read more",
             "button_style_1": "btn--primary",
-            "link_2": "shopify:\/\/collections\/delaminating-inks",
+            "link_2": "shopify:\/\/collections\/delaminating-alcohol-inks",
             "link_text_2": "Shop now",
             "button_style_2": "btn--primary",
             "text_color": "#ffffff",
@@ -533,7 +533,7 @@
             "subheading_font_class": "fs-heading-5-base",
             "text": "",
             "text_font_class": "fs-body-100",
-            "link": "shopify:\/\/collections\/delaminating-inks",
+            "link": "shopify:\/\/collections\/delaminating-alcohol-inks",
             "link_text": "Shop delaminating inks",
             "button_style": "btn--callout",
             "background_color": "",
@@ -632,7 +632,7 @@
         "columns": "3",
         "mobile_columns": "1",
         "collection_list": [
-          "delaminating-inks",
+          "delaminating-alcohol-inks",
           "gilding",
           "shimmering-alcohol-inks"
         ],
@@ -978,7 +978,7 @@
         "collection_list": [
           "shimmering-alcohol-inks",
           "gilding",
-          "delaminating-inks",
+          "delaminating-alcohol-inks",
           "sets"
         ],
         "collection_listing_aspect_ratio": "square",
