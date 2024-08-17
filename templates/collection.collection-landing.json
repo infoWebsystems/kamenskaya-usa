@@ -413,7 +413,7 @@
             "aspect_ratio": "square",
             "focal_point": "image_presentation",
             "image_position": "above_text",
-            "image_link": "shopify:\/\/collections\/metallic-inks",
+            "image_link": "shopify:\/\/collections\/metallic-alcohol-inks",
             "small_caption": "",
             "accent": "Shimmering metallic",
             "heading": "Metallic Inks",
@@ -561,7 +561,7 @@
         "collection_list": [
           "alcohol-inks-core-a-line",
           "pastel-alcohol-inks",
-          "metallic-inks",
+          "metallic-alcohol-inks",
           "nacre-chameleons",
           "delaminating-inks",
           "inks-for-petri-art",
@@ -591,7 +591,7 @@
         "collection_list": [
           "alcohol-inks-core-a-line",
           "pastel-alcohol-inks",
-          "metallic-inks",
+          "metallic-alcohol-inks",
           "nacre-chameleons",
           "delaminating-inks",
           "inks-for-petri-art",
@@ -738,7 +738,7 @@
         "block-3": {
           "type": "button",
           "settings": {
-            "link": "shopify:\/\/collections\/metallic-inks",
+            "link": "shopify:\/\/collections\/metallic-alcohol-inks",
             "link_text": "Shop metallic alcohol inks",
             "button_style": "btn--secondary"
           }
@@ -944,7 +944,7 @@
           "type": "collection",
           "settings": {
             "show_view_all": true,
-            "collection": "metallic-inks",
+            "collection": "metallic-alcohol-inks",
             "collection_name": "Metallic"
           }
         },
