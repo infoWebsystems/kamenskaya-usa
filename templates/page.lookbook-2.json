@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
@@ -289,7 +298,7 @@
         "block-0": {
           "type": "hotspot",
           "settings": {
-            "product_item": "a-02-yellow",
+            "product_item": "alcohol-ink-a-02-yellow",
             "horizontal_position": 34,
             "vertical_position": 72
           }
@@ -550,13 +559,13 @@
         "block-0": {
           "type": "product",
           "settings": {
-            "product_item": "a-02-yellow"
+            "product_item": "alcohol-ink-a-02-yellow"
           }
         },
         "block-1": {
           "type": "product",
           "settings": {
-            "product_item": "a-01-white"
+            "product_item": "alcohol-ink-a-01-white"
           }
         },
         "block-2": {
@@ -568,7 +577,7 @@
         "block-3": {
           "type": "product",
           "settings": {
-            "product_item": "a-06-brown-chestnut"
+            "product_item": "alcohol-ink-a-06-brown-chestnut"
           }
         }
       },
