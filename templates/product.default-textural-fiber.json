@@ -111,7 +111,7 @@
             "title": "",
             "text_font_class": "fs-body-100",
             "column_placement": "left",
-            "display_as_collapsible_row": true,
+            "display_as_collapsible_row": false,
             "expand_by_default": true
           }
         },
