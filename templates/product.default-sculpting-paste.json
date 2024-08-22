@@ -62,12 +62,21 @@
             "chip_layout": "3col"
           }
         },
-        "text": {
-          "type": "text",
+        "description": {
+          "type": "description",
           "settings": {
+            "title": "",
             "text_font_class": "fs-body-100",
-            "text": "<p>Sculpting white paste - plastic paper paste based on cellulose fibers. Great tool for sculpting! <\/p><p>The thick, soft texture allows you to create sculptures and bas-reliefs with the highest level of detail. It is very popular for creating botanical bas-reliefs, corals, as well as for decorating vases and creating three-dimensional panels. <\/p><p>Easy to apply with a palette knive, as well as to mold with your hands. Can be painted in different colors by mixing with acrylic ink. After drying the product becomes hard as plastic, which is difficult to break. The paste does not form cracks even in thick layers. Has high adhesive properties that allows it to stick even to slippery surfaces.<\/p>",
-            "column_placement": "left"
+            "column_placement": "left",
+            "display_as_collapsible_row": false,
+            "expand_by_default": true
+          }
+        },
+        "custom_liquid_YrzR8j": {
+          "type": "custom_liquid",
+          "settings": {
+            "column_placement": "left",
+            "custom_liquid": "<iframe width=\"560\" height=\"315\" src=\"https:\/\/www.youtube.com\/embed\/jvuwaW_JGr4?si=RFiCfD9YM8kuK7LO\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen><\/iframe>"
           }
         },
         "inventory_counter": {
@@ -118,16 +127,6 @@
         "share": {
           "type": "share",
           "settings": {
-          }
-        },
-        "description": {
-          "type": "description",
-          "settings": {
-            "title": "Video Review",
-            "text_font_class": "fs-body-100",
-            "column_placement": "left",
-            "display_as_collapsible_row": true,
-            "expand_by_default": true
           }
         },
         "accordion-1": {
@@ -184,13 +183,13 @@
         "product_callouts_mini",
         "abc6ba3f-a25a-4bb6-8170-54d3a71ced72",
         "variant_picker",
-        "text",
+        "description",
+        "custom_liquid_YrzR8j",
         "inventory_counter",
         "quantity_selector",
         "buy_buttons",
         "product_callouts-2",
         "share",
-        "description",
         "accordion-1",
         "accordion-2",
         "accordion-3",
