@@ -63,12 +63,14 @@
             "chip_layout": "3col"
           }
         },
-        "text": {
-          "type": "text",
+        "description": {
+          "type": "description",
           "settings": {
+            "title": "",
             "text_font_class": "fs-body-100",
-            "text": "<p>Light white texture paste. <\/p><p>Light pasty consistency, medium thickness, white color. <\/p><p>Modeling paste allows you to add relief and texture to your paintings. The material holds its shape well and makes it easy to create textures. Thanks to the large amount of rubber, which is a component of the paste, the product is resistant to deformation and moisture. The paste is easy to sand with sandpaper, adheres reliably to any surface. <\/p><p>Perfect for creating art projects. <\/p><p>Directions for use: apply the paste to the surface of the canvas or art board with a palette knife. Spread the paste over the entire format. Create chaotic strokes with the palette knife.<\/p><p>Recommendations: stir the paste well with the palette knife before laying out the form. Remember, a common cause of cracks or breaks in the paste after drying is air bubbles inside the material.<\/p>",
-            "column_placement": "left"
+            "column_placement": "left",
+            "display_as_collapsible_row": false,
+            "expand_by_default": true
           }
         },
         "inventory_counter": {
@@ -119,17 +121,6 @@
         "share": {
           "type": "share",
           "settings": {
-          }
-        },
-        "description": {
-          "type": "description",
-          "disabled": true,
-          "settings": {
-            "title": "Video Review",
-            "text_font_class": "fs-body-100",
-            "column_placement": "left",
-            "display_as_collapsible_row": true,
-            "expand_by_default": true
           }
         },
         "accordion-1": {
@@ -186,13 +177,12 @@
         "product_callouts_mini",
         "0870bae8-9594-4e62-82fb-3352c61be84c",
         "variant_picker",
-        "text",
+        "description",
         "inventory_counter",
         "quantity_selector",
         "buy_buttons",
         "product_callouts-2",
         "share",
-        "description",
         "accordion-1",
         "accordion-2",
         "accordion-3",
