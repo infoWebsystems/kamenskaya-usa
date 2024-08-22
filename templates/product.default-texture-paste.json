@@ -62,14 +62,6 @@
             "chip_layout": "3col"
           }
         },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text_font_class": "fs-body-100",
-            "text": "<p>Texture paste allows you to add relief and texture to your paintings. It is a soft, super thick modeling paste available in a natural (ivory) shade and in white color. The paste can be easily colored in the desired color with acrylic ink while working, or painted in the desired shade after complete drying. The material holds its shape well and allows you to create reliefs up to 2 centimeters high. Thanks to the large amount of rubber, which is included in the paste, the product is resistant to deformation and moisture. The paste is easy to sand with sandpaper, adheres reliably to any surface. Ideal for creating art projects. <\/p>",
-            "column_placement": "left"
-          }
-        },
         "inventory_counter": {
           "type": "inventory-counter",
           "disabled": true,
@@ -123,7 +115,7 @@
         "description": {
           "type": "description",
           "settings": {
-            "title": "Video Review",
+            "title": "",
             "text_font_class": "fs-body-100",
             "column_placement": "left",
             "display_as_collapsible_row": true,
@@ -184,7 +176,6 @@
         "product_callouts_mini",
         "0870bae8-9594-4e62-82fb-3352c61be84c",
         "variant_picker",
-        "text",
         "inventory_counter",
         "quantity_selector",
         "buy_buttons",
