@@ -122,6 +122,13 @@
             "expand_by_default": true
           }
         },
+        "custom_liquid_pNmBRM": {
+          "type": "custom_liquid",
+          "settings": {
+            "column_placement": "left",
+            "custom_liquid": "<iframe width=\"560\" height=\"315\" src=\"https:\/\/www.youtube.com\/embed\/LchUoYKq334?si=paPe882EUzPx3Zp4\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen><\/iframe>"
+          }
+        },
         "accordion-1": {
           "type": "accordion",
           "settings": {
@@ -182,6 +189,7 @@
         "product_callouts-2",
         "share",
         "description",
+        "custom_liquid_pNmBRM",
         "accordion-1",
         "accordion-2",
         "accordion-3",
