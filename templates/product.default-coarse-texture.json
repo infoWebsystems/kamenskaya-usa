@@ -62,12 +62,21 @@
             "chip_layout": "3col"
           }
         },
-        "text": {
-          "type": "text",
+        "description": {
+          "type": "description",
           "settings": {
+            "title": "",
             "text_font_class": "fs-body-100",
-            "text": "<p>Coarse texture paste for mixing with color. Modeling paste with small particles of quartz sand for coloring has a light beige shade and a matte finish. Thick consistency, holds its shape well, plastic. Does not give cracks after drying, you can create a texture up to 2 centimeters high. Moisture-resistant, easily colored in the desired shade with acrylic ink and any pigments.  Does not shrink after drying.<\/p>",
-            "column_placement": "left"
+            "column_placement": "left",
+            "display_as_collapsible_row": false,
+            "expand_by_default": true
+          }
+        },
+        "custom_liquid_xXiyk4": {
+          "type": "custom_liquid",
+          "settings": {
+            "column_placement": "left",
+            "custom_liquid": "<iframe width=\"560\" height=\"315\" src=\"https:\/\/www.youtube.com\/embed\/Mw1KafiUT48?si=IcuOAWZXmFw3rTj6\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen><\/iframe>"
           }
         },
         "inventory_counter": {
@@ -118,16 +127,6 @@
         "share": {
           "type": "share",
           "settings": {
-          }
-        },
-        "description": {
-          "type": "description",
-          "settings": {
-            "title": "Video Review",
-            "text_font_class": "fs-body-100",
-            "column_placement": "left",
-            "display_as_collapsible_row": true,
-            "expand_by_default": true
           }
         },
         "accordion-1": {
@@ -184,13 +183,13 @@
         "product_callouts_mini",
         "992d34e9-8a1a-4cab-a155-eb2f5d5e9f40",
         "variant_picker",
-        "text",
+        "description",
+        "custom_liquid_xXiyk4",
         "inventory_counter",
         "quantity_selector",
         "buy_buttons",
         "product_callouts-2",
         "share",
-        "description",
         "accordion-1",
         "accordion-2",
         "accordion-3",
