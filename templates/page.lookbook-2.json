@@ -314,7 +314,7 @@
         "block-2": {
           "type": "hotspot",
           "settings": {
-            "product_item": "texture-paste",
+            "product_item": "texture-paste-for-mixing-with-color",
             "horizontal_position": 57,
             "vertical_position": 30
           }
