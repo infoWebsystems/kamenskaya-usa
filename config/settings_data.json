@@ -91,6 +91,12 @@
         "disabled": false,
         "settings": {
         }
+      },
+      "12543949710164844351": {
+        "type": "shopify:\/\/apps\/gwa-hreflang-manager\/blocks\/gwa-hreflang\/35dc0b05-d599-4c8e-8584-8cd17768854a",
+        "disabled": false,
+        "settings": {
+        }
       }
     }
   },
