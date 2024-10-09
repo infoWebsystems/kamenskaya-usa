@@ -89,11 +89,11 @@
             "icon_2": "cotton",
             "text_2": "",
             "icon_3": "chat",
-            "text_3": "<p>Have questions? <a href=\"\/pages\/contact\" title=\"Contact\">Contact us<\/a><\/p>",
+            "text_3": "<p>Have questions? <a href=\"/pages/contact\" title=\"Contact\">Contact us</a></p>",
             "icon_4": "moving-truck",
-            "text_4": "<p>Free shipping on orders $69+<\/p>",
+            "text_4": "<p>Free shipping on orders $69+</p>",
             "icon_5": "padlock",
-            "text_5": "<p>Secure payment<\/p>",
+            "text_5": "<p>Secure payment</p>",
             "icon_6": "none",
             "text_6": "",
             "display_as_collapsible_row": false,
@@ -109,7 +109,7 @@
           "type": "text",
           "settings": {
             "text_font_class": "fs-body-100",
-            "text": "<p>Alcohol ink art paper, 25 sheets. Designed for alcohol ink painting. Non-absorbent smooth surface, matte finish. Stain-free. Does not tear. After drying, the inks can be removed with alcohol.<\/p>",
+            "text": "<p>Alcohol ink art paper, 25 sheets. Designed for alcohol ink painting. Non-absorbent smooth surface, matte finish. Stain-free. Does not tear. After drying, the inks can be removed with alcohol.</p>",
             "column_placement": "left"
           }
         },
@@ -119,7 +119,7 @@
             "expand_by_default": false,
             "column_placement": "left",
             "heading": "Description",
-            "content": "<ul><li>Your Must-Have Alcohol Ink Supplies - heavyweight synthetic paper (200 gsm), designed for alcohol ink painting<\/li><li>Ideal Surface for Alcohol Ink - the non-absorbent, smooth surface with a matte finish is specially designed to enhance the flow and vibrancy of alcohol inks<\/li><li>Reworkable Surface - once dried, the inks can be easily removed with alcohol, allowing you to rework and perfect your designs without hassle<\/li><li>Stain-Free and Tear-Resistant<\/li><\/ul>",
+            "content": "<ul><li>Your Must-Have Alcohol Ink Supplies - heavyweight synthetic paper (200 gsm), designed for alcohol ink painting</li><li>Ideal Surface for Alcohol Ink - the non-absorbent, smooth surface with a matte finish is specially designed to enhance the flow and vibrancy of alcohol inks</li><li>Reworkable Surface - once dried, the inks can be easily removed with alcohol, allowing you to rework and perfect your designs without hassle</li><li>Stain-Free and Tear-Resistant</li></ul>",
             "page_for_content": "",
             "custom_liquid": ""
           }
@@ -138,6 +138,17 @@
             "display_as_collapsible_row": true,
             "expand_by_default": false
           }
+        },
+        "accordion_HBMbzh": {
+          "type": "accordion",
+          "settings": {
+            "expand_by_default": false,
+            "column_placement": "left",
+            "heading": "Shipping information",
+            "content": "<p>After you place your order we will get it ready for the shipment in 1-2 business days.</p><p>Tracking number will be sent to you my e-mail after your parcel is shipped.</p><p><br/><strong>Planned delivery time*</strong> after we submit your parcel to courier company depends on the selected shipping option:</p><ul><li>Standard shipping (USPS): 5-10 business days</li><li>Expedited shipping (UPS Express Saver): 2 business days</li><li>Expedited shipping (FedEx International Connect Plus): 4 business days</li></ul><p>Transit times and delivery commitments may vary depending on the destination of your shipment.</p><p></p><p><strong>Shipping rates</strong></p><p>Standard shipping:<br/></p><ul><li>$4.95 - for the orders with maximum weight of 1 lb</li><li>$7.95 - other orders</li></ul><p>Expedited shipping (UPS Express Saver): </p><ul><li>$9.99 - for the orders with maximum weight of 3.3 lb</li><li>$12.99 - other orders</li></ul><p>Expedited shipping (FedEx International Connect Plus): calculated individually based on the order weight.<br/></p><p><strong>FREE SHIPPING - orders of $69 and more</strong></p>",
+            "page_for_content": "",
+            "custom_liquid": ""
+          }
         }
       },
       "block_order": [
@@ -151,7 +162,8 @@
         "share",
         "text",
         "accordion_7b3ycV",
-        "09a262b2-fb00-4246-93da-0f6f1a2be695"
+        "09a262b2-fb00-4246-93da-0f6f1a2be695",
+        "accordion_HBMbzh"
       ],
       "settings": {
         "enable_sticky_product_details": true,
@@ -178,7 +190,7 @@
             "heading": "Column",
             "heading_link": "",
             "heading_font_class": "fs-heading-4-base",
-            "text": "<p>Use text to focus on your chosen product, collection, or blog post.<\/p>",
+            "text": "<p>Use text to focus on your chosen product, collection, or blog post.</p>",
             "text_font_class": "fs-body-100",
             "text_max_width": 100,
             "link": "",
@@ -193,7 +205,7 @@
             "heading": "Column",
             "heading_link": "",
             "heading_font_class": "fs-heading-4-base",
-            "text": "<p>Use text to focus on your chosen product, collection, or blog post.<\/p>",
+            "text": "<p>Use text to focus on your chosen product, collection, or blog post.</p>",
             "text_font_class": "fs-body-100",
             "text_max_width": 100,
             "link": "",
@@ -208,7 +220,7 @@
             "heading": "Column",
             "heading_link": "",
             "heading_font_class": "fs-heading-4-base",
-            "text": "<p>Use text to focus on your chosen product, collection, or blog post.<\/p>",
+            "text": "<p>Use text to focus on your chosen product, collection, or blog post.</p>",
             "text_font_class": "fs-body-100",
             "text_max_width": 100,
             "link": "",
@@ -225,7 +237,7 @@
       "disabled": true,
       "settings": {
         "title": "",
-        "subheading": "<p>Use a multi-column section to organize detailed information about your products:<\/p>",
+        "subheading": "<p>Use a multi-column section to organize detailed information about your products:</p>",
         "subheading_link": "",
         "subheading_link_text": "Your link here",
         "heading_font_class": "fs-heading-3-base",
@@ -269,7 +281,7 @@
         "block-2": {
           "type": "text",
           "settings": {
-            "text": "<p>Use these sections to promote a particular feature with editorial photography.<\/p>",
+            "text": "<p>Use these sections to promote a particular feature with editorial photography.</p>",
             "text_font_class": "fs-body-100"
           }
         }
@@ -312,7 +324,7 @@
         "block-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Use these sections to promote a particular feature with editorial photography<\/p>",
+            "text": "<p>Use these sections to promote a particular feature with editorial photography</p>",
             "text_font_class": "fs-body-100"
           }
         }
@@ -353,7 +365,7 @@
         "block-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Use these sections to promote a particular feature with editorial photography<\/p>",
+            "text": "<p>Use these sections to promote a particular feature with editorial photography</p>",
             "text_font_class": "fs-body-100"
           }
         }
@@ -461,7 +473,7 @@
       "settings": {
         "heading": "Alcohol Inks Collections",
         "subheading": "",
-        "link": "shopify:\/\/collections\/alcohol-inks",
+        "link": "shopify://collections/alcohol-inks",
         "link_text": "View all alcohol inks",
         "columns": "4",
         "mobile_columns": "2",
