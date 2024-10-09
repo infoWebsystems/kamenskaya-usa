@@ -13,5 +13,16 @@
     "market": "canada"
   },
   "sections": {
+    "main": {
+      "settings": {
+      },
+      "blocks": {
+        "accordion_HBMbzh": {
+          "disabled": true,
+          "settings": {
+          }
+        }
+      }
+    }
   }
 }
