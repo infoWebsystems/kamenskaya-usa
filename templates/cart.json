@@ -1,1 +1,87 @@
-{"sections":{"main":{"type":"main-cart","settings":{}}},"order":["main"]}
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "sections": {
+    "main": {
+      "type": "main-cart",
+      "settings": {
+        "show_product_currency": true,
+        "cross_sells_position": "below-line-items"
+      }
+    },
+    "collapsible_row_list_xtAzxb": {
+      "type": "collapsible-row-list",
+      "blocks": {
+        "item_DPAEkY": {
+          "type": "item",
+          "settings": {
+            "expand_by_default": false,
+            "icon": "moving-truck",
+            "title": "Shipping information",
+            "text": "<p>After you place your order we will get it ready for the shipment in 1-2 business days.</p><p>Tracking number will be sent to you my e-mail after your parcel is shipped.</p><p></p><h5><span style=\"text-decoration:underline\"><strong>SHIPMENTS TO USA:</strong></span><br/></h5><p><strong>Planned delivery time*</strong> after we submit your parcel to courier company depends on the selected shipping option:</p><ul><li>Standard shipping (USPS): 5-10 business days</li><li>Expedited shipping (UPS Express Saver): 2 business days</li><li>Expedited shipping (FedEx International Connect Plus): 4 business days</li></ul><p>Transit times and delivery commitments may vary depending on the destination of your shipment.</p><p></p><p><strong>SHIPPING RATES:</strong></p><p><em>Standard shipping:</em><br/></p><ul><li>$4.95 - for the orders with maximum weight of 1 lb</li><li>$7.95 - other orders</li></ul><p><em>Expedited shipping (UPS Express Saver): </em></p><ul><li>$9.99 - for the orders with maximum weight of 3.3 lb</li><li>$12.99 - other orders</li></ul><p>Expedited shipping (FedEx International Connect Plus): calculated individually based on the order weight.<br/></p><p><em><strong>FREE SHIPPING</strong></em><strong> - orders of $69 and more</strong></p><p></p><h5><span style=\"text-decoration:underline\"><strong>SHIPMENTS TO CANADA:</strong></span></h5><p><strong>Planned delivery time*</strong> after we submit your parcel to courier company depends on the selected shipping option:</p><ul><li>Expedited shipping (UPS Express Saver): 2-5 business days</li><li>Expedited shipping (FedEx International Connect Plus): 4-5 business days</li></ul><p>Transit times and delivery commitments may vary depending on the destination of your shipment.</p><p><strong>SHIPPING RATES:</strong></p><p>Expedited shipping (UPS Express Saver / FedEx International Connect Plus): calculated individually based on the order weight, starting with:</p><ul><li>$9.99 - for the orders with maximum weight of 3.3 lb</li><li>$12.99 - for the orders with the weight of 3.3-6.6 lb</li></ul>"
+          }
+        },
+        "item_hGA6tK": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "expand_by_default": false,
+            "icon": "none",
+            "title": "This is an example of a question that a customer might ask",
+            "text": "<p>This is an example of a response that you might give. It's good to be as thorough as possible in responses as that has a tendency to improve trust overall.</p>"
+          }
+        },
+        "item_XkGnA6": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "expand_by_default": false,
+            "icon": "none",
+            "title": "This is an example of a question that a customer might ask",
+            "text": "<p>This is an example of a response that you might give. It's good to be as thorough as possible in responses as that has a tendency to improve trust overall.</p>"
+          }
+        },
+        "item_FDnJ4p": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "expand_by_default": false,
+            "icon": "none",
+            "title": "This is an example of a question that a customer might ask",
+            "text": "<p>This is an example of a response that you might give. It's good to be as thorough as possible in responses as that has a tendency to improve trust overall.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_DPAEkY",
+        "item_hGA6tK",
+        "item_XkGnA6",
+        "item_FDnJ4p"
+      ],
+      "settings": {
+        "title": "",
+        "heading_font_class": "fs-heading-4-base",
+        "subheading": "",
+        "subheading_font_class": "fs-heading-5-base",
+        "heading_alignment": "left",
+        "item_heading_font": "heading",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom",
+        "content_width": "custom",
+        "custom_content_width": 700
+      }
+    }
+  },
+  "order": [
+    "main",
+    "collapsible_row_list_xtAzxb"
+  ]
+}
