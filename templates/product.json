@@ -63,7 +63,7 @@
           "type": "custom_liquid",
           "settings": {
             "column_placement": "left",
-            "custom_liquid": "<iframe width=\"560\" height=\"315\" src=\"https:\/\/www.youtube.com\/embed\/r-bSe0iCpIs?si=_zpuK6IR32nLdlGw\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen><\/iframe>"
+            "custom_liquid": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/r-bSe0iCpIs?si=_zpuK6IR32nLdlGw\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
           }
         },
         "variant_picker": {
@@ -113,11 +113,11 @@
             "icon_2": "cotton",
             "text_2": "",
             "icon_3": "chat",
-            "text_3": "<p>Have questions? <a href=\"\/pages\/contact\" title=\"Contact\">Contact us<\/a><\/p>",
+            "text_3": "<p>Have questions? <a href=\"/pages/contact\" title=\"Contact\">Contact us</a></p>",
             "icon_4": "moving-truck",
-            "text_4": "<p>Free shipping on orders $69+<\/p>",
+            "text_4": "<p>Free shipping on orders $69+</p>",
             "icon_5": "padlock",
-            "text_5": "<p>Secure payment<\/p>",
+            "text_5": "<p>Secure payment</p>",
             "icon_6": "none",
             "text_6": "",
             "display_as_collapsible_row": false,
@@ -135,7 +135,7 @@
             "expand_by_default": false,
             "column_placement": "left",
             "heading": "Description",
-            "content": "<ul><li>Key Features: light translucent texture, saturated color and a nice satin finish. The inks adhere perfectly to synthetic smooth surfaces and dry quickly.<\/li><li>High Lightfastness: our inks have lightfastness level of 7-10 which means the colors stay bright for a long time.<\/li><li>Economy In Use: one bottle of ink is sufficient for a minimum of 2 paintings of 100:70 cm (39.37:27.56 in) format, which is a sign of high economy in use.<\/li><li>Mix Colors Easily With Each Other, and dilute to the desired concentration with KAMENSKAYA special alcohol blending solution.<\/li><\/ul>",
+            "content": "<ul><li>Key Features: light translucent texture, saturated color and a nice satin finish. The inks adhere perfectly to synthetic smooth surfaces and dry quickly.</li><li>High Lightfastness: our inks have lightfastness level of 7-10 which means the colors stay bright for a long time.</li><li>Economy In Use: one bottle of ink is sufficient for a minimum of 2 paintings of 100:70 cm (39.37:27.56 in) format, which is a sign of high economy in use.</li><li>Mix Colors Easily With Each Other, and dilute to the desired concentration with KAMENSKAYA special alcohol blending solution.</li></ul>",
             "page_for_content": "",
             "custom_liquid": ""
           }
@@ -146,7 +146,7 @@
             "expand_by_default": false,
             "column_placement": "left",
             "heading": "Recommendations",
-            "content": "<p>- Use covering materials and gloves when handling the ink<\/p><p>- Apply the ink on a smooth, non-absorbent surface. Shake the bottle before use<\/p><p>- Dilute the ink with blending solution or alcohol to the required consistency (saturation) when working in Ink Art technique<\/p><p>- Pour the diluted ink onto the surface and paint under the pressure of a hairdryer. Make circular motions around the drop to form nice edges<\/p><p>- Add a few drops of metallic ink to the paint to create a weightless golden spider web<\/p><p>- Finish by coating the painting with an acrylic spray varnish to increase the durability of your image.<\/p><p>The time to experiment is now! Let's create together!<\/p><p><strong>Tips:<\/strong><\/p><p>1.After drying, we recommend covering the image with an aerosol acrylic varnish in several layers to preserve the image.<\/p><p>2.The ideal ink tandem is with a blending solution (not only do you dilute the paint with it, but you also get a medium fixation of the image on the surface, which saves you paint, time and gives comfort in your work).<\/p><p>3.Use smooth, non-absorbent surfaces to work with inks.<\/p><p>4.The ideal dilution ratio for ink and blending solution is 1:6-1:7, where 1 is ink.<\/p><p><strong>Safety precautions: <\/strong>Work in ventilated areas, products are flammable, must be kept out of the reach of children and away from open sources of fire. Use strictly for the intended purpose. In case of contact with mucous membranes, rinse thoroughly with water and consult a doctor if necessary.<\/p>",
+            "content": "<p>- Use covering materials and gloves when handling the ink</p><p>- Apply the ink on a smooth, non-absorbent surface. Shake the bottle before use</p><p>- Dilute the ink with blending solution or alcohol to the required consistency (saturation) when working in Ink Art technique</p><p>- Pour the diluted ink onto the surface and paint under the pressure of a hairdryer. Make circular motions around the drop to form nice edges</p><p>- Add a few drops of metallic ink to the paint to create a weightless golden spider web</p><p>- Finish by coating the painting with an acrylic spray varnish to increase the durability of your image.</p><p>The time to experiment is now! Let's create together!</p><p><strong>Tips:</strong></p><p>1.After drying, we recommend covering the image with an aerosol acrylic varnish in several layers to preserve the image.</p><p>2.The ideal ink tandem is with a blending solution (not only do you dilute the paint with it, but you also get a medium fixation of the image on the surface, which saves you paint, time and gives comfort in your work).</p><p>3.Use smooth, non-absorbent surfaces to work with inks.</p><p>4.The ideal dilution ratio for ink and blending solution is 1:6-1:7, where 1 is ink.</p><p><strong>Safety precautions: </strong>Work in ventilated areas, products are flammable, must be kept out of the reach of children and away from open sources of fire. Use strictly for the intended purpose. In case of contact with mucous membranes, rinse thoroughly with water and consult a doctor if necessary.</p>",
             "page_for_content": "",
             "custom_liquid": ""
           }
@@ -157,7 +157,7 @@
             "expand_by_default": false,
             "column_placement": "left",
             "heading": "Storage and shelf life",
-            "content": "<p>36 months before opening, 6 months after opening the bottle.<br\/>Store in a closed vial at a temperature between 5 and 25 degrees Celsius.<br\/>Avoid sudden temperature changes and open sunlight.<\/p>",
+            "content": "<p>36 months before opening, 6 months after opening the bottle.<br/>Store in a closed vial at a temperature between 5 and 25 degrees Celsius.<br/>Avoid sudden temperature changes and open sunlight.</p>",
             "page_for_content": "",
             "custom_liquid": ""
           }
@@ -176,6 +176,17 @@
             "display_as_collapsible_row": true,
             "expand_by_default": false
           }
+        },
+        "accordion_gQHpiD": {
+          "type": "accordion",
+          "settings": {
+            "expand_by_default": false,
+            "column_placement": "left",
+            "heading": "Shipping information",
+            "content": "<p>After you place your order we will get it ready for the shipment in 1-2 business days.</p><p>Tracking number will be sent to you my e-mail after your parcel is shipped.</p><p></p><h5><span style=\"text-decoration:underline\"><strong>SHIPMENTS TO USA:</strong></span><br/></h5><p><strong>Planned delivery time*</strong> after we submit your parcel to courier company depends on the selected shipping option:</p><ul><li>Standard shipping (USPS): 5-10 business days</li><li>Expedited shipping (UPS Express Saver): 2 business days</li><li>Expedited shipping (FedEx International Connect Plus): 4 business days</li></ul><p>Transit times and delivery commitments may vary depending on the destination of your shipment.</p><p></p><p><strong>SHIPPING RATES:</strong></p><p><em>Standard shipping:</em><br/></p><ul><li>$4.95 - for the orders with maximum weight of 1 lb</li><li>$7.95 - other orders</li></ul><p><em>Expedited shipping (UPS Express Saver): </em></p><ul><li>$9.99 - for the orders with maximum weight of 3.3 lb</li><li>$12.99 - other orders</li></ul><p>Expedited shipping (FedEx International Connect Plus): calculated individually based on the order weight.<br/></p><p><em><strong>FREE SHIPPING</strong></em><strong> - orders of $69 and more</strong></p><p></p><h5><span style=\"text-decoration:underline\"><strong>SHIPMENTS TO CANADA:</strong></span></h5><p><strong>Planned delivery time*</strong> after we submit your parcel to courier company depends on the selected shipping option:</p><ul><li>Expedited shipping (UPS Express Saver): 2-5 business days</li><li>Expedited shipping (FedEx International Connect Plus): 4-5 business days</li></ul><p>Transit times and delivery commitments may vary depending on the destination of your shipment.</p><p><strong>SHIPPING RATES:</strong></p><p>Expedited shipping (UPS Express Saver / FedEx International Connect Plus): calculated individually based on the order weight, starting with:</p><ul><li>$9.99 - for the orders with maximum weight of 3.3 lb</li><li>$12.99 - for the orders with the weight of 3.3-6.6 lb</li></ul>",
+            "page_for_content": "",
+            "custom_liquid": ""
+          }
         }
       },
       "block_order": [
@@ -193,7 +204,8 @@
         "accordion-1",
         "accordion-2",
         "accordion-3",
-        "103e720b-049d-4099-a527-de2cb6f22e8f"
+        "103e720b-049d-4099-a527-de2cb6f22e8f",
+        "accordion_gQHpiD"
       ],
       "settings": {
         "enable_sticky_product_details": true,
@@ -220,7 +232,7 @@
             "heading": "Column",
             "heading_link": "",
             "heading_font_class": "fs-heading-4-base",
-            "text": "<p>Use text to focus on your chosen product, collection, or blog post.<\/p>",
+            "text": "<p>Use text to focus on your chosen product, collection, or blog post.</p>",
             "text_font_class": "fs-body-100",
             "text_max_width": 100,
             "link": "",
@@ -235,7 +247,7 @@
             "heading": "Column",
             "heading_link": "",
             "heading_font_class": "fs-heading-4-base",
-            "text": "<p>Use text to focus on your chosen product, collection, or blog post.<\/p>",
+            "text": "<p>Use text to focus on your chosen product, collection, or blog post.</p>",
             "text_font_class": "fs-body-100",
             "text_max_width": 100,
             "link": "",
@@ -250,7 +262,7 @@
             "heading": "Column",
             "heading_link": "",
             "heading_font_class": "fs-heading-4-base",
-            "text": "<p>Use text to focus on your chosen product, collection, or blog post.<\/p>",
+            "text": "<p>Use text to focus on your chosen product, collection, or blog post.</p>",
             "text_font_class": "fs-body-100",
             "text_max_width": 100,
             "link": "",
@@ -267,7 +279,7 @@
       "disabled": true,
       "settings": {
         "title": "",
-        "subheading": "<p>Use a multi-column section to organize detailed information about your products:<\/p>",
+        "subheading": "<p>Use a multi-column section to organize detailed information about your products:</p>",
         "subheading_link": "",
         "subheading_link_text": "Your link here",
         "heading_font_class": "fs-heading-3-base",
@@ -311,7 +323,7 @@
         "block-2": {
           "type": "text",
           "settings": {
-            "text": "<p>Use these sections to promote a particular feature with editorial photography.<\/p>",
+            "text": "<p>Use these sections to promote a particular feature with editorial photography.</p>",
             "text_font_class": "fs-body-100"
           }
         }
@@ -354,7 +366,7 @@
         "block-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Use these sections to promote a particular feature with editorial photography<\/p>",
+            "text": "<p>Use these sections to promote a particular feature with editorial photography</p>",
             "text_font_class": "fs-body-100"
           }
         }
@@ -395,7 +407,7 @@
         "block-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Use these sections to promote a particular feature with editorial photography<\/p>",
+            "text": "<p>Use these sections to promote a particular feature with editorial photography</p>",
             "text_font_class": "fs-body-100"
           }
         }
@@ -503,7 +515,7 @@
       "settings": {
         "heading": "Alcohol Inks Collections",
         "subheading": "",
-        "link": "shopify:\/\/collections\/alcohol-inks",
+        "link": "shopify://collections/alcohol-inks",
         "link_text": "View all alcohol inks",
         "columns": "4",
         "mobile_columns": "2",
