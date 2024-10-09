@@ -13,5 +13,16 @@
     "market": "us"
   },
   "sections": {
+    "main": {
+      "settings": {
+      },
+      "blocks": {
+        "accordion_gQHpiD": {
+          "settings": {
+            "content": "<p>After you place your order we will get it ready for the shipment in 1-2 business days.</p><p>Tracking number will be sent to you my e-mail after your parcel is shipped.</p><p><br/><strong>Planned delivery time*</strong> after we submit your parcel to courier company depends on the selected shipping option:</p><ul><li>Standard shipping (USPS): 5-10 business days</li><li>Expedited shipping (UPS Express Saver): 2 business days</li><li>Expedited shipping (FedEx International Connect Plus): 4 business days</li></ul><p>Transit times and delivery commitments may vary depending on the destination of your shipment.</p><p></p><p><strong>Shipping rates</strong></p><p>Standard shipping:<br/></p><ul><li>$4.95 - for the orders with maximum weight of 1 lb</li><li>$7.95 - other orders</li></ul><p>Expedited shipping (UPS Express Saver): </p><ul><li>$9.99 - for the orders with maximum weight of 3.3 lb</li><li>$12.99 - other orders</li></ul><p>Expedited shipping (FedEx International Connect Plus): calculated individually based on the order weight.<br/></p><p><strong>FREE SHIPPING - orders of $69 and more</strong></p>"
+          }
+        }
+      }
+    }
   }
 }
