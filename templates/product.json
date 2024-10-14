@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -57,13 +57,6 @@
             "column_placement": "left",
             "display_as_collapsible_row": false,
             "expand_by_default": true
-          }
-        },
-        "custom_liquid_z8QVHi": {
-          "type": "custom_liquid",
-          "settings": {
-            "column_placement": "left",
-            "custom_liquid": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/r-bSe0iCpIs?si=_zpuK6IR32nLdlGw\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
           }
         },
         "variant_picker": {
@@ -135,7 +128,7 @@
             "expand_by_default": false,
             "column_placement": "left",
             "heading": "Description",
-            "content": "<ul><li>Key Features: light translucent texture, saturated color and a nice satin finish. The inks adhere perfectly to synthetic smooth surfaces and dry quickly.</li><li>High Lightfastness: our inks have lightfastness level of 7-10 which means the colors stay bright for a long time.</li><li>Economy In Use: one bottle of ink is sufficient for a minimum of 2 paintings of 100:70 cm (39.37:27.56 in) format, which is a sign of high economy in use.</li><li>Mix Colors Easily With Each Other, and dilute to the desired concentration with KAMENSKAYA special alcohol blending solution.</li></ul>",
+            "content": "{{ product.metafields.custom.product_description | metafield_tag }}",
             "page_for_content": "",
             "custom_liquid": ""
           }
@@ -194,7 +187,6 @@
         "product_callouts_mini",
         "6f9723ce-ad6d-4ba7-99e5-75abc25908f3",
         "description",
-        "custom_liquid_z8QVHi",
         "variant_picker",
         "inventory_counter",
         "quantity_selector",
