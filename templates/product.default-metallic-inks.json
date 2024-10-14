@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -50,13 +50,6 @@
             "column_placement": "left",
             "display_as_collapsible_row": false,
             "expand_by_default": true
-          }
-        },
-        "custom_liquid_Qzrte8": {
-          "type": "custom_liquid",
-          "settings": {
-            "column_placement": "left",
-            "custom_liquid": "<iframe width=\"560\" height=\"315\" src=\"https:\/\/www.youtube.com\/embed\/5rZOhaIA2JI?si=rdo49szjAOnQvGUe\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen><\/iframe>"
           }
         },
         "76548701-d198-4d97-bf45-ad586c218f64": {
@@ -113,11 +106,11 @@
             "icon_2": "cotton",
             "text_2": "",
             "icon_3": "chat",
-            "text_3": "<p>Have questions? <a href=\"\/pages\/contact\" title=\"Contact\">Contact us<\/a><\/p>",
+            "text_3": "<p>Have questions? <a href=\"/pages/contact\" title=\"Contact\">Contact us</a></p>",
             "icon_4": "moving-truck",
-            "text_4": "<p>Free shipping on orders $69+<\/p>",
+            "text_4": "<p>Free shipping on orders $69+</p>",
             "icon_5": "padlock",
-            "text_5": "<p>Secure payment<\/p>",
+            "text_5": "<p>Secure payment</p>",
             "icon_6": "none",
             "text_6": "",
             "display_as_collapsible_row": false,
@@ -135,7 +128,7 @@
             "expand_by_default": false,
             "column_placement": "left",
             "heading": "Description",
-            "content": "<ul><li>Natural Metallic Pigment Inks are shimmering series of alcohol inks to create golden facets and light cobwebs in your ink art work. Could be used as alcohol ink for epoxy resin.<\/li><li>Add The Right Accent to your work with your choice of gold, silver or bronze metallic inks<\/li><li>Create Magical Tandem with inks from any other KAMENSKAYA alcohol ink lines and form light hemispherical edges or shimmering flakes.<\/li><li>Mix Colors Easily With Each Other, and dilute to the desired concentration with KAMENSKAYA special alcohol blending solution.<\/li><\/ul>",
+            "content": "<ul><li>Natural Metallic Pigment Inks are shimmering series of alcohol inks to create golden facets and light cobwebs in your ink art work. Could be used as alcohol ink for epoxy resin.</li><li>Add The Right Accent to your work with your choice of gold, silver or bronze metallic inks</li><li>Create Magical Tandem with inks from any other KAMENSKAYA alcohol ink lines and form light hemispherical edges or shimmering flakes.</li><li>Mix Colors Easily With Each Other, and dilute to the desired concentration with KAMENSKAYA special alcohol blending solution.</li></ul>",
             "page_for_content": "",
             "custom_liquid": ""
           }
@@ -146,7 +139,7 @@
             "expand_by_default": false,
             "column_placement": "left",
             "heading": "Recommendations",
-            "content": "<p>- Use covering materials and gloves when handling the ink<\/p><p>- Apply the ink on a smooth, non-absorbent surface. Shake the bottle before use<\/p><p>- Dilute the ink with blending solution or alcohol to the required consistency (saturation) when working in Ink Art technique<\/p><p>- Pour the diluted ink onto the surface and paint under the pressure of a hairdryer. Make circular motions around the drop to form nice edges<\/p><p>- Add a few drops of metallic ink to the paint to create a weightless golden spider web<\/p><p>- Finish by coating the painting with an acrylic spray varnish to increase the durability of your image.<\/p><p>The time to experiment is now! Let's create together!<\/p><p><strong>Tips:<\/strong><\/p><p>1. Shake and dilute the ink thoroughly before use.<\/p><p>2. Apply the inks on smooth and non-absorbent surfaces to obtain the desired results.<\/p><p>3. After drying coat the image with an aerosol acrylic varnish in several layers. The metallic inks are made up of 100% natural metal and tend to oxidise, varnish helps to maintain the appearance of your work.<\/p><p>4. You can add a few drops of shimmering ink to the diluted ink of the other ink line for a comfortable finish.<\/p><p><strong>Safety precautions: <\/strong>Work in ventilated areas, products are flammable, must be kept out of the reach of children and away from open sources of fire. Use strictly for the intended purpose. In case of contact with mucous membranes, rinse thoroughly with water and consult a doctor if necessary.<\/p>",
+            "content": "<p>- Use covering materials and gloves when handling the ink</p><p>- Apply the ink on a smooth, non-absorbent surface. Shake the bottle before use</p><p>- Dilute the ink with blending solution or alcohol to the required consistency (saturation) when working in Ink Art technique</p><p>- Pour the diluted ink onto the surface and paint under the pressure of a hairdryer. Make circular motions around the drop to form nice edges</p><p>- Add a few drops of metallic ink to the paint to create a weightless golden spider web</p><p>- Finish by coating the painting with an acrylic spray varnish to increase the durability of your image.</p><p>The time to experiment is now! Let's create together!</p><p><strong>Tips:</strong></p><p>1. Shake and dilute the ink thoroughly before use.</p><p>2. Apply the inks on smooth and non-absorbent surfaces to obtain the desired results.</p><p>3. After drying coat the image with an aerosol acrylic varnish in several layers. The metallic inks are made up of 100% natural metal and tend to oxidise, varnish helps to maintain the appearance of your work.</p><p>4. You can add a few drops of shimmering ink to the diluted ink of the other ink line for a comfortable finish.</p><p><strong>Safety precautions: </strong>Work in ventilated areas, products are flammable, must be kept out of the reach of children and away from open sources of fire. Use strictly for the intended purpose. In case of contact with mucous membranes, rinse thoroughly with water and consult a doctor if necessary.</p>",
             "page_for_content": "",
             "custom_liquid": ""
           }
@@ -157,7 +150,7 @@
             "expand_by_default": false,
             "column_placement": "left",
             "heading": "Storage and shelf life",
-            "content": "<p>36 months before opening, 6 months after opening the bottle.<br\/>Store in a closed vial at a temperature between 5 and 25 degrees Celsius.<br\/>Avoid sudden temperature changes and open sunlight.<\/p>",
+            "content": "<p>36 months before opening, 6 months after opening the bottle.<br/>Store in a closed vial at a temperature between 5 and 25 degrees Celsius.<br/>Avoid sudden temperature changes and open sunlight.</p>",
             "page_for_content": "",
             "custom_liquid": ""
           }
@@ -182,7 +175,6 @@
         "product_header",
         "product_callouts_mini",
         "description",
-        "custom_liquid_Qzrte8",
         "76548701-d198-4d97-bf45-ad586c218f64",
         "variant_picker",
         "inventory_counter",
@@ -220,7 +212,7 @@
             "heading": "Column",
             "heading_link": "",
             "heading_font_class": "fs-heading-4-base",
-            "text": "<p>Use text to focus on your chosen product, collection, or blog post.<\/p>",
+            "text": "<p>Use text to focus on your chosen product, collection, or blog post.</p>",
             "text_font_class": "fs-body-100",
             "text_max_width": 100,
             "link": "",
@@ -235,7 +227,7 @@
             "heading": "Column",
             "heading_link": "",
             "heading_font_class": "fs-heading-4-base",
-            "text": "<p>Use text to focus on your chosen product, collection, or blog post.<\/p>",
+            "text": "<p>Use text to focus on your chosen product, collection, or blog post.</p>",
             "text_font_class": "fs-body-100",
             "text_max_width": 100,
             "link": "",
@@ -250,7 +242,7 @@
             "heading": "Column",
             "heading_link": "",
             "heading_font_class": "fs-heading-4-base",
-            "text": "<p>Use text to focus on your chosen product, collection, or blog post.<\/p>",
+            "text": "<p>Use text to focus on your chosen product, collection, or blog post.</p>",
             "text_font_class": "fs-body-100",
             "text_max_width": 100,
             "link": "",
@@ -267,7 +259,7 @@
       "disabled": true,
       "settings": {
         "title": "",
-        "subheading": "<p>Use a multi-column section to organize detailed information about your products:<\/p>",
+        "subheading": "<p>Use a multi-column section to organize detailed information about your products:</p>",
         "subheading_link": "",
         "subheading_link_text": "Your link here",
         "heading_font_class": "fs-heading-3-base",
@@ -311,7 +303,7 @@
         "block-2": {
           "type": "text",
           "settings": {
-            "text": "<p>Use these sections to promote a particular feature with editorial photography.<\/p>",
+            "text": "<p>Use these sections to promote a particular feature with editorial photography.</p>",
             "text_font_class": "fs-body-100"
           }
         }
@@ -354,7 +346,7 @@
         "block-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Use these sections to promote a particular feature with editorial photography<\/p>",
+            "text": "<p>Use these sections to promote a particular feature with editorial photography</p>",
             "text_font_class": "fs-body-100"
           }
         }
@@ -395,7 +387,7 @@
         "block-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Use these sections to promote a particular feature with editorial photography<\/p>",
+            "text": "<p>Use these sections to promote a particular feature with editorial photography</p>",
             "text_font_class": "fs-body-100"
           }
         }
@@ -503,7 +495,7 @@
       "settings": {
         "heading": "Alcohol Inks Collections",
         "subheading": "",
-        "link": "shopify:\/\/collections\/alcohol-inks",
+        "link": "shopify://collections/alcohol-inks",
         "link_text": "View all alcohol inks",
         "columns": "4",
         "mobile_columns": "2",
