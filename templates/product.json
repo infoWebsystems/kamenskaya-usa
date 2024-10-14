@@ -27,6 +27,7 @@
         },
         "product_callouts_mini": {
           "type": "product_callouts_mini",
+          "disabled": true,
           "settings": {
             "icon_1": "none",
             "text_1": "Ink Art",
