@@ -128,7 +128,7 @@
             "expand_by_default": false,
             "column_placement": "left",
             "heading": "Description",
-            "content": "<ul><li>Natural Metallic Pigment Inks are shimmering series of alcohol inks to create golden facets and light cobwebs in your ink art work. Could be used as alcohol ink for epoxy resin.</li><li>Add The Right Accent to your work with your choice of gold, silver or bronze metallic inks</li><li>Create Magical Tandem with inks from any other KAMENSKAYA alcohol ink lines and form light hemispherical edges or shimmering flakes.</li><li>Mix Colors Easily With Each Other, and dilute to the desired concentration with KAMENSKAYA special alcohol blending solution.</li></ul>",
+            "content": "{{ product.metafields.custom.product_description | metafield_tag }}",
             "page_for_content": "",
             "custom_liquid": ""
           }
