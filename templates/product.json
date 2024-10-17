@@ -152,7 +152,7 @@
             "expand_by_default": false,
             "column_placement": "left",
             "heading": "Storage and shelf life",
-            "content": "<p>36 months before opening, 6 months after opening the bottle.<br/>Store in a closed vial at a temperature between 5 and 25 degrees Celsius.<br/>Avoid sudden temperature changes and open sunlight.</p>",
+            "content": "{{ product.metafields.custom.storage_and_shelf_life | metafield_tag }}",
             "page_for_content": "",
             "custom_liquid": ""
           }
