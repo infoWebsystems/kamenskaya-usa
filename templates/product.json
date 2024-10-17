@@ -25,6 +25,14 @@
             "show_custom_badges": true
           }
         },
+        "text_qpNiDN": {
+          "type": "text",
+          "settings": {
+            "text_font_class": "fs-body-100",
+            "text": "<p>{{ product.metafields.custom.product_volume | metafield_tag }}</p>",
+            "column_placement": "right"
+          }
+        },
         "product_callouts_mini": {
           "type": "product_callouts_mini",
           "disabled": true,
@@ -45,9 +53,10 @@
         },
         "6f9723ce-ad6d-4ba7-99e5-75abc25908f3": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
             "column_placement": "right",
-            "custom_liquid": "{{ product.metafields.custom.product_volume}}"
+            "custom_liquid": ""
           }
         },
         "description": {
@@ -185,6 +194,7 @@
       },
       "block_order": [
         "product_header",
+        "text_qpNiDN",
         "product_callouts_mini",
         "6f9723ce-ad6d-4ba7-99e5-75abc25908f3",
         "description",
