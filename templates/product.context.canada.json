@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "parent": "product.json",
   "context": {
@@ -24,8 +24,9 @@
           }
         },
         "accordion_gQHpiD": {
-          "disabled": true,
+          "disabled": false,
           "settings": {
+            "content": "<p>After you place your order we will get it ready for the shipment in 1-2 business days.</p><p>Tracking number will be sent to you my e-mail after your parcel is shipped.</p><p><strong>Planned delivery time*</strong> after we submit your parcel to courier company depends on the selected shipping option:</p><ul><li>Expedited shipping (UPS Express Saver): 2-5 business days</li><li>Expedited shipping (FedEx International Connect Plus): 4-5 business days</li></ul><p>Transit times and delivery commitments may vary depending on the destination of your shipment.</p><p><strong>SHIPPING RATES:</strong></p><p>Expedited shipping (UPS Express Saver / FedEx International Connect Plus): calculated individually based on the order weight, starting with:</p><ul><li>$9.99 - for the orders with maximum weight of 3.3 lb</li><li>$12.99 - for the orders with the weight of 3.3-6.6 lb</li></ul><p><strong>DUTIES & IMPORT TAXES:</strong></p><p>Please note that we ship our orders from our facilities in European Union, and your order may be subject to additional import taxes, fees, and customs duties (hereafter, Import Fees), levied by the customs office of your shipping destination. Import Fees vary according to the customs regulations of the destination country, cannot be estimated prior to shipping and is the responsibility of the recipient. </p>"
           }
         }
       }
