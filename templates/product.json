@@ -506,15 +506,6 @@
         "section_padding": "section--vertical-padding-top-bottom"
       }
     },
-    "1730375293ae18d915": {
-      "type": "apps",
-      "settings": {
-        "heading": "",
-        "enable_animation": true,
-        "divider_style": "none",
-        "section_padding": "section--vertical-padding-top-bottom"
-      }
-    },
     "recommendations": {
       "type": "recommended-products",
       "settings": {
@@ -541,7 +532,7 @@
         "judge_me_reviews_review_widget_kgb6JG"
       ],
       "settings": {
-        "heading": "App section",
+        "heading": "",
         "enable_animation": true,
         "divider_style": "none",
         "section_padding": "section--vertical-padding-top-bottom"
@@ -585,7 +576,6 @@
     "image-with-text-1",
     "image-with-text-2",
     "testimonials",
-    "1730375293ae18d915",
     "recommendations",
     "1730375433126f2ee0",
     "04e104fd-5b51-479c-85e3-7b140cf8b0f5"
