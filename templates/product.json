@@ -543,20 +543,15 @@
       "settings": {
         "heading": "Alcohol Inks Collections",
         "subheading": "",
-        "link": "shopify://collections/alcohol-inks",
-        "link_text": "View all alcohol inks",
+        "link": "shopify://collections",
+        "link_text": "View all products",
         "columns": "4",
         "mobile_columns": "2",
         "collection_list": [
-          "alcohol-inks-core-a-line",
-          "pastel-alcohol-inks",
-          "metallic-alcohol-inks",
-          "shimmering-alcohol-inks",
-          "delaminating-alcohol-inks",
-          "alcohol-inks-for-petri-art",
-          "sets",
-          "bleinding-solutions",
-          "materials-for-ink-art"
+          "alcohol-inks",
+          "gilding",
+          "acrylic",
+          "modeling-art-supplies"
         ],
         "collection_listing_aspect_ratio": "square",
         "label_style": "overlay",
