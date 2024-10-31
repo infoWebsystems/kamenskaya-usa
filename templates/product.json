@@ -190,6 +190,11 @@
             "page_for_content": "",
             "custom_liquid": ""
           }
+        },
+        "judge_me_reviews_preview_badge_63CKdq": {
+          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
         }
       },
       "block_order": [
@@ -208,7 +213,8 @@
         "accordion-2",
         "accordion-3",
         "103e720b-049d-4099-a527-de2cb6f22e8f",
-        "accordion_gQHpiD"
+        "accordion_gQHpiD",
+        "judge_me_reviews_preview_badge_63CKdq"
       ],
       "settings": {
         "enable_sticky_product_details": true,
