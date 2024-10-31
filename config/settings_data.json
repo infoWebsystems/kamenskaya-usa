@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
     "color_background_body": "#ffffff",
@@ -65,16 +65,16 @@
     "quick_search_product_style": "list",
     "quick_search_show_vendor": false,
     "quick_search_suggested_heading": "Popular collections",
-    "social_facebook_link": "https:\/\/www.facebook.com\/KamenskayaInk\/",
-    "social_instagram_link": "https:\/\/www.instagram.com\/kamenskaya_ink\/",
+    "social_facebook_link": "https://www.facebook.com/KamenskayaInk/",
+    "social_instagram_link": "https://www.instagram.com/kamenskaya_ink/",
     "social_linkedin_link": "",
     "social_snapchat_link": "",
     "social_tiktok_link": "",
     "social_twitter_link": "",
     "social_vimeo_link": "",
-    "social_youtube_link": "https:\/\/www.youtube.com\/channel\/UClaod7Z83DRCuXWH7h9IatQ",
-    "favicon": "shopify:\/\/shop_images\/Ellipse_117.png",
-    "checkout_logo_image": "shopify:\/\/shop_images\/Kamenskaya_logo.png",
+    "social_youtube_link": "https://www.youtube.com/channel/UClaod7Z83DRCuXWH7h9IatQ",
+    "favicon": "shopify://shop_images/Ellipse_117.png",
+    "checkout_logo_image": "shopify://shop_images/Kamenskaya_logo.png",
     "checkout_logo_size": "large",
     "checkout_input_background_color_mode": "white",
     "checkout_sidebar_background_color": "#ffffff",
@@ -87,13 +87,19 @@
     ],
     "blocks": {
       "15685250022964305326": {
-        "type": "shopify:\/\/apps\/elevar-conversion-tracking\/blocks\/dataLayerEmbed\/bc30ab68-b15c-4311-811f-8ef485877ad6",
+        "type": "shopify://apps/elevar-conversion-tracking/blocks/dataLayerEmbed/bc30ab68-b15c-4311-811f-8ef485877ad6",
         "disabled": false,
         "settings": {
         }
       },
       "12543949710164844351": {
-        "type": "shopify:\/\/apps\/gwa-hreflang-manager\/blocks\/gwa-hreflang\/35dc0b05-d599-4c8e-8584-8cd17768854a",
+        "type": "shopify://apps/gwa-hreflang-manager/blocks/gwa-hreflang/35dc0b05-d599-4c8e-8584-8cd17768854a",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "14060646107696862457": {
+        "type": "shopify://apps/judge-me-reviews/blocks/judgeme_core/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
         "disabled": false,
         "settings": {
         }
