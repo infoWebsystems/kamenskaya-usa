@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "0160c8e2-10e7-46a9-9903-95e48a4df163": {
@@ -15,7 +15,7 @@
         "template--19727828091163__0160c8e2-10e7-46a9-9903-95e48a4df163-1689150981ac390d2b-0": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_7985.jpg",
+            "image": "shopify://shop_images/IMG_97061.jpg",
             "focal_point": "image_presentation",
             "mobile_focal_point": "image_presentation",
             "media_link": "",
@@ -31,7 +31,7 @@
             "link_1": "",
             "link_text_1": "Read more",
             "button_style_1": "btn--primary",
-            "link_2": "shopify:\/\/collections\/alcohol-inks",
+            "link_2": "shopify://collections/alcohol-inks",
             "link_text_2": "learn more",
             "button_style_2": "btn--primary",
             "text_color": "#ffffff",
@@ -45,8 +45,8 @@
         "template--19727828091163__0160c8e2-10e7-46a9-9903-95e48a4df163-1689150981ac390d2b-1": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/6d951a1e1459bda16de03240657100c2.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/1000_1600_1.jpg",
+            "image": "shopify://shop_images/6d951a1e1459bda16de03240657100c2.jpg",
+            "image_mobile": "shopify://shop_images/1000_1600_1.jpg",
             "focal_point": "image_presentation",
             "mobile_focal_point": "image_presentation",
             "media_link": "",
@@ -62,7 +62,7 @@
             "link_1": "",
             "link_text_1": "Read more",
             "button_style_1": "btn--primary",
-            "link_2": "shopify:\/\/collections\/delaminating-alcohol-inks",
+            "link_2": "shopify://collections/delaminating-alcohol-inks",
             "link_text_2": "Shop now",
             "button_style_2": "btn--primary",
             "text_color": "#ffffff",
@@ -76,8 +76,8 @@
         "slide_ytdNqD": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/new____-_-__3000_2000_1.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/mobile_1000x1600_4cc6043a-1aba-49e8-94d5-e5b0e12c1165.jpg",
+            "image": "shopify://shop_images/new____-_-__3000_2000_1.jpg",
+            "image_mobile": "shopify://shop_images/mobile_1000x1600_4cc6043a-1aba-49e8-94d5-e5b0e12c1165.jpg",
             "focal_point": "image_presentation",
             "mobile_focal_point": "image_presentation",
             "media_link": "",
@@ -93,7 +93,7 @@
             "link_1": "",
             "link_text_1": "Read more",
             "button_style_1": "btn--primary",
-            "link_2": "shopify:\/\/collections\/acrylic-inks",
+            "link_2": "shopify://collections/acrylic-inks",
             "link_text_2": "Shop now",
             "button_style_2": "btn--primary",
             "text_color": "#ffffff",
@@ -107,8 +107,8 @@
         "1b50cc8d-0aca-4ec4-a391-e0e0c9e2e356": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/cbc814efc1fb09e7335a3cbf525c46b7_85327f49-a898-4365-b02d-b1a87b8e9749.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/paste_mobile.jpg",
+            "image": "shopify://shop_images/cbc814efc1fb09e7335a3cbf525c46b7_85327f49-a898-4365-b02d-b1a87b8e9749.jpg",
+            "image_mobile": "shopify://shop_images/paste_mobile.jpg",
             "focal_point": "image_presentation",
             "mobile_focal_point": "image_presentation",
             "media_link": "",
@@ -121,7 +121,7 @@
             "subheading_font_class": "fs-heading-4-base",
             "text": "",
             "text_font_class": "fs-body-100",
-            "link_1": "shopify:\/\/collections\/texture-art",
+            "link_1": "shopify://collections/texture-art",
             "link_text_1": "Shop now",
             "button_style_1": "btn--primary",
             "link_2": "",
@@ -151,7 +151,7 @@
             "subheading_font_class": "fs-heading-4-base",
             "text": "",
             "text_font_class": "fs-body-100",
-            "link_1": "shopify:\/\/collections\/texture-art",
+            "link_1": "shopify://collections/texture-art",
             "link_text_1": "Shop now",
             "button_style_1": "btn--primary",
             "link_2": "",
@@ -179,7 +179,7 @@
             "heading_font_class": "fs-heading-display-2",
             "subheading": "One day only 15% off storewide!",
             "subheading_font_class": "fs-heading-5-base",
-            "text": "<p>apply MARCH8 code during checkout<\/p>",
+            "text": "<p>apply MARCH8 code during checkout</p>",
             "text_font_class": "fs-body-75",
             "link_1": "",
             "link_text_1": "Read more",
@@ -233,8 +233,8 @@
         "hide_timer_on_complete": true,
         "timer_complete_message": "",
         "heading": "Warm wishes on Women's Day",
-        "text": "<p>Enjoy 15% off all products today with discount code MARCH8<\/p>",
-        "link": "shopify:\/\/collections",
+        "text": "<p>Enjoy 15% off all products today with discount code MARCH8</p>",
+        "link": "shopify://collections",
         "link_text": "SHOP NOW",
         "button_style": "btn--secondary",
         "focal_point": "image_presentation",
@@ -265,7 +265,7 @@
         "1654917794cdc0bc3c-1": {
           "type": "text",
           "settings": {
-            "text": "<p>MADE BY ARTIST FOR AN ARTIST<\/p>",
+            "text": "<p>MADE BY ARTIST FOR AN ARTIST</p>",
             "text_font_class": "fs-body-200"
           }
         }
@@ -292,7 +292,7 @@
             "width": "33",
             "height": 500,
             "mobile_height": 360,
-            "image": "shopify:\/\/shop_images\/891a648af5a203153ee312a9f817fed6.jpg",
+            "image": "shopify://shop_images/891a648af5a203153ee312a9f817fed6.jpg",
             "media_fit": "cover",
             "focal_point": "image_presentation",
             "mobile_focal_point": "image_presentation",
@@ -300,11 +300,11 @@
             "accent": "",
             "title": "Alcohol Inks",
             "heading_font_class": "fs-heading-2-base",
-            "subheading": "<p>for light and airy paintings<\/p>",
+            "subheading": "<p>for light and airy paintings</p>",
             "subheading_font_class": "fs-heading-6-base",
             "text": "",
             "text_font_class": "fs-body-100",
-            "link": "shopify:\/\/collections\/alcohol-inks",
+            "link": "shopify://collections/alcohol-inks",
             "link_text": "Shop now",
             "button_style": "btn--callout",
             "background_color": "",
@@ -322,7 +322,7 @@
             "width": "33",
             "height": 600,
             "mobile_height": 360,
-            "image": "shopify:\/\/shop_images\/656004a7055fce018fd4f6228383679f.jpg",
+            "image": "shopify://shop_images/656004a7055fce018fd4f6228383679f.jpg",
             "media_fit": "cover",
             "focal_point": "image_presentation",
             "mobile_focal_point": "image_presentation",
@@ -330,11 +330,11 @@
             "accent": "",
             "title": "Modeling",
             "heading_font_class": "fs-heading-2-base",
-            "subheading": "<p>for volumetric and bas-relief paintings<\/p>",
+            "subheading": "<p>for volumetric and bas-relief paintings</p>",
             "subheading_font_class": "fs-heading-6-base",
             "text": "",
             "text_font_class": "fs-body-100",
-            "link": "shopify:\/\/collections\/modeling-art-supplies",
+            "link": "shopify://collections/modeling-art-supplies",
             "link_text": "Shop now",
             "button_style": "btn--callout",
             "background_color": "",
@@ -352,7 +352,7 @@
             "width": "33",
             "height": 500,
             "mobile_height": 360,
-            "image": "shopify:\/\/shop_images\/IMG_8572.png",
+            "image": "shopify://shop_images/IMG_8572.png",
             "media_fit": "cover",
             "focal_point": "image_presentation",
             "mobile_focal_point": "image_presentation",
@@ -360,11 +360,11 @@
             "accent": "",
             "title": "Acrylic",
             "heading_font_class": "fs-heading-2-base",
-            "subheading": "<p>concentrated color and liquid texture<\/p>",
+            "subheading": "<p>concentrated color and liquid texture</p>",
             "subheading_font_class": "fs-heading-6-base",
             "text": "",
             "text_font_class": "fs-body-100",
-            "link": "shopify:\/\/collections\/acrylic",
+            "link": "shopify://collections/acrylic",
             "link_text": "Shop now",
             "button_style": "btn--callout",
             "background_color": "",
@@ -407,7 +407,7 @@
         "template--19727828091163__d9fa6090-9387-4c14-a533-594633ad9155-168899779145218414-1": {
           "type": "text",
           "settings": {
-            "text": "<p>We offer professional art supplies for the most innovative painting techniques to release your creative potential. Touch art with KAMENSKAYA!<\/p>",
+            "text": "<p>We offer professional art supplies for the most innovative painting techniques to release your creative potential. Touch art with KAMENSKAYA!</p>",
             "text_font_class": "fs-body-200"
           }
         }
@@ -434,7 +434,7 @@
             "focal_point": "image_presentation",
             "mobile_focal_point": "image_presentation",
             "title": "Image hero split",
-            "text": "<p>Use this sections to promote a particular feature with editorial photography.<\/p>",
+            "text": "<p>Use this sections to promote a particular feature with editorial photography.</p>",
             "link": "",
             "link_text": "Read more",
             "button_style": "btn--primary"
@@ -446,7 +446,7 @@
             "focal_point": "image_presentation",
             "mobile_focal_point": "image_presentation",
             "title": "Image hero split",
-            "text": "<p>Use this sections to promote a particular feature with editorial photography.<\/p>",
+            "text": "<p>Use this sections to promote a particular feature with editorial photography.</p>",
             "link": "",
             "link_text": "Read more",
             "button_style": "btn--primary"
@@ -489,11 +489,11 @@
         "currency_symbol_position": "before",
         "heading": "Announce your sale",
         "heading_font_class": "fs-heading-3-base",
-        "text": "<p>Highlight sale campaigns, discounts, and promotions.<\/p>",
-        "link": "shopify:\/\/collections",
+        "text": "<p>Highlight sale campaigns, discounts, and promotions.</p>",
+        "link": "shopify://collections",
         "link_text": "Button",
         "button_style": "btn--secondary",
-        "link_2": "shopify:\/\/collections",
+        "link_2": "shopify://collections",
         "link_text_2": "Button",
         "button_style_2": "btn--secondary",
         "focal_point": "image_presentation",
@@ -521,7 +521,7 @@
             "width": "50",
             "height": 300,
             "mobile_height": 460,
-            "image": "shopify:\/\/shop_images\/IMG_1956.jpg",
+            "image": "shopify://shop_images/IMG_1956.jpg",
             "media_fit": "cover",
             "focal_point": "image_presentation",
             "mobile_focal_point": "image_presentation",
@@ -533,7 +533,7 @@
             "subheading_font_class": "fs-heading-5-base",
             "text": "",
             "text_font_class": "fs-body-100",
-            "link": "shopify:\/\/collections\/delaminating-alcohol-inks",
+            "link": "shopify://collections/delaminating-alcohol-inks",
             "link_text": "Shop delaminating inks",
             "button_style": "btn--callout",
             "background_color": "",
@@ -551,7 +551,7 @@
             "width": "50",
             "height": 700,
             "mobile_height": 460,
-            "image": "shopify:\/\/shop_images\/IMG_7248.jpg",
+            "image": "shopify://shop_images/IMG_7248.jpg",
             "media_fit": "cover",
             "focal_point": "image_presentation",
             "mobile_focal_point": "image_presentation",
@@ -563,7 +563,7 @@
             "subheading_font_class": "fs-heading-5-base",
             "text": "",
             "text_font_class": "fs-body-100",
-            "link": "shopify:\/\/collections\/metallic-alcohol-inks",
+            "link": "shopify://collections/metallic-alcohol-inks",
             "link_text": "Add accent to your work",
             "button_style": "btn--callout",
             "background_color": "",
@@ -612,7 +612,7 @@
       "settings": {
         "heading": "Latest Arrivals",
         "subheading": "",
-        "link": "shopify:\/\/collections\/new",
+        "link": "shopify://collections/new",
         "link_text": "View all new",
         "maximum_products": 15,
         "columns": "4",
@@ -627,7 +627,7 @@
       "settings": {
         "heading": "Popular collections",
         "subheading": "",
-        "link": "shopify:\/\/collections",
+        "link": "shopify://collections",
         "link_text": "View all collections",
         "columns": "3",
         "mobile_columns": "1",
@@ -662,7 +662,7 @@
             "accent": "",
             "title": "Grid item",
             "heading_font_class": "fs-heading-2-base",
-            "subheading": "<p>Perfect for lookbooks and editorial photography<\/p>",
+            "subheading": "<p>Perfect for lookbooks and editorial photography</p>",
             "subheading_font_class": "fs-heading-5-base",
             "text": "",
             "text_font_class": "fs-body-100",
@@ -691,7 +691,7 @@
             "accent": "",
             "title": "Grid item",
             "heading_font_class": "fs-heading-2-base",
-            "subheading": "<p>Perfect for lookbooks and editorial photography<\/p>",
+            "subheading": "<p>Perfect for lookbooks and editorial photography</p>",
             "subheading_font_class": "fs-heading-5-base",
             "text": "",
             "text_font_class": "fs-body-100",
@@ -720,7 +720,7 @@
             "accent": "",
             "title": "Grid item",
             "heading_font_class": "fs-heading-2-base",
-            "subheading": "<p>Perfect for lookbooks and editorial photography<\/p>",
+            "subheading": "<p>Perfect for lookbooks and editorial photography</p>",
             "subheading_font_class": "fs-heading-5-base",
             "text": "",
             "text_font_class": "fs-body-100",
@@ -749,7 +749,7 @@
             "accent": "",
             "title": "Grid item",
             "heading_font_class": "fs-heading-2-base",
-            "subheading": "<p>Perfect for lookbooks and editorial photography<\/p>",
+            "subheading": "<p>Perfect for lookbooks and editorial photography</p>",
             "subheading_font_class": "fs-heading-5-base",
             "text": "",
             "text_font_class": "fs-body-100",
@@ -778,7 +778,7 @@
             "accent": "",
             "title": "Grid item",
             "heading_font_class": "fs-heading-2-base",
-            "subheading": "<p>Perfect for lookbooks and editorial photography<\/p>",
+            "subheading": "<p>Perfect for lookbooks and editorial photography</p>",
             "subheading_font_class": "fs-heading-5-base",
             "text": "",
             "text_font_class": "fs-body-100",
@@ -807,7 +807,7 @@
             "accent": "",
             "title": "Grid item",
             "heading_font_class": "fs-heading-2-base",
-            "subheading": "<p>Perfect for lookbooks and editorial photography<\/p>",
+            "subheading": "<p>Perfect for lookbooks and editorial photography</p>",
             "subheading_font_class": "fs-heading-5-base",
             "text": "",
             "text_font_class": "fs-body-100",
@@ -880,12 +880,12 @@
         "16548834735b1dc2a7-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Ballerinas_2.jpg",
+        "image": "shopify://shop_images/Ballerinas_2.jpg",
         "image_position": "left",
         "image_size": 50,
         "aspect_ratio": "portrait_alt",
         "heading": "Start your ink art journey with Ink Art Coloring Set",
-        "subheading": "<p>11 boxes with all materials and video tutorial to create a triptych in a selected theme<\/p>",
+        "subheading": "<p>11 boxes with all materials and video tutorial to create a triptych in a selected theme</p>",
         "link": "",
         "link_text": "Shop now",
         "button_style": "btn--callout",
@@ -970,8 +970,8 @@
       "disabled": true,
       "settings": {
         "heading": "Best sellers",
-        "subheading": "<p>Shop our favourites, chosen by you.<\/p>",
-        "link": "shopify:\/\/collections",
+        "subheading": "<p>Shop our favourites, chosen by you.</p>",
+        "link": "shopify://collections",
         "link_text": "View all bestsellers",
         "columns": "4",
         "mobile_columns": "2",
@@ -1008,8 +1008,8 @@
       ],
       "settings": {
         "heading": "Best sellers",
-        "subheading": "<p>Shop our favourites, chosen by you<\/p>",
-        "link": "shopify:\/\/collections\/best-sellers",
+        "subheading": "<p>Shop our favourites, chosen by you</p>",
+        "link": "shopify://collections/best-sellers",
         "link_text": "Shop all best sellers",
         "maximum_products": 8,
         "columns": "4",
@@ -1034,10 +1034,10 @@
             "accent": "",
             "heading": "A-01 \"White\"",
             "heading_font_class": "fs-heading-4-base",
-            "text": "<p>The dyes and pigments in the inks have a high lightfastness level of 7-10, which means that your colours will remain rich and vibrant for a long time.<\/p>",
+            "text": "<p>The dyes and pigments in the inks have a high lightfastness level of 7-10, which means that your colours will remain rich and vibrant for a long time.</p>",
             "text_font_class": "fs-body-75",
             "text_max_width": 100,
-            "link": "shopify:\/\/products\/a-01-white",
+            "link": "shopify://products/a-01-white",
             "link_text": "Shop now",
             "button_style": "btn--primary"
           }
@@ -1054,10 +1054,10 @@
             "accent": "",
             "heading": "A-02 \"Yellow\"",
             "heading_font_class": "fs-heading-4-base",
-            "text": "<p>The dyes and pigments in the inks have a high lightfastness level of 7-10, which means that your colours will remain rich and vibrant for a long time.<\/p>",
+            "text": "<p>The dyes and pigments in the inks have a high lightfastness level of 7-10, which means that your colours will remain rich and vibrant for a long time.</p>",
             "text_font_class": "fs-body-75",
             "text_max_width": 100,
-            "link": "shopify:\/\/products\/a-02-yellow",
+            "link": "shopify://products/a-02-yellow",
             "link_text": "Shop now",
             "button_style": "btn--primary"
           }
@@ -1069,12 +1069,12 @@
             "aspect_ratio": "square",
             "focal_point": "image_presentation",
             "image_position": "above_text",
-            "image_link": "shopify:\/\/products\/a-04-light-blue",
+            "image_link": "shopify://products/a-04-light-blue",
             "small_caption": "",
             "accent": "",
             "heading": "A-04 \"Light blue\"",
             "heading_font_class": "fs-heading-4-base",
-            "text": "<p>The dyes and pigments in the inks have a high lightfastness level of 7-10, which means that your colours will remain rich and vibrant for a long time.<\/p>",
+            "text": "<p>The dyes and pigments in the inks have a high lightfastness level of 7-10, which means that your colours will remain rich and vibrant for a long time.</p>",
             "text_font_class": "fs-body-75",
             "text_max_width": 100,
             "link": "",
@@ -1094,10 +1094,10 @@
             "accent": "",
             "heading": "A-06 \"Brown chestnut\"",
             "heading_font_class": "fs-heading-4-base",
-            "text": "<p>The dyes and pigments in the inks have a high lightfastness level of 7-10, which means that your colours will remain rich and vibrant for a long time.<\/p>",
+            "text": "<p>The dyes and pigments in the inks have a high lightfastness level of 7-10, which means that your colours will remain rich and vibrant for a long time.</p>",
             "text_font_class": "fs-body-75",
             "text_max_width": 100,
-            "link": "shopify:\/\/products\/alcohol-ink-a-06-brown-chestnut",
+            "link": "shopify://products/alcohol-ink-a-06-brown-chestnut",
             "link_text": "Shop now",
             "button_style": "btn--primary"
           }
@@ -1112,8 +1112,8 @@
       "disabled": true,
       "settings": {
         "title": "Best sellers",
-        "subheading": "<p>Shop our favourites, chosen by you.<\/p>",
-        "subheading_link": "shopify:\/\/collections\/best-sellers",
+        "subheading": "<p>Shop our favourites, chosen by you.</p>",
+        "subheading_link": "shopify://collections/best-sellers",
         "subheading_link_text": "Shop all best sellers",
         "heading_font_class": "fs-heading-3-base",
         "heading_alignment": "left",
@@ -1163,7 +1163,7 @@
         "63e2f450-ccdf-4ba0-8c95-8e7b01b5c7f5": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/01_a22819c7-0a71-4441-8a5d-ab81f12f681c.jpg",
+            "image": "shopify://shop_images/01_a22819c7-0a71-4441-8a5d-ab81f12f681c.jpg",
             "image_size": 750,
             "image_size_mobile": 350
           }
@@ -1171,7 +1171,7 @@
         "7f329234-f652-4947-8f09-cad43d072028": {
           "type": "button",
           "settings": {
-            "link": "shopify:\/\/products\/texture-fiber",
+            "link": "shopify://products/texture-fiber",
             "link_text": "shop now",
             "button_style": "btn--secondary"
           }
@@ -1188,7 +1188,7 @@
         "image_position": "right",
         "image_mobile_position": "above-content",
         "image_padding": "all-sides",
-        "image": "shopify:\/\/shop_images\/photo_2024-02-26_18.14.41.jpg",
+        "image": "shopify://shop_images/photo_2024-02-26_18.14.41.jpg",
         "aspect_ratio": "natural",
         "focal_point": "image_presentation",
         "content_alignment": "center",
@@ -1601,7 +1601,7 @@
         "39a1cced-a841-48eb-bf01-2041e2134155": {
           "type": "play-button",
           "settings": {
-            "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/864c3533b17f40c5b664c59f1fd07b0c.mp4",
+            "video_url": "https://cdn.shopify.com/videos/c/o/v/864c3533b17f40c5b664c59f1fd07b0c.mp4",
             "aspect_ratio": "natural",
             "text": "Watch now",
             "icon_style": "light"
@@ -1619,7 +1619,7 @@
         "desktop_height": 65,
         "mobile_height": 50,
         "video_url": "",
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-08-15_at_18.33.14.png",
+        "image": "shopify://shop_images/Screenshot_2023-08-15_at_18.33.14.png",
         "media_link": "",
         "focal_point": "image_presentation",
         "text_position": "center_flex-end",
@@ -1680,7 +1680,7 @@
         "2c5ae3e6-0766-4bad-aff5-a724000e1ddd": {
           "type": "text",
           "settings": {
-            "text": "<p>Use these sections to promote a particular feature with editorial photography<\/p>",
+            "text": "<p>Use these sections to promote a particular feature with editorial photography</p>",
             "text_font_class": "fs-body-75"
           }
         },
@@ -1699,7 +1699,7 @@
         "78b87e77-53f6-4b58-828a-36ba7eeaa4f1": {
           "type": "text",
           "settings": {
-            "text": "<p>Use these sections to promote a particular feature with editorial photography<\/p>",
+            "text": "<p>Use these sections to promote a particular feature with editorial photography</p>",
             "text_font_class": "fs-body-75"
           }
         },
@@ -1816,7 +1816,7 @@
             "heading_font_class": "fs-heading-4-base",
             "subheading": "",
             "subheading_font_class": "fs-heading-6-base",
-            "text": "<p>Include a short sentence describing what someone can expect from your newsletter.<\/p>",
+            "text": "<p>Include a short sentence describing what someone can expect from your newsletter.</p>",
             "text_font_class": "fs-body-75"
           }
         },
@@ -1824,7 +1824,7 @@
           "type": "newsletter_signup",
           "settings": {
             "signup_link_text": "Sign up",
-            "footer_text": "<p>By completing this form, you are signing up to receive our emails and can unsubscribe at any time.<\/p>"
+            "footer_text": "<p>By completing this form, you are signing up to receive our emails and can unsubscribe at any time.</p>"
           }
         }
       },
