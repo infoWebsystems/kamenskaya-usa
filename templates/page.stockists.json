@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -31,7 +31,7 @@
         "block-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Use these sections to promote a particular feature with editorial photography.<\/p>",
+            "text": "<p>Use these sections to promote a particular feature with editorial photography.</p>",
             "text_font_class": "fs-body-100"
           }
         }
@@ -75,7 +75,7 @@
             "text": "",
             "text_font_class": "fs-body-100",
             "text_max_width": 100,
-            "link": "https:\/\/www.amazon.com\/stores\/page\/A84399D8-FC2E-4E73-BBEE-616A1185749F?maas=maas_adg_AAC2F1C596FAC24ED5C8D60AA0218EED_afap_abs&ref_=aa_maas&tag=maas",
+            "link": "https://www.amazon.com/stores/page/A84399D8-FC2E-4E73-BBEE-616A1185749F?maas=maas_adg_AAC2F1C596FAC24ED5C8D60AA0218EED_afap_abs&ref_=aa_maas&tag=maas",
             "link_text": "VISIT WEB-SITE",
             "button_style": "btn--callout"
           }
@@ -92,7 +92,41 @@
             "text": "",
             "text_font_class": "fs-body-100",
             "text_max_width": 100,
-            "link": "https:\/\/prismclayco.com\/collections\/kamenskaya-ink",
+            "link": "https://prismclayco.com/collections/kamenskaya-ink",
+            "link_text": "VISIT WEB-SITE",
+            "button_style": "btn--callout"
+          }
+        },
+        "icon_column_CkHJiE": {
+          "type": "icon_column",
+          "settings": {
+            "icon": "none",
+            "icon_width": 50,
+            "icon_width_mobile": 50,
+            "accent": "scrapbooking.ca",
+            "heading": "Canada",
+            "heading_font_class": "fs-heading-4-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "text_max_width": 100,
+            "link": "https://www.scrapbooking.ca/iishop?form_version=2&showSearchResults=1&search_keyword=kamenskaya&image=Search",
+            "link_text": "VISIT WEB-SITE",
+            "button_style": "btn--callout"
+          }
+        },
+        "icon_column_DDMkYn": {
+          "type": "icon_column",
+          "settings": {
+            "icon": "none",
+            "icon_width": 50,
+            "icon_width_mobile": 50,
+            "accent": "Dragon's Den Art (retail outlet)",
+            "heading": "Canada",
+            "heading_font_class": "fs-heading-4-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "text_max_width": 100,
+            "link": "https://www.pentictonartscouncil.com/art-groups/dragons-den",
             "link_text": "VISIT WEB-SITE",
             "button_style": "btn--callout"
           }
@@ -109,7 +143,7 @@
             "text": "",
             "text_font_class": "fs-body-100",
             "text_max_width": 100,
-            "link": "https:\/\/www.kalyandklay.com\/collections\/kamenskaya",
+            "link": "https://www.kalyandklay.com/collections/kamenskaya",
             "link_text": "VISIT WEB-SITE",
             "button_style": "btn--callout"
           }
@@ -126,7 +160,7 @@
             "text": "",
             "text_font_class": "fs-body-100",
             "text_max_width": 100,
-            "link": "https:\/\/alkoholink.pl\/pl\/c\/Tusze-alkoholowe-KAMENSKAYA\/54",
+            "link": "https://alkoholink.pl/pl/c/Tusze-alkoholowe-KAMENSKAYA/54",
             "link_text": "VISIT WEB-SITE",
             "button_style": "btn--callout"
           }
@@ -143,7 +177,7 @@
             "text": "",
             "text_font_class": "fs-body-100",
             "text_max_width": 100,
-            "link": "https:\/\/flashart.ee",
+            "link": "https://flashart.ee",
             "link_text": "VISIT WEB-SITE",
             "button_style": "btn--callout"
           }
@@ -160,7 +194,7 @@
             "text": "",
             "text_font_class": "fs-body-100",
             "text_max_width": 100,
-            "link": "https:\/\/www.artmie.sk\/search-engine.htm?slovo=kamenskaya&search_submit=&hledatjak=2",
+            "link": "https://www.artmie.sk/search-engine.htm?slovo=kamenskaya&search_submit=&hledatjak=2",
             "link_text": "VISIT WEB-SITE",
             "button_style": "btn--callout"
           }
@@ -177,7 +211,7 @@
             "text": "",
             "text_font_class": "fs-body-100",
             "text_max_width": 100,
-            "link": "https:\/\/peppermint.handcrafted.jp\/categories\/2662602",
+            "link": "https://peppermint.handcrafted.jp/categories/2662602",
             "link_text": "VISIT WEB-SITE",
             "button_style": "btn--callout"
           }
@@ -194,7 +228,7 @@
             "text": "",
             "text_font_class": "fs-body-100",
             "text_max_width": 100,
-            "link": "https:\/\/mil.theshop.jp\/categories\/3475963",
+            "link": "https://mil.theshop.jp/categories/3475963",
             "link_text": "VISIT WEB-SITE",
             "button_style": "btn--callout"
           }
@@ -212,7 +246,7 @@
             "text": "",
             "text_font_class": "fs-body-100",
             "text_max_width": 100,
-            "link": "https:\/\/www.inspirationcorners.com\/kamenskaya.html",
+            "link": "https://www.inspirationcorners.com/kamenskaya.html",
             "link_text": "VISIT WEB-SITE",
             "button_style": "btn--primary"
           }
@@ -229,7 +263,7 @@
             "text": "",
             "text_font_class": "fs-body-100",
             "text_max_width": 100,
-            "link": "https:\/\/smartstore.naver.com\/resinart\/products\/7555837159",
+            "link": "https://smartstore.naver.com/resinart/products/7555837159",
             "link_text": "VISIT WEB-SITE",
             "button_style": "btn--callout"
           }
@@ -246,7 +280,7 @@
             "text": "",
             "text_font_class": "fs-body-100",
             "text_max_width": 100,
-            "link": "https:\/\/resin4art.nz\/product-category\/kamenskaya-alcohol-inks\/",
+            "link": "https://resin4art.nz/product-category/kamenskaya-alcohol-inks/",
             "link_text": "VISIT WEB-SITE",
             "button_style": "btn--callout"
           }
@@ -263,7 +297,7 @@
             "text": "",
             "text_font_class": "fs-body-100",
             "text_max_width": 100,
-            "link": "https:\/\/claybydesignaus.com\/collections\/kamenskaya-products",
+            "link": "https://claybydesignaus.com/collections/kamenskaya-products",
             "link_text": "VISIT WEB-SITE",
             "button_style": "btn--callout"
           }
@@ -281,7 +315,7 @@
             "text": "",
             "text_font_class": "fs-body-100",
             "text_max_width": 100,
-            "link": "https:\/\/www.liquidfantasy.co.za\/collections\/kamenskaya?page=1",
+            "link": "https://www.liquidfantasy.co.za/collections/kamenskaya?page=1",
             "link_text": "VISIT WEB-SITE",
             "button_style": "btn--primary"
           }
@@ -298,7 +332,7 @@
             "text": "",
             "text_font_class": "fs-body-100",
             "text_max_width": 100,
-            "link": "https:\/\/hobbypark.kg\/catalog\/tovary_dlya_khudozhnikov\/kraski_i_kontury\/alkogolnye_chernila\/filter\/brand-is-kamenskaya\/apply\/",
+            "link": "https://hobbypark.kg/catalog/tovary_dlya_khudozhnikov/kraski_i_kontury/alkogolnye_chernila/filter/brand-is-kamenskaya/apply/",
             "link_text": "VISIT WEB-SITE",
             "button_style": "btn--callout"
           }
@@ -307,6 +341,8 @@
       "block_order": [
         "a1bd58a7-1db5-43a9-9bba-2038f66a921b",
         "icon_column_GaFijt",
+        "icon_column_CkHJiE",
+        "icon_column_DDMkYn",
         "icon_column_3nMCiz",
         "1746e7d2-697e-49fc-8047-0e1cc87fcd8f",
         "bfaa27cb-1d44-4b72-8667-12f293c8d1c0",
@@ -362,7 +398,7 @@
             "accent": "",
             "heading": "Store 1",
             "heading_font_class": "fs-heading-4-base",
-            "text": "<p>123 Queen Street<br\/>Toronto, ON <br\/>M1R 0E9<br\/>Canada<\/p>",
+            "text": "<p>123 Queen Street<br/>Toronto, ON <br/>M1R 0E9<br/>Canada</p>",
             "text_font_class": "fs-body-100",
             "text_max_width": 100,
             "link": "",
@@ -382,7 +418,7 @@
             "accent": "",
             "heading": "Store 2",
             "heading_font_class": "fs-heading-4-base",
-            "text": "<p>789 Main Street<br\/>Vancouver, BC <br\/>V9A 4J3<br\/>Canada<\/p>",
+            "text": "<p>789 Main Street<br/>Vancouver, BC <br/>V9A 4J3<br/>Canada</p>",
             "text_font_class": "fs-body-100",
             "text_max_width": 100,
             "link": "",
@@ -402,7 +438,7 @@
             "accent": "",
             "heading": "Store 3",
             "heading_font_class": "fs-heading-4-base",
-            "text": "<p>123 Fake Street<br\/>Vancouver, BC<br\/>V8X 3K1<br\/>United States<\/p>",
+            "text": "<p>123 Fake Street<br/>Vancouver, BC<br/>V8X 3K1<br/>United States</p>",
             "text_font_class": "fs-body-100",
             "text_max_width": 100,
             "link": "",
@@ -494,7 +530,7 @@
             "heading": "",
             "heading_link": "",
             "heading_font_class": "fs-heading-4-base",
-            "text": "<p><strong>Location<\/strong><span style=\"text-decoration:underline\"><br\/><\/span>1234 Pretend Street, <br\/>Abbotsford 3000, VIC<br\/>Australia<br\/><br\/><strong>Hours<\/strong><span style=\"text-decoration:underline\"><br\/><\/span>Monday - Sunday 11 am - 7pm<\/p>",
+            "text": "<p><strong>Location</strong><span style=\"text-decoration:underline\"><br/></span>1234 Pretend Street, <br/>Abbotsford 3000, VIC<br/>Australia<br/><br/><strong>Hours</strong><span style=\"text-decoration:underline\"><br/></span>Monday - Sunday 11 am - 7pm</p>",
             "text_font_class": "fs-body-100",
             "text_max_width": 100,
             "link": "",
@@ -611,7 +647,7 @@
         "alignment": "center_center",
         "heading": "BECOME A PARTNER",
         "heading_font_class": "fs-heading-3-base",
-        "text": "<p>Please fill out the form below with the required information. We will review your application and get back to you by email. Be sure to provide as much detail as possible to help us understand how we can best collaborate.<\/p>",
+        "text": "<p>Please fill out the form below with the required information. We will review your application and get back to you by email. Be sure to provide as much detail as possible to help us understand how we can best collaborate.</p>",
         "show_recaptcha_terms": true,
         "enable_animation": true,
         "divider_style": "none",
