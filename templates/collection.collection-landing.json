@@ -102,26 +102,6 @@
         "custom_content_width": 700
       }
     },
-    "1731664694162fa7a0": {
-      "type": "apps",
-      "blocks": {
-        "judge_me_reviews_featured_carousel_Ynayri": {
-          "type": "shopify://apps/judge-me-reviews/blocks/featured_carousel/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-            "maxwidth": 1080
-          }
-        }
-      },
-      "block_order": [
-        "judge_me_reviews_featured_carousel_Ynayri"
-      ],
-      "settings": {
-        "heading": "",
-        "enable_animation": true,
-        "divider_style": "none",
-        "section_padding": "section--vertical-padding-top-bottom"
-      }
-    },
     "image-hero-1": {
       "type": "image-hero",
       "blocks": {
@@ -173,6 +153,26 @@
         "overlay_opacity": 0,
         "enable_animation": true,
         "section_padding": "section--vertical-padding-none"
+      }
+    },
+    "1731664694162fa7a0": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_featured_carousel_Ynayri": {
+          "type": "shopify://apps/judge-me-reviews/blocks/featured_carousel/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "maxwidth": 1080
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_featured_carousel_Ynayri"
+      ],
+      "settings": {
+        "heading": "",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom"
       }
     },
     "rich-text-1": {
@@ -1252,8 +1252,8 @@
     "banner",
     "image_hero_dbYytq",
     "rich-text-2",
-    "1731664694162fa7a0",
     "image-hero-1",
+    "1731664694162fa7a0",
     "rich-text-1",
     "image_hero_QJJHL9",
     "image_hero_ryiRiF",
