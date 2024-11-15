@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "banner": {
@@ -42,7 +42,7 @@
         "text_Q4fT6B": {
           "type": "text",
           "settings": {
-            "text": "<p>MADE BY ARTIST FOR AN ARTIST<\/p>",
+            "text": "<p>MADE BY ARTIST FOR AN ARTIST</p>",
             "text_font_class": "fs-body-200"
           }
         }
@@ -55,7 +55,7 @@
         "image_aspect": "original",
         "desktop_height": 100,
         "mobile_height": 100,
-        "image": "shopify:\/\/shop_images\/02.png",
+        "image": "shopify://shop_images/02.png",
         "focal_point": "image_presentation",
         "mobile_focal_point": "image_presentation",
         "media_link": "",
@@ -77,7 +77,7 @@
         "block-3": {
           "type": "text",
           "settings": {
-            "text": "<p>HIGH CONCENTRATION, COMPLEX SHADES AND LIGHT FASTNESS<\/p>",
+            "text": "<p>HIGH CONCENTRATION, COMPLEX SHADES AND LIGHT FASTNESS</p>",
             "text_font_class": "fs-body-200"
           }
         },
@@ -125,7 +125,7 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "<p>MADE BY ARTIST FOR AN ARTIST<\/p>",
+            "text": "<p>MADE BY ARTIST FOR AN ARTIST</p>",
             "text_font_class": "fs-body-100"
           }
         }
@@ -139,7 +139,7 @@
         "image_aspect": "original",
         "desktop_height": 75,
         "mobile_height": 75,
-        "image": "shopify:\/\/shop_images\/IMG_3237.jpg",
+        "image": "shopify://shop_images/IMG_3237.jpg",
         "focal_point": "image_presentation",
         "mobile_focal_point": "image_presentation",
         "media_link": "",
@@ -208,7 +208,7 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "<p>Use these sections to promote a particular feature with editorial photography.<\/p>",
+            "text": "<p>Use these sections to promote a particular feature with editorial photography.</p>",
             "text_font_class": "fs-body-100"
           }
         }
@@ -223,7 +223,7 @@
         "image_aspect": "original",
         "desktop_height": 100,
         "mobile_height": 100,
-        "image": "shopify:\/\/shop_images\/05_bbf1a648-5d21-420e-baea-1b5629ab7ce1.jpg",
+        "image": "shopify://shop_images/05_bbf1a648-5d21-420e-baea-1b5629ab7ce1.jpg",
         "focal_point": "image_presentation",
         "mobile_focal_point": "image_presentation",
         "media_link": "",
@@ -261,7 +261,7 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "<p>Use these sections to promote a particular feature with editorial photography.<\/p>",
+            "text": "<p>Use these sections to promote a particular feature with editorial photography.</p>",
             "text_font_class": "fs-body-100"
           }
         }
@@ -276,7 +276,7 @@
         "image_aspect": "original",
         "desktop_height": 100,
         "mobile_height": 100,
-        "image": "shopify:\/\/shop_images\/04_ea0cbf0f-9320-444e-8a72-f10419fdbd5a.jpg",
+        "image": "shopify://shop_images/04_ea0cbf0f-9320-444e-8a72-f10419fdbd5a.jpg",
         "focal_point": "image_presentation",
         "mobile_focal_point": "image_presentation",
         "media_link": "",
@@ -314,7 +314,7 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "<p>Use these sections to promote a particular feature with editorial photography.<\/p>",
+            "text": "<p>Use these sections to promote a particular feature with editorial photography.</p>",
             "text_font_class": "fs-body-100"
           }
         }
@@ -329,7 +329,7 @@
         "image_aspect": "original",
         "desktop_height": 100,
         "mobile_height": 100,
-        "image": "shopify:\/\/shop_images\/03_b8dd81d4-860c-46d4-8380-357055475896.jpg",
+        "image": "shopify://shop_images/03_b8dd81d4-860c-46d4-8380-357055475896.jpg",
         "focal_point": "image_presentation",
         "mobile_focal_point": "image_presentation",
         "media_link": "",
@@ -355,7 +355,7 @@
             "heading": "Make your choice:",
             "heading_link": "",
             "heading_font_class": "fs-heading-3-base",
-            "text": "<p>6 different collections with unique effects<\/p>",
+            "text": "<p>6 different collections with unique effects</p>",
             "text_font_class": "fs-body-100",
             "text_max_width": 100,
             "link": "",
@@ -366,12 +366,12 @@
         "block-1": {
           "type": "image_column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/cc863f7b80c4c8d1116182c027bc08ba.jpg",
+            "image": "shopify://shop_images/cc863f7b80c4c8d1116182c027bc08ba.jpg",
             "image_width": 100,
             "aspect_ratio": "square",
             "focal_point": "image_presentation",
             "image_position": "above_text",
-            "image_link": "shopify:\/\/collections\/alcohol-inks-core-a-line",
+            "image_link": "shopify://collections/alcohol-inks-core-a-line",
             "small_caption": "",
             "accent": "light translucent",
             "heading": "'A' Line",
@@ -387,12 +387,12 @@
         "block-2": {
           "type": "image_column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/a3a73e6227bac56fbbfe7ef7d92e35ee.jpg",
+            "image": "shopify://shop_images/a3a73e6227bac56fbbfe7ef7d92e35ee.jpg",
             "image_width": 100,
             "aspect_ratio": "square",
             "focal_point": "image_presentation",
             "image_position": "above_text",
-            "image_link": "shopify:\/\/collections\/pastel-alcohol-inks",
+            "image_link": "shopify://collections/pastel-alcohol-inks",
             "small_caption": "",
             "accent": "pastel shades",
             "heading": "'Nude' Inks",
@@ -408,12 +408,12 @@
         "block-3": {
           "type": "image_column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/39c9b5435f93dfe8828c4a480a138974.jpg",
+            "image": "shopify://shop_images/39c9b5435f93dfe8828c4a480a138974.jpg",
             "image_width": 100,
             "aspect_ratio": "square",
             "focal_point": "image_presentation",
             "image_position": "above_text",
-            "image_link": "shopify:\/\/collections\/metallic-alcohol-inks",
+            "image_link": "shopify://collections/metallic-alcohol-inks",
             "small_caption": "",
             "accent": "Shimmering metallic",
             "heading": "Metallic Inks",
@@ -429,12 +429,12 @@
         "image_column_4Ratb7": {
           "type": "image_column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/89b51f1f57ba0159be457ddb80d3836b.jpg",
+            "image": "shopify://shop_images/89b51f1f57ba0159be457ddb80d3836b.jpg",
             "image_width": 100,
             "aspect_ratio": "square",
             "focal_point": "image_presentation",
             "image_position": "above_text",
-            "image_link": "shopify:\/\/collections\/shimmering-alcohol-inks",
+            "image_link": "shopify://collections/shimmering-alcohol-inks",
             "small_caption": "",
             "accent": "shimmering pearlescent",
             "heading": "Nacre Chameleons",
@@ -450,12 +450,12 @@
         "image_column_cetyyp": {
           "type": "image_column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/4e93a670df0b8cb41d985010b9b08a2c.jpg",
+            "image": "shopify://shop_images/4e93a670df0b8cb41d985010b9b08a2c.jpg",
             "image_width": 100,
             "aspect_ratio": "square",
             "focal_point": "image_presentation",
             "image_position": "above_text",
-            "image_link": "shopify:\/\/collections\/delaminating-alcohol-inks",
+            "image_link": "shopify://collections/delaminating-alcohol-inks",
             "small_caption": "",
             "accent": "self-splitting effects",
             "heading": "Delaminating Inks",
@@ -471,12 +471,12 @@
         "image_column_e8P36K": {
           "type": "image_column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/904e3fd421add09d9098247442d80738.jpg",
+            "image": "shopify://shop_images/904e3fd421add09d9098247442d80738.jpg",
             "image_width": 100,
             "aspect_ratio": "square",
             "focal_point": "image_presentation",
             "image_position": "above_text",
-            "image_link": "shopify:\/\/collections\/alcohol-inks-for-petri-art",
+            "image_link": "shopify://collections/alcohol-inks-for-petri-art",
             "small_caption": "",
             "accent": "petri effects in resin layer",
             "heading": "Inks for Resin",
@@ -492,12 +492,12 @@
         "image_column_RBa4it": {
           "type": "image_column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/35fe379a29e6bea580defe81c84d17c9.jpg",
+            "image": "shopify://shop_images/35fe379a29e6bea580defe81c84d17c9.jpg",
             "image_width": 100,
             "aspect_ratio": "square",
             "focal_point": "image_presentation",
             "image_position": "above_text",
-            "image_link": "shopify:\/\/collections\/materials-for-ink-art",
+            "image_link": "shopify://collections/materials-for-ink-art",
             "small_caption": "",
             "accent": "materials for ink art",
             "heading": "Alcohol Ink Supplies",
@@ -553,7 +553,7 @@
       "type": "collection-list-grid",
       "settings": {
         "heading": "MAKE YOUR CHOICE!",
-        "subheading": "<p>6 different alcohol inks collections with unique effects<\/p>",
+        "subheading": "<p>6 different alcohol inks collections with unique effects</p>",
         "link": "",
         "link_text": "",
         "columns": "4",
@@ -583,7 +583,7 @@
       "disabled": true,
       "settings": {
         "heading": "MAKE YOUR CHOICE!",
-        "subheading": "<p>6 different alcohol inks collections with unique effects<\/p>",
+        "subheading": "<p>6 different alcohol inks collections with unique effects</p>",
         "link": "",
         "link_text": "",
         "columns": "5",
@@ -613,73 +613,73 @@
         "image_nYLw6Y": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/photo_2024-08-14_18.02.39.jpg",
+            "image": "shopify://shop_images/photo_2024-08-14_18.02.39.jpg",
             "focal_point": "image_presentation",
             "title": "Synthetic paper",
-            "text": "<p>Ink glides easily, creating patterns. Dries fast.<\/p>"
+            "text": "<p>Ink glides easily, creating patterns. Dries fast.</p>"
           }
         },
         "image_GiEttb": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/photo_2024-08-14_18.02.42.jpg",
+            "image": "shopify://shop_images/photo_2024-08-14_18.02.42.jpg",
             "focal_point": "image_presentation",
             "title": "Clay",
-            "text": "<p>Achieve a mineral cut effect or marble effect. Obtain a variety of shades using alcohol inks - from transparent to dense and shimmery.<\/p>"
+            "text": "<p>Achieve a mineral cut effect or marble effect. Obtain a variety of shades using alcohol inks - from transparent to dense and shimmery.</p>"
           }
         },
         "image_acG77c": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/photo_2024-08-14_18.02.43.jpg",
+            "image": "shopify://shop_images/photo_2024-08-14_18.02.43.jpg",
             "focal_point": "image_presentation",
             "title": "Petri Art",
-            "text": "<p>Dripping ink into the resin results in a petri effect that resembles multi-colored fireworks.<\/p>"
+            "text": "<p>Dripping ink into the resin results in a petri effect that resembles multi-colored fireworks.</p>"
           }
         },
         "image_7anHtb": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/photo_2024-08-14_18.02.41.jpg",
+            "image": "shopify://shop_images/photo_2024-08-14_18.02.41.jpg",
             "focal_point": "image_presentation",
             "title": "Plastic",
-            "text": "<p>Ink glides smoothly, forming a range of shapes and textures. Easy to create and paint again.<\/p>"
+            "text": "<p>Ink glides smoothly, forming a range of shapes and textures. Easy to create and paint again.</p>"
           }
         },
         "image_UrBimn": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/photo_2024-08-14_18.02.45.jpg",
+            "image": "shopify://shop_images/photo_2024-08-14_18.02.45.jpg",
             "focal_point": "image_presentation",
             "title": "Ceramic",
-            "text": "<p>Decorate cups and vases with inks for exclusive patterns.<\/p>"
+            "text": "<p>Decorate cups and vases with inks for exclusive patterns.</p>"
           }
         },
         "image_64EVYe": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/photo_2024-08-14_18.02.46.jpg",
+            "image": "shopify://shop_images/photo_2024-08-14_18.02.46.jpg",
             "focal_point": "image_presentation",
             "title": "Canvas",
-            "text": "<p>Prepare your canvas with our brand primer and apply inks with ease.<\/p>"
+            "text": "<p>Prepare your canvas with our brand primer and apply inks with ease.</p>"
           }
         },
         "image_brwaAX": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/photo_2024-08-14_18.02.47.jpg",
+            "image": "shopify://shop_images/photo_2024-08-14_18.02.47.jpg",
             "focal_point": "image_presentation",
             "title": "Coasters",
-            "text": "<p>Design decor items with your unique touch. Any smooth surface is an ideal canvas for your creation.<\/p>"
+            "text": "<p>Design decor items with your unique touch. Any smooth surface is an ideal canvas for your creation.</p>"
           }
         },
         "image_YqD7n9": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/photo_2024-08-14_18.02.48.jpg",
+            "image": "shopify://shop_images/photo_2024-08-14_18.02.48.jpg",
             "focal_point": "image_presentation",
             "title": "Glass",
-            "text": "<p>Inks work on even slippery surfaces.<\/p>"
+            "text": "<p>Inks work on even slippery surfaces.</p>"
           }
         }
       },
@@ -731,14 +731,14 @@
         "block-2": {
           "type": "text",
           "settings": {
-            "text": "<p>Add right accent to your work!<\/p>",
+            "text": "<p>Add right accent to your work!</p>",
             "text_font_class": "fs-body-200"
           }
         },
         "block-3": {
           "type": "button",
           "settings": {
-            "link": "shopify:\/\/collections\/metallic-alcohol-inks",
+            "link": "shopify://collections/metallic-alcohol-inks",
             "link_text": "Shop metallic alcohol inks",
             "button_style": "btn--secondary"
           }
@@ -763,12 +763,12 @@
       "settings": {
         "image_position": "left",
         "text_alignment": "center",
-        "image": "shopify:\/\/shop_images\/IMG_8953.jpg",
+        "image": "shopify://shop_images/IMG_8953.jpg",
         "aspect_ratio": "square",
         "focal_point": "image_presentation",
         "image_caption": "",
         "show_small_image": false,
-        "image_small": "shopify:\/\/shop_images\/IMG_8953.jpg",
+        "image_small": "shopify://shop_images/IMG_8953.jpg",
         "image_small_aspect_ratio": "square",
         "image_small_focal_point": "center",
         "background_color": "",
@@ -800,14 +800,14 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "<p>incredible texture<\/p>",
+            "text": "<p>incredible texture</p>",
             "text_font_class": "fs-body-200"
           }
         },
         "block-3": {
           "type": "button",
           "settings": {
-            "link": "shopify:\/\/collections\/delaminating-alcohol-inks",
+            "link": "shopify://collections/delaminating-alcohol-inks",
             "link_text": "Shop delaminating inks",
             "button_style": "btn--secondary"
           }
@@ -831,7 +831,7 @@
         "block-6": {
           "type": "text",
           "settings": {
-            "text": "<p>———<\/p><p>Incredible texture - paintings create themselves!<\/p>",
+            "text": "<p>———</p><p>Incredible texture - paintings create themselves!</p>",
             "text_font_class": "fs-body-75"
           }
         }
@@ -848,12 +848,12 @@
       "settings": {
         "image_position": "right",
         "text_alignment": "center",
-        "image": "shopify:\/\/shop_images\/IMG_2043.png",
+        "image": "shopify://shop_images/IMG_2043.png",
         "aspect_ratio": "square",
         "focal_point": "image_presentation",
         "image_caption": "",
         "show_small_image": false,
-        "image_small": "shopify:\/\/shop_images\/IMG_1956.jpg",
+        "image_small": "shopify://shop_images/IMG_1956.jpg",
         "image_small_aspect_ratio": "square",
         "image_small_focal_point": "center",
         "background_color": "",
@@ -870,8 +870,7 @@
       "blocks": {
         "border_gdX86N": {
           "type": "border",
-          "settings": {
-          }
+          "settings": {}
         },
         "heading_6Y9Me9": {
           "type": "heading",
@@ -883,7 +882,7 @@
         "text_AFn8DL": {
           "type": "text",
           "settings": {
-            "text": "<p>Filter by 'product type' to explore alcohol inks organized by collections<\/p>",
+            "text": "<p>Filter by 'product type' to explore alcohol inks organized by collections</p>",
             "text_font_class": "fs-body-75"
           }
         }
@@ -1163,6 +1162,7 @@
         "testimonial_axtBNx",
         "testimonial_izY9Qr"
       ],
+      "disabled": true,
       "custom_css": [
         ".testimonials__item-quote {font-size: 16px;}"
       ],
@@ -1191,7 +1191,7 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "<p>Use this section to promote a particular feature with editorial video.<\/p>",
+            "text": "<p>Use this section to promote a particular feature with editorial video.</p>",
             "text_font_class": "fs-body-100"
           }
         },
@@ -1211,8 +1211,8 @@
       ],
       "settings": {
         "video_source": "external",
-        "video_url": "https:\/\/youtu.be\/myE4gU8y0Xc?si=k9Ncd-t7ArCuhY3p",
-        "image": "shopify:\/\/shop_images\/Frame_2_4adb9d07-1573-4af9-a27a-21a0ff66c511.png",
+        "video_url": "https://youtu.be/myE4gU8y0Xc?si=k9Ncd-t7ArCuhY3p",
+        "image": "shopify://shop_images/Frame_2_4adb9d07-1573-4af9-a27a-21a0ff66c511.png",
         "loop": true,
         "media_aspect_ratio": "landscape_wide_alt",
         "focal_point": "image_presentation",
@@ -1224,6 +1224,26 @@
         "color_overlay_gradient": "",
         "overlay_opacity": 30,
         "enable_animation": true,
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
+    "1731664694162fa7a0": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_featured_carousel_Ynayri": {
+          "type": "shopify://apps/judge-me-reviews/blocks/featured_carousel/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "maxwidth": 1080
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_featured_carousel_Ynayri"
+      ],
+      "settings": {
+        "heading": "",
+        "enable_animation": true,
+        "divider_style": "none",
         "section_padding": "section--vertical-padding-top-bottom"
       }
     }
@@ -1243,6 +1263,7 @@
     "gallery_carousel_Jt43et",
     "image-with-text-2",
     "image-with-text-1",
+    "1731664694162fa7a0",
     "rich_text_h9BKQy",
     "product-grid",
     "featured_collection_slider_TEmDFL",
