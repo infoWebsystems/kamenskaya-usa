@@ -27,8 +27,7 @@
         },
         "judge_me_reviews_preview_badge_63CKdq": {
           "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
+          "settings": {}
         },
         "text_qpNiDN": {
           "type": "text",
@@ -134,8 +133,7 @@
         },
         "share": {
           "type": "share",
-          "settings": {
-          }
+          "settings": {}
         },
         "accordion-1": {
           "type": "accordion",
@@ -177,9 +175,7 @@
             "column_placement": "left",
             "max_products": 10,
             "product_source": "app-recommendations",
-            "product_list": [
-
-            ],
+            "product_list": [],
             "enable_swiper_mobile": true,
             "display_as_collapsible_row": true,
             "expand_by_default": false
@@ -191,7 +187,7 @@
             "expand_by_default": false,
             "column_placement": "left",
             "heading": "Shipping information",
-            "content": "<p>After you place your order we will get it ready for the shipment in 1-2 business days.</p><p>Tracking number will be sent to you my e-mail after your parcel is shipped.</p><p></p><h5><span style=\"text-decoration:underline\"><strong>SHIPMENTS TO USA:</strong></span><br/></h5><p><strong>Planned delivery time*</strong> after we submit your parcel to courier company depends on the selected shipping option:</p><ul><li>Standard shipping (USPS): 5-10 business days</li><li>Expedited shipping (UPS Express Saver): 2 business days</li><li>Expedited shipping (FedEx International Connect Plus): 4 business days</li></ul><p>Transit times and delivery commitments may vary depending on the destination of your shipment.</p><p></p><p><strong>SHIPPING RATES:</strong></p><p><em>Standard shipping:</em><br/></p><ul><li>$4.95 - for the orders with maximum weight of 1 lb</li><li>$7.95 - other orders</li></ul><p><em>Expedited shipping (UPS Express Saver): </em></p><ul><li>$9.99 - for the orders with maximum weight of 3.3 lb</li><li>$12.99 - other orders</li></ul><p>Expedited shipping (FedEx International Connect Plus): calculated individually based on the order weight.<br/></p><p><em><strong>FREE SHIPPING</strong></em><strong> - orders of $69 and more</strong></p><p></p><h5><span style=\"text-decoration:underline\"><strong>SHIPMENTS TO CANADA:</strong></span></h5><p><strong>Planned delivery time*</strong> after we submit your parcel to courier company depends on the selected shipping option:</p><ul><li>Expedited shipping (UPS Express Saver): 2-5 business days</li><li>Expedited shipping (FedEx International Connect Plus): 4-5 business days</li></ul><p>Transit times and delivery commitments may vary depending on the destination of your shipment.</p><p><strong>SHIPPING RATES:</strong></p><p>Expedited shipping (UPS Express Saver / FedEx International Connect Plus): calculated individually based on the order weight, starting with:</p><ul><li>$9.99 - for the orders with maximum weight of 3.3 lb</li><li>$12.99 - for the orders with the weight of 3.3-6.6 lb</li></ul>",
+            "content": "<p>After you place your order we will get it ready for the shipment in 1-2 business days.</p><p>Tracking number will be sent to you by e-mail after your parcel is shipped.</p><p></p><h5><span style=\"text-decoration:underline\"><strong>SHIPMENTS TO USA:</strong></span><br/></h5><p><strong>Planned delivery time*</strong> after we submit your parcel to courier company depends on the selected shipping option:</p><ul><li>Standard shipping (USPS): 5-10 business days</li><li>Expedited shipping (UPS Express Saver): 2 business days</li><li>Expedited shipping (FedEx International Connect Plus): 4 business days</li></ul><p>Transit times and delivery commitments may vary depending on the destination of your shipment.</p><p></p><p><strong>SHIPPING RATES:</strong></p><p><em>Standard shipping:</em><br/></p><ul><li>$4.95 - for the orders with maximum weight of 1 lb</li><li>$7.95 - other orders</li></ul><p><em>Expedited shipping (UPS Express Saver): </em></p><ul><li>$9.99 - for the orders with maximum weight of 3.3 lb</li><li>$12.99 - other orders</li></ul><p>Expedited shipping (FedEx International Connect Plus): calculated individually based on the order weight.<br/></p><p><em><strong>FREE SHIPPING</strong></em><strong> - orders of $69 and more</strong></p><p></p><h5><span style=\"text-decoration:underline\"><strong>SHIPMENTS TO CANADA:</strong></span></h5><p><strong>Planned delivery time*</strong> after we submit your parcel to courier company depends on the selected shipping option:</p><ul><li>Expedited shipping (UPS Express Saver): 2-5 business days</li><li>Expedited shipping (FedEx International Connect Plus): 4-5 business days</li></ul><p>Transit times and delivery commitments may vary depending on the destination of your shipment.</p><p><strong>SHIPPING RATES:</strong></p><p>Expedited shipping (UPS Express Saver / FedEx International Connect Plus): calculated individually based on the order weight, starting with:</p><ul><li>$9.99 - for the orders with maximum weight of 3.3 lb</li><li>$12.99 - for the orders with the weight of 3.3-6.6 lb</li></ul>",
             "page_for_content": "",
             "custom_liquid": ""
           }
@@ -524,8 +520,7 @@
       "blocks": {
         "judge_me_reviews_review_widget_kgb6JG": {
           "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
