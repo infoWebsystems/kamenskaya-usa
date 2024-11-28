@@ -14,6 +14,7 @@
       "blocks": {
         "template--19727828091163__0160c8e2-10e7-46a9-9903-95e48a4df163-1689150981ac390d2b-0": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/IMG_97061.jpg",
             "focal_point": "image_presentation",
@@ -44,6 +45,7 @@
         },
         "template--19727828091163__0160c8e2-10e7-46a9-9903-95e48a4df163-1689150981ac390d2b-1": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/6d951a1e1459bda16de03240657100c2.jpg",
             "image_mobile": "shopify://shop_images/1000_1600_1.jpg",
@@ -75,6 +77,7 @@
         },
         "slide_ytdNqD": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/new____-_-__3000_2000_1.jpg",
             "image_mobile": "shopify://shop_images/mobile_1000x1600_4cc6043a-1aba-49e8-94d5-e5b0e12c1165.jpg",
@@ -106,6 +109,7 @@
         },
         "1b50cc8d-0aca-4ec4-a391-e0e0c9e2e356": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/cbc814efc1fb09e7335a3cbf525c46b7_85327f49-a898-4365-b02d-b1a87b8e9749.jpg",
             "image_mobile": "shopify://shop_images/paste_mobile.jpg",
@@ -194,6 +198,36 @@
             "color_overlay_gradient": "",
             "overlay_opacity": 40
           }
+        },
+        "slide_VVQBtQ": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/IMG_5268.jpg",
+            "focal_point": "image_presentation",
+            "mobile_focal_point": "image_presentation",
+            "media_link": "",
+            "text_position": "center_center",
+            "text_position_mobile": "center_center",
+            "accent": "",
+            "title": "20% OFF STOREWIDE",
+            "heading_font_class": "fs-heading-display-3",
+            "subheading": "through December 2nd",
+            "subheading_font_class": "fs-heading-5-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "link_1": "",
+            "link_text_1": "Read more",
+            "button_style_1": "btn--primary",
+            "link_2": "",
+            "link_text_2": "Read more",
+            "button_style_2": "btn--primary",
+            "text_color": "#FFFFFF",
+            "button_background_color": "#FFFFFF",
+            "button_text_color": "#000000",
+            "color_overlay": "#000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 40
+          }
         }
       },
       "block_order": [
@@ -202,7 +236,8 @@
         "slide_ytdNqD",
         "1b50cc8d-0aca-4ec4-a391-e0e0c9e2e356",
         "9b45187d-d8a4-4d23-957e-8554aeaf163f",
-        "slide_xi879t"
+        "slide_xi879t",
+        "slide_VVQBtQ"
       ],
       "settings": {
         "image_aspect": "custom",
@@ -1667,8 +1702,7 @@
         },
         "a20757dc-e69a-44d7-a715-2a5d06580517": {
           "type": "border",
-          "settings": {
-          }
+          "settings": {}
         },
         "1655748276a16c587f-1": {
           "type": "subheading",
@@ -1686,8 +1720,7 @@
         },
         "6bfc7d96-f5a5-41c5-b66f-6b8eb23d8a52": {
           "type": "border",
-          "settings": {
-          }
+          "settings": {}
         },
         "737ce2a8-7a79-4050-901a-b48412cad79e": {
           "type": "subheading",
