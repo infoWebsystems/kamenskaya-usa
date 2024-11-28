@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "type": "custom.overlay",
   "name": "t:groups.overlay_group.name",
@@ -7,7 +16,7 @@
       "settings": {
         "enable_quick_cart": true,
         "show_product_currency": true,
-        "promotion_text": "<p>Not sure where to start?<br\/>Try these collections:<\/p>",
+        "promotion_text": "<p>Not sure where to start?<br/>Try these collections:</p>",
         "collection_list": [
           "sets",
           "best-sellers"
@@ -27,14 +36,14 @@
             "disable_for_account_holders": true,
             "show_on_specific_page": false,
             "target_page": "",
-            "accent": "Get $5 off",
+            "accent": "",
             "heading": "Join us",
             "heading_font_class": "fs-heading-2-base",
             "subheading": "",
-            "text": "<p>Signup and get $5 off your first purchase with a value $49+<\/p>",
-            "link_text": "Get offer",
+            "text": "<p>Subscribe to receive the latest news and exclusive offers</p>",
+            "link_text": "subscribe now",
             "dismiss_text": "No thanks",
-            "footer_text": "<p>By completing this form, you are signing up to receive our emails and can unsubscribe at any time<\/p>",
+            "footer_text": "<p>By completing this form, you are signing up to receive our emails and can unsubscribe at any time</p>",
             "tags": "newsletter",
             "show_social_icons": true,
             "popup_size": "medium",
@@ -42,13 +51,13 @@
             "image_position": "left",
             "focal_point": "image_presentation",
             "show_image_on_mobile": true,
-            "background_color": "#fff",
+            "background_color": "#ffffff",
             "text_color": "#000000",
             "input_color": "#000000",
-            "input_background": "#fff",
+            "input_background": "#ffffff",
             "button_background_color": "#000000",
-            "button_text_color": "#FFFFFF",
-            "color_overlay": "#000",
+            "button_text_color": "#ffffff",
+            "color_overlay": "#000000",
             "overlay_opacity": 0,
             "enable_tab": true,
             "tab_text": "Get $5 off",
@@ -62,8 +71,7 @@
       "block_order": [
         "popup_signup_AEUTBf"
       ],
-      "settings": {
-      }
+      "settings": {}
     }
   },
   "order": [
