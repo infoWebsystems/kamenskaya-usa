@@ -59,7 +59,7 @@
             "button_text_color": "#ffffff",
             "color_overlay": "#000000",
             "overlay_opacity": 0,
-            "enable_tab": true,
+            "enable_tab": false,
             "tab_text": "Get $5 off",
             "text_font_class": "fs-body-75",
             "tab_position": "bottom_left_floating",
