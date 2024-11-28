@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "type": "footer",
   "name": "t:groups.footer_group.name",
@@ -13,8 +22,8 @@
             "collapse_on_mobile": false,
             "title": "",
             "show_title_on_desktop": true,
-            "text": "<p>Made by artist for an artist<\/p>",
-            "image": "shopify:\/\/shop_images\/Kamenskaya_logo2.svg",
+            "text": "<p>Made by artist for an artist</p>",
+            "image": "shopify://shop_images/Kamenskaya_logo2.svg",
             "image_max_width": 200,
             "image_placement": "above_text",
             "show_social_icons": true,
@@ -69,7 +78,7 @@
             "collapse_on_mobile": false,
             "title": "Newsletter",
             "show_title_on_desktop": true,
-            "text": "<p>Subscribe to receive the latest news, exclusive offers and get $5 off (on order $49+)<\/p>",
+            "text": "<p>Subscribe to receive the latest news and exclusive offers</p>",
             "show_social_icons": true,
             "enable_follow_on_shop": false
           }
@@ -83,9 +92,7 @@
         "links_rJmQqQ",
         "footer-4"
       ],
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "enable_locale_selector": true,
         "enable_country_selector": true,
