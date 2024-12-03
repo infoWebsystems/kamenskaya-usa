@@ -16,6 +16,7 @@
       "blocks": {
         "announcement_HNPT4i": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "title": "<p>BLACK FRIDAY 20% OFF STOREWIDE</p>",
             "title_mobile": "",
