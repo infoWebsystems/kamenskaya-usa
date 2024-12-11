@@ -63,7 +63,7 @@
         "description": {
           "type": "description",
           "settings": {
-            "title": "Description",
+            "title": "",
             "text_font_class": "fs-body-100",
             "column_placement": "left",
             "display_as_collapsible_row": false,
