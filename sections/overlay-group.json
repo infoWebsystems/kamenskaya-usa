@@ -66,10 +66,44 @@
             "tab_text_color": "#000000",
             "tab_background_color": "#ffffff"
           }
+        },
+        "popup_LM7HQp": {
+          "type": "popup",
+          "settings": {
+            "delay": "timer_30000",
+            "frequency": "frequency_100000",
+            "show_on_exit_intent": false,
+            "disable_for_account_holders": true,
+            "show_on_specific_page": false,
+            "target_page": "",
+            "accent": "",
+            "heading": "Perfect Gift for Artists!",
+            "heading_font_class": "fs-heading-2-base",
+            "subheading": "",
+            "text": "<p>Delight the artistic souls you know with KAMENSKAYA Digital Gift Card</p>",
+            "link": "shopify://products/kamenskaya-gift-card",
+            "link_text": "learn more",
+            "dismiss_text": "No thanks",
+            "footer_text": "<p>Gift the Joy of Choosing with Our Wide Array of Art Supplies!</p>",
+            "show_social_icons": true,
+            "popup_size": "small",
+            "content_alignment": "center",
+            "image": "shopify://shop_images/IMG_5423.jpg",
+            "image_position": "left",
+            "focal_point": "image_presentation",
+            "show_image_on_mobile": false,
+            "background_color": "#fff",
+            "text_color": "#000000",
+            "button_background_color": "#000000",
+            "button_text_color": "#FFFFFF",
+            "color_overlay": "#000",
+            "overlay_opacity": 0
+          }
         }
       },
       "block_order": [
-        "popup_signup_AEUTBf"
+        "popup_signup_AEUTBf",
+        "popup_LM7HQp"
       ],
       "settings": {}
     }
