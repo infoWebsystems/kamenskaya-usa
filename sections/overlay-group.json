@@ -70,7 +70,7 @@
         "popup_LM7HQp": {
           "type": "popup",
           "settings": {
-            "delay": "timer_30000",
+            "delay": "timer_120000",
             "frequency": "frequency_100000",
             "show_on_exit_intent": false,
             "disable_for_account_holders": true,
