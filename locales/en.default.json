@@ -574,8 +574,7 @@
         "duties_included_label": " "
       },
       "shipping": {
-        "shipping_method_title": "Shipping Method (Our next shipment will be on December 28th, due to the bank holidays. Thank you for your understanding!)",
-        "shipping_method_notice": "Our next shipment will be on December 28th, due to the bank holidays. Thank you for your understanding!"
+        "shipping_method_notice": "Please note that due to the bank holidays our next shipments will be on December 28th. Thank you for your patience!"
       }
     }
   }
