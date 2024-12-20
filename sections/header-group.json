@@ -33,10 +33,9 @@
         },
         "announcement_9Vhd8G": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
-            "title": "<p>Happy Women's Day! </p><p>Enjoy 15% off all products today with discount code MARCH8</p>",
-            "title_mobile": "<p>Happy Women's Day! </p><p>Enjoy 15% off all products today with discount code MARCH8</p>",
+            "title": "<p>OUR NEXT SHIPMENT WILL BE ON DECEMBER 28TH, DUE TO THE BANK HOLIDAYS</p>",
+            "title_mobile": "<p>OUR NEXT SHIPMENT WILL BE ON DECEMBER 28TH, DUE TO THE BANK HOLIDAYS</p>",
             "link": ""
           }
         }
