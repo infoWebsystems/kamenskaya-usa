@@ -572,9 +572,6 @@
     "checkout": {
       "order_summary": {
         "duties_included_label": " "
-      },
-      "shipping": {
-        "shipping_method_notice": "Due to bank holidays, our next shipments will be on Jan 2nd. Thank you for your patience!"
       }
     }
   }
