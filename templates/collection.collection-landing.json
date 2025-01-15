@@ -77,15 +77,15 @@
         "block-3": {
           "type": "text",
           "settings": {
-            "text": "<p>HIGH CONCENTRATION, COMPLEX SHADES AND LIGHT FASTNESS</p>",
-            "text_font_class": "fs-body-200"
+            "text": "<p>HIGH CONCENTRATION INKS WITH RICH SHADES AND LASTING LIGHT FASTNESS</p>",
+            "text_font_class": "fs-body-100"
           }
         },
         "subheading_RiXTeA": {
           "type": "subheading",
           "settings": {
-            "subheading": "for professionals and beginners",
-            "subheading_font_class": "fs-heading-5-base"
+            "subheading": "for all skill levels - beginner to advanced artists",
+            "subheading_font_class": "fs-heading-6-base"
           }
         }
       },
