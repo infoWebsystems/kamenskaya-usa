@@ -27,6 +27,7 @@
         },
         "product_callouts_mini": {
           "type": "product_callouts_mini",
+          "disabled": true,
           "settings": {
             "icon_1": "none",
             "text_1": "Ink Art",
@@ -299,6 +300,96 @@
         "text_color": "#000000",
         "enable_animation": true,
         "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
+    "collapsible_row_list_jBt4hG": {
+      "type": "collapsible-row-list",
+      "blocks": {
+        "item_BDEBpc": {
+          "type": "item",
+          "settings": {
+            "expand_by_default": false,
+            "icon": "none",
+            "title": "Lesson 1: Introductory Lesson",
+            "text": "<p>In this lesson, you will learn about the materials needed for your work. You will understand how delaminating ink behaves and explore its possibilities. You will also learn how to properly prime a canvas and seal your artwork with varnish. This lesson will be the starting point of our vibrant journey into the world of unique effects.</p>"
+          }
+        },
+        "item_JfrYpY": {
+          "type": "item",
+          "settings": {
+            "expand_by_default": false,
+            "icon": "none",
+            "title": " Lesson 2: Abstract Fluid Art",
+            "text": "<p>This lesson will give you the freedom to work with delaminating ink. You will learn how to combine colors correctly and understand how it influences the final result. This lesson is meant to inspire and will leave no one indifferent. You will find yourself drawn into the process.</p>"
+          }
+        },
+        "item_pW6Pnz": {
+          "type": "item",
+          "settings": {
+            "expand_by_default": false,
+            "icon": "none",
+            "title": "Lesson 3: Ocean Abstraction",
+            "text": "<p>There are countless ways to create ocean-inspired abstracts and an endless number of beautiful compositions. I will share one of my favorite techniques. In this lesson, you will dive deeper into the possibilities of delaminating ink. You will learn how to use reference images and bring mindfulness into your creative process.</p>"
+          }
+        },
+        "item_YTwgzC": {
+          "type": "item",
+          "settings": {
+            "expand_by_default": false,
+            "icon": "none",
+            "title": " Lesson 4: Simple Landscape",
+            "text": "<p>This landscape is not as simple as it seems! But since we will have another landscape lesson, I’ve categorized them as “simpler” and “more complex.” Both will be created on canvas. This lesson will teach you how to work with delaminating ink on canvas. Afterward, you will be able to choose which surface suits your style best. You will clearly feel the difference and understand what resonates with you more.</p>"
+          }
+        },
+        "item_K6h3UK": {
+          "type": "item",
+          "settings": {
+            "expand_by_default": false,
+            "icon": "none",
+            "title": " Lesson 5: Advanced Landscape",
+            "text": "<p>A sunset or sunrise landscape is always a challenge. The preparation involves multiple stages, which are not overly difficult but will result in a stunning, dimensional effect. This lesson will expand your creative horizons and reinforce your ability to use reference images and control the flow of delaminating ink on canvas. At this stage, you might think we have learned the most exciting techniques… but there’s still more to come!</p>"
+          }
+        },
+        "item_JcC8zt": {
+          "type": "item",
+          "settings": {
+            "expand_by_default": false,
+            "icon": "none",
+            "title": "Lesson 6: Floral Abstractions",
+            "text": "<p>Once you have gained confidence in the technique, it’s time to step away from familiar landscapes. Soft, warm floral tones will help you explore new dimensions. In this lesson, you will learn to work with shapes and layering, creating depth and turning composition into a delicate floral form. I will show you that flowers are not just the shapes we traditionally recognize. Delaminating ink will help you achieve stunning organic effects.</p>"
+          }
+        },
+        "item_iP9VXf": {
+          "type": "item",
+          "settings": {
+            "expand_by_default": false,
+            "icon": "none",
+            "title": "Lesson 7: Advanced Floral Abstraction",
+            "text": "<p>The most unique lesson in the course—especially for those who have never worked with delaminating ink before! In this lesson, you will learn to create airy waves that mimic the delicate structure of petals. You will master another floral abstraction technique, blending two different approaches to enhance one another. I promise you will feel inspired and full of emotions. Though this is the final lesson, it will be the highlight of the course and will beautifully summarize your mastery of delaminating ink!</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_BDEBpc",
+        "item_JfrYpY",
+        "item_pW6Pnz",
+        "item_YTwgzC",
+        "item_K6h3UK",
+        "item_JcC8zt",
+        "item_iP9VXf"
+      ],
+      "settings": {
+        "title": "Course structure",
+        "heading_font_class": "fs-heading-3-base",
+        "subheading": "",
+        "subheading_font_class": "fs-heading-5-base",
+        "heading_alignment": "left",
+        "item_heading_font": "heading",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom",
+        "content_width": "full",
+        "custom_content_width": 700
       }
     },
     "multi-column": {
@@ -623,6 +714,7 @@
   "order": [
     "main",
     "product_tabs_crcwwF",
+    "collapsible_row_list_jBt4hG",
     "multi-column",
     "image-hero",
     "image-with-text-1",
