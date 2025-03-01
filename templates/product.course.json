@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -55,7 +55,7 @@
           "disabled": true,
           "settings": {
             "text_font_class": "fs-body-100",
-            "text": "<p>The A-line Alcohol Inks are lush, translucent inks which blend easily with each other. An ideal tool for creating light and airy ink art paintings.<\/p>",
+            "text": "<p>The A-line Alcohol Inks are lush, translucent inks which blend easily with each other. An ideal tool for creating light and airy ink art paintings.</p>",
             "column_placement": "left"
           }
         },
@@ -108,11 +108,11 @@
             "icon_2": "cotton",
             "text_2": "",
             "icon_3": "chat",
-            "text_3": "<p>Have questions? <a href=\"\/pages\/contact\" title=\"Contact\">Contact us<\/a><\/p>",
+            "text_3": "<p>Have questions? <a href=\"/pages/contact\" title=\"Contact\">Contact us</a></p>",
             "icon_4": "moving-truck",
             "text_4": "",
             "icon_5": "padlock",
-            "text_5": "<p>Secure payment<\/p>",
+            "text_5": "<p>Secure payment</p>",
             "icon_6": "none",
             "text_6": "",
             "display_as_collapsible_row": false,
@@ -121,16 +121,15 @@
         },
         "share": {
           "type": "share",
-          "settings": {
-          }
+          "settings": {}
         },
         "description": {
           "type": "description",
           "settings": {
-            "title": "Description",
+            "title": "",
             "text_font_class": "fs-body-100",
             "column_placement": "left",
-            "display_as_collapsible_row": true,
+            "display_as_collapsible_row": false,
             "expand_by_default": true
           }
         },
@@ -141,7 +140,7 @@
             "expand_by_default": false,
             "column_placement": "left",
             "heading": "Description",
-            "content": "<ul><li>Key Features: light translucent texture, saturated color and a nice satin finish. The inks adhere perfectly to synthetic smooth surfaces and dry quickly.<\/li><li>High Lightfastness: our inks have lightfastness level of 7-10 which means the colors stay bright for a long time.<\/li><li>Economy In Use: one bottle of ink is sufficient for a minimum of 2 paintings of 100:70 cm (39.37:27.56 in) format, which is a sign of high economy in use.<\/li><li>Mix Colors Easily With Each Other, and dilute to the desired concentration with KAMENSKAYA special alcohol blending solution.<\/li><\/ul>",
+            "content": "<ul><li>Key Features: light translucent texture, saturated color and a nice satin finish. The inks adhere perfectly to synthetic smooth surfaces and dry quickly.</li><li>High Lightfastness: our inks have lightfastness level of 7-10 which means the colors stay bright for a long time.</li><li>Economy In Use: one bottle of ink is sufficient for a minimum of 2 paintings of 100:70 cm (39.37:27.56 in) format, which is a sign of high economy in use.</li><li>Mix Colors Easily With Each Other, and dilute to the desired concentration with KAMENSKAYA special alcohol blending solution.</li></ul>",
             "page_for_content": "",
             "custom_liquid": ""
           }
@@ -153,7 +152,7 @@
             "expand_by_default": false,
             "column_placement": "left",
             "heading": "Recommendations",
-            "content": "<p>- Use covering materials and gloves when handling the ink<\/p><p>- Apply the ink on a smooth, non-absorbent surface. Shake the bottle before use<\/p><p>- Dilute the ink with blending solution or alcohol to the required consistency (saturation) when working in Ink Art technique<\/p><p>- Pour the diluted ink onto the surface and paint under the pressure of a hairdryer. Make circular motions around the drop to form nice edges<\/p><p>- Add a few drops of metallic ink to the paint to create a weightless golden spider web<\/p><p>- Finish by coating the painting with an acrylic spray varnish to increase the durability of your image.<\/p><p>The time to experiment is now! Let's create together!<\/p><p><strong>Tips:<\/strong><\/p><p>1.After drying, we recommend covering the image with an aerosol acrylic varnish in several layers to preserve the image.<\/p><p>2.The ideal ink tandem is with a blending solution (not only do you dilute the paint with it, but you also get a medium fixation of the image on the surface, which saves you paint, time and gives comfort in your work).<\/p><p>3.Use smooth, non-absorbent surfaces to work with inks.<\/p><p>4.The ideal dilution ratio for ink and blending solution is 1:6-1:7, where 1 is ink.<\/p><p><strong>Safety precautions: <\/strong>Work in ventilated areas, products are flammable, must be kept out of the reach of children and away from open sources of fire. Use strictly for the intended purpose. In case of contact with mucous membranes, rinse thoroughly with water and consult a doctor if necessary.<\/p>",
+            "content": "<p>- Use covering materials and gloves when handling the ink</p><p>- Apply the ink on a smooth, non-absorbent surface. Shake the bottle before use</p><p>- Dilute the ink with blending solution or alcohol to the required consistency (saturation) when working in Ink Art technique</p><p>- Pour the diluted ink onto the surface and paint under the pressure of a hairdryer. Make circular motions around the drop to form nice edges</p><p>- Add a few drops of metallic ink to the paint to create a weightless golden spider web</p><p>- Finish by coating the painting with an acrylic spray varnish to increase the durability of your image.</p><p>The time to experiment is now! Let's create together!</p><p><strong>Tips:</strong></p><p>1.After drying, we recommend covering the image with an aerosol acrylic varnish in several layers to preserve the image.</p><p>2.The ideal ink tandem is with a blending solution (not only do you dilute the paint with it, but you also get a medium fixation of the image on the surface, which saves you paint, time and gives comfort in your work).</p><p>3.Use smooth, non-absorbent surfaces to work with inks.</p><p>4.The ideal dilution ratio for ink and blending solution is 1:6-1:7, where 1 is ink.</p><p><strong>Safety precautions: </strong>Work in ventilated areas, products are flammable, must be kept out of the reach of children and away from open sources of fire. Use strictly for the intended purpose. In case of contact with mucous membranes, rinse thoroughly with water and consult a doctor if necessary.</p>",
             "page_for_content": "",
             "custom_liquid": ""
           }
@@ -165,7 +164,7 @@
             "expand_by_default": false,
             "column_placement": "left",
             "heading": "Storage and shelf life",
-            "content": "<p>36 months before opening, 6 months after opening the bottle.<br\/>Store in a closed vial at a temperature between 5 and 25 degrees Celsius.<br\/>Avoid sudden temperature changes and open sunlight.<\/p>",
+            "content": "<p>36 months before opening, 6 months after opening the bottle.<br/>Store in a closed vial at a temperature between 5 and 25 degrees Celsius.<br/>Avoid sudden temperature changes and open sunlight.</p>",
             "page_for_content": "",
             "custom_liquid": ""
           }
@@ -178,9 +177,7 @@
             "column_placement": "left",
             "max_products": 10,
             "product_source": "app-recommendations",
-            "product_list": [
-
-            ],
+            "product_list": [],
             "enable_swiper_mobile": true,
             "display_as_collapsible_row": true,
             "expand_by_default": false
@@ -219,6 +216,91 @@
         "enable_animation": true
       }
     },
+    "product_tabs_crcwwF": {
+      "type": "product-tabs",
+      "blocks": {
+        "one_column_XedMFQ": {
+          "type": "one_column",
+          "settings": {
+            "tab_heading": "About",
+            "heading_column_1": "",
+            "heading_font_class_column_1": "fs-heading-4-base",
+            "text_column_1": "<p>📚 7 structured lessons (20-40 min each)<br/>🎥 Pre-recorded video format – learn at your own pace<br/>📆 6-month access – rewatch and practice anytime<br/>🌍 Language: English<br/>💬 WhatsApp support group</p>",
+            "page_for_content_column_1": "",
+            "custom_liquid_column_1": "",
+            "text_font_class_column_1": "fs-body-100",
+            "content_width": "custom",
+            "text_max_width": 700,
+            "image_width_column_1": 100,
+            "image_position_column_1": "above_text"
+          }
+        },
+        "one_column_MMEt4q": {
+          "type": "one_column",
+          "settings": {
+            "tab_heading": "What you will learn",
+            "heading_column_1": "",
+            "heading_font_class_column_1": "fs-heading-4-base",
+            "text_column_1": "<p>✅ <strong>Understanding delaminating inks</strong> – how they react, spread, and layer</p><p>✅ <strong>Mixing techniques</strong> – achieving the perfect balance of color and consistency</p><p>✅ <strong>Ink movement control</strong> – guiding ink flow with tilting techniques</p><p>✅ <strong>Creating depth and texture</strong> – mastering multi-layer compositions</p><p>✅ <strong>Working on synthetic paper & canvas</strong> – preparation and priming methods</p><p>✅ <strong>Sealing and finishing techniques</strong> – preserving your artwork with varnish</p><p>✅ <strong>Abstract, landscape & floral compositions</strong> – step-by-step guided projects</p>",
+            "page_for_content_column_1": "",
+            "custom_liquid_column_1": "",
+            "text_font_class_column_1": "fs-body-100",
+            "content_width": "custom",
+            "text_max_width": 700,
+            "image_width_column_1": 100,
+            "image_position_column_1": "above_text"
+          }
+        },
+        "one_column_QFPaVd": {
+          "type": "one_column",
+          "settings": {
+            "tab_heading": "Perfect for",
+            "heading_column_1": "",
+            "heading_font_class_column_1": "fs-heading-4-base",
+            "text_column_1": "<p>✔ Artists looking to expand their skills with fluid art</p><p>✔ Beginners seeking structured, step-by-step guidance</p><p>✔ Experienced creators wanting to master delaminating inks</p><p>✔ Anyone who loves experimenting with abstract techniques</p>",
+            "page_for_content_column_1": "",
+            "custom_liquid_column_1": "",
+            "text_font_class_column_1": "fs-body-100",
+            "content_width": "custom",
+            "text_max_width": 700,
+            "image_width_column_1": 100,
+            "image_position_column_1": "above_text"
+          }
+        },
+        "one_column_Mg86iC": {
+          "type": "one_column",
+          "settings": {
+            "tab_heading": "How it works",
+            "heading_column_1": "",
+            "heading_font_class_column_1": "fs-heading-4-base",
+            "text_column_1": "<p>📥 <strong>Instant access</strong> – start learning right after purchase</p><p>📆 <strong>6-month course access</strong> – rewatch anytime at your convenience</p><p>💬 <strong>WhatsApp support group</strong> – ask questions & get feedback</p><p>🎥 <strong>Pre-recorded lessons</strong> – flexible learning, anytime, anywhere</p>",
+            "page_for_content_column_1": "",
+            "custom_liquid_column_1": "",
+            "text_font_class_column_1": "fs-body-100",
+            "content_width": "custom",
+            "text_max_width": 700,
+            "image_width_column_1": 100,
+            "image_position_column_1": "above_text"
+          }
+        }
+      },
+      "block_order": [
+        "one_column_XedMFQ",
+        "one_column_MMEt4q",
+        "one_column_QFPaVd",
+        "one_column_Mg86iC"
+      ],
+      "settings": {
+        "tab_alignment": "left",
+        "tab_spacing": 40,
+        "font_choice": "ff-heading",
+        "tab_font_size": "fs-body-150",
+        "background_color": "",
+        "text_color": "#000000",
+        "enable_animation": true,
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
     "multi-column": {
       "type": "multi-column",
       "blocks": {
@@ -229,7 +311,7 @@
             "heading": "Column",
             "heading_link": "",
             "heading_font_class": "fs-heading-4-base",
-            "text": "<p>Use text to focus on your chosen product, collection, or blog post.<\/p>",
+            "text": "<p>Use text to focus on your chosen product, collection, or blog post.</p>",
             "text_font_class": "fs-body-100",
             "text_max_width": 100,
             "link": "",
@@ -244,7 +326,7 @@
             "heading": "Column",
             "heading_link": "",
             "heading_font_class": "fs-heading-4-base",
-            "text": "<p>Use text to focus on your chosen product, collection, or blog post.<\/p>",
+            "text": "<p>Use text to focus on your chosen product, collection, or blog post.</p>",
             "text_font_class": "fs-body-100",
             "text_max_width": 100,
             "link": "",
@@ -259,7 +341,7 @@
             "heading": "Column",
             "heading_link": "",
             "heading_font_class": "fs-heading-4-base",
-            "text": "<p>Use text to focus on your chosen product, collection, or blog post.<\/p>",
+            "text": "<p>Use text to focus on your chosen product, collection, or blog post.</p>",
             "text_font_class": "fs-body-100",
             "text_max_width": 100,
             "link": "",
@@ -276,7 +358,7 @@
       "disabled": true,
       "settings": {
         "title": "",
-        "subheading": "<p>Use a multi-column section to organize detailed information about your products:<\/p>",
+        "subheading": "<p>Use a multi-column section to organize detailed information about your products:</p>",
         "subheading_link": "",
         "subheading_link_text": "Your link here",
         "heading_font_class": "fs-heading-3-base",
@@ -320,7 +402,7 @@
         "block-2": {
           "type": "text",
           "settings": {
-            "text": "<p>Use these sections to promote a particular feature with editorial photography.<\/p>",
+            "text": "<p>Use these sections to promote a particular feature with editorial photography.</p>",
             "text_font_class": "fs-body-100"
           }
         }
@@ -363,7 +445,7 @@
         "block-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Use these sections to promote a particular feature with editorial photography<\/p>",
+            "text": "<p>Use these sections to promote a particular feature with editorial photography</p>",
             "text_font_class": "fs-body-100"
           }
         }
@@ -404,7 +486,7 @@
         "block-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Use these sections to promote a particular feature with editorial photography<\/p>",
+            "text": "<p>Use these sections to promote a particular feature with editorial photography</p>",
             "text_font_class": "fs-body-100"
           }
         }
@@ -512,7 +594,7 @@
       "settings": {
         "heading": "Alcohol Inks Collections",
         "subheading": "",
-        "link": "shopify:\/\/collections\/alcohol-inks",
+        "link": "shopify://collections/alcohol-inks",
         "link_text": "View all alcohol inks",
         "columns": "4",
         "mobile_columns": "2",
@@ -540,6 +622,7 @@
   },
   "order": [
     "main",
+    "product_tabs_crcwwF",
     "multi-column",
     "image-hero",
     "image-with-text-1",
