@@ -758,6 +758,34 @@
         "enable_animation": true,
         "section_padding": "section--vertical-padding-top-bottom"
       }
+    },
+    "featured_collection_slider_7LXyN4": {
+      "type": "featured-collection-slider",
+      "blocks": {
+        "collection_b4Htmz": {
+          "type": "collection",
+          "settings": {
+            "show_view_all": true,
+            "collection": "delaminating-alcohol-inks",
+            "collection_name": "First collection"
+          }
+        }
+      },
+      "block_order": [
+        "collection_b4Htmz"
+      ],
+      "settings": {
+        "heading": "Delaminating inks collection",
+        "subheading": "",
+        "link": "",
+        "link_text": "",
+        "maximum_products": 8,
+        "columns": "4",
+        "mobile_columns": "2",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
     }
   },
   "order": [
@@ -771,6 +799,7 @@
     "testimonials",
     "recommendations",
     "04e104fd-5b51-479c-85e3-7b140cf8b0f5",
-    "video_4tkfbr"
+    "video_4tkfbr",
+    "featured_collection_slider_7LXyN4"
   ]
 }
