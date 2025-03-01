@@ -731,7 +731,7 @@
           "type": "play-button",
           "settings": {
             "text": "",
-            "button_layout": "full",
+            "button_layout": "minimal",
             "icon_style": "outline"
           }
         }
@@ -742,7 +742,7 @@
         "play_button_wW8tnL"
       ],
       "settings": {
-        "video_source": "external",
+        "video_source": "shopify",
         "video": "shopify://files/videos/7CAB522E-A1CF-41F8-AB7D-5BC9E5D68F60.MOV",
         "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "loop": false,
