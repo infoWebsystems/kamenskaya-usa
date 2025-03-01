@@ -669,6 +669,7 @@
     },
     "recommendations": {
       "type": "recommended-products",
+      "disabled": true,
       "settings": {
         "title": "Recommended Products",
         "subheading": "",
@@ -682,6 +683,7 @@
     },
     "04e104fd-5b51-479c-85e3-7b140cf8b0f5": {
       "type": "collection-list-slider",
+      "disabled": true,
       "settings": {
         "heading": "Alcohol Inks Collections",
         "subheading": "",
@@ -786,6 +788,80 @@
         "divider_style": "none",
         "section_padding": "section--vertical-padding-top-bottom"
       }
+    },
+    "1740842892e81c5b01": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_eRz3DM": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_eRz3DM"
+      ],
+      "settings": {
+        "heading": "App section",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
+    "contact_form_THPXhp": {
+      "type": "contact-form",
+      "blocks": {
+        "text_MwCRVn": {
+          "type": "text",
+          "settings": {
+            "title": "Name",
+            "required": false,
+            "width": "half"
+          }
+        },
+        "email_URVaLn": {
+          "type": "email",
+          "settings": {
+            "title": "Email",
+            "width": "half"
+          }
+        },
+        "telephone_GJpjdy": {
+          "type": "telephone",
+          "settings": {
+            "title": "Phone",
+            "required": false,
+            "width": "full"
+          }
+        },
+        "text_area_CzEJL6": {
+          "type": "text_area",
+          "settings": {
+            "title": "Message",
+            "placeholder": "Your message",
+            "required": false,
+            "height": 180,
+            "width": "full"
+          }
+        }
+      },
+      "block_order": [
+        "text_MwCRVn",
+        "email_URVaLn",
+        "telephone_GJpjdy",
+        "text_area_CzEJL6"
+      ],
+      "settings": {
+        "alignment": "left_left",
+        "heading": "Have questions?",
+        "heading_font_class": "fs-heading-3-base",
+        "text": "<p>Contact us</p>",
+        "show_recaptcha_terms": true,
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom",
+        "content_width": "custom",
+        "custom_content_width": 700
+      }
     }
   },
   "order": [
@@ -800,6 +876,8 @@
     "recommendations",
     "04e104fd-5b51-479c-85e3-7b140cf8b0f5",
     "video_4tkfbr",
-    "featured_collection_slider_7LXyN4"
+    "featured_collection_slider_7LXyN4",
+    "1740842892e81c5b01",
+    "contact_form_THPXhp"
   ]
 }
