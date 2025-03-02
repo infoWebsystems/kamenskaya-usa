@@ -1746,6 +1746,7 @@
       "blocks": {
         "cec1e4e1-4b28-4709-8d1a-c986ad40425b": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image_size": 160,
             "image_size_mobile": 110
@@ -1754,30 +1755,30 @@
         "da0d8502-d1a9-42c4-946f-f3143ddb712c": {
           "type": "heading",
           "settings": {
-            "title": "Image with text split",
+            "title": "DELAMINATING EFFECTS COURSE",
             "heading_font_class": "fs-heading-1-base"
           }
         },
         "16548927896be1844d-2": {
           "type": "subheading",
+          "disabled": true,
           "settings": {
             "subheading": "Use these sections to promote a particular feature with editorial photography.",
             "subheading_font_class": "fs-heading-5-base"
           }
         },
+        "text_Ke8zpF": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Discover the unique world of delaminating inks and learn how to create stunning abstract compositions, landscapes, and floral effects. This course is designed for artists of all levels who want to explore new techniques and gain in-depth knowledge of ink behavior, layering, and movement control.</p>",
+            "text_font_class": "fs-body-100"
+          }
+        },
         "82fd259e-87e0-4232-9b45-72472ceab4dc": {
           "type": "button",
           "settings": {
-            "link": "",
-            "link_text": "Read more",
-            "button_style": "btn--callout"
-          }
-        },
-        "7792bb9a-dddb-46ca-9045-e26f6f6948b5": {
-          "type": "button",
-          "settings": {
-            "link": "",
-            "link_text": "Read more",
+            "link": "shopify://products/delaminating-alcohol-inks-online-course",
+            "link_text": "Learn more",
             "button_style": "btn--callout"
           }
         }
@@ -1786,10 +1787,9 @@
         "cec1e4e1-4b28-4709-8d1a-c986ad40425b",
         "da0d8502-d1a9-42c4-946f-f3143ddb712c",
         "16548927896be1844d-2",
-        "82fd259e-87e0-4232-9b45-72472ceab4dc",
-        "7792bb9a-dddb-46ca-9045-e26f6f6948b5"
+        "text_Ke8zpF",
+        "82fd259e-87e0-4232-9b45-72472ceab4dc"
       ],
-      "disabled": true,
       "settings": {
         "image_position": "right",
         "image_mobile_position": "above-content",
