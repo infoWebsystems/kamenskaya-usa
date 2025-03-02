@@ -624,6 +624,71 @@
         "section_padding": "section--vertical-padding-top-bottom"
       }
     },
+    "165489278903cc3881": {
+      "type": "image-with-text-split",
+      "blocks": {
+        "cec1e4e1-4b28-4709-8d1a-c986ad40425b": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image_size": 160,
+            "image_size_mobile": 110
+          }
+        },
+        "da0d8502-d1a9-42c4-946f-f3143ddb712c": {
+          "type": "heading",
+          "settings": {
+            "title": "DELAMINATING EFFECTS COURSE",
+            "heading_font_class": "fs-heading-1-base"
+          }
+        },
+        "16548927896be1844d-2": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "subheading": "Use these sections to promote a particular feature with editorial photography.",
+            "subheading_font_class": "fs-heading-5-base"
+          }
+        },
+        "text_Ke8zpF": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Discover the unique world of delaminating inks and learn how to create stunning abstract compositions, landscapes, and floral effects. This course is designed for artists of all levels who want to explore new techniques and gain in-depth knowledge of ink behavior, layering, and movement control.</p>",
+            "text_font_class": "fs-body-100"
+          }
+        },
+        "82fd259e-87e0-4232-9b45-72472ceab4dc": {
+          "type": "button",
+          "settings": {
+            "link": "shopify://products/delaminating-alcohol-inks-online-course",
+            "link_text": "Learn more",
+            "button_style": "btn--callout"
+          }
+        }
+      },
+      "block_order": [
+        "cec1e4e1-4b28-4709-8d1a-c986ad40425b",
+        "da0d8502-d1a9-42c4-946f-f3143ddb712c",
+        "16548927896be1844d-2",
+        "text_Ke8zpF",
+        "82fd259e-87e0-4232-9b45-72472ceab4dc"
+      ],
+      "settings": {
+        "image_position": "left",
+        "image_mobile_position": "above-content",
+        "image_padding": "none",
+        "image": "shopify://shop_images/photo_2025-03-0116.31.19.jpg",
+        "aspect_ratio": "square",
+        "focal_point": "image_presentation",
+        "content_alignment": "center",
+        "background_color": "#416471",
+        "text_color": "#d1d8c0",
+        "button_background_color": "#d1d8c0",
+        "button_text_color": "#ffffff",
+        "enable_animation": true,
+        "section_padding": "section--vertical-padding-top-only"
+      }
+    },
     "b64fa078-1aa4-4ab2-912e-946bf4e5f262": {
       "type": "collection-list-grid",
       "settings": {
@@ -1741,71 +1806,6 @@
         "section_padding": "section--vertical-padding-top-bottom"
       }
     },
-    "165489278903cc3881": {
-      "type": "image-with-text-split",
-      "blocks": {
-        "cec1e4e1-4b28-4709-8d1a-c986ad40425b": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "image_size": 160,
-            "image_size_mobile": 110
-          }
-        },
-        "da0d8502-d1a9-42c4-946f-f3143ddb712c": {
-          "type": "heading",
-          "settings": {
-            "title": "DELAMINATING EFFECTS COURSE",
-            "heading_font_class": "fs-heading-1-base"
-          }
-        },
-        "16548927896be1844d-2": {
-          "type": "subheading",
-          "disabled": true,
-          "settings": {
-            "subheading": "Use these sections to promote a particular feature with editorial photography.",
-            "subheading_font_class": "fs-heading-5-base"
-          }
-        },
-        "text_Ke8zpF": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Discover the unique world of delaminating inks and learn how to create stunning abstract compositions, landscapes, and floral effects. This course is designed for artists of all levels who want to explore new techniques and gain in-depth knowledge of ink behavior, layering, and movement control.</p>",
-            "text_font_class": "fs-body-100"
-          }
-        },
-        "82fd259e-87e0-4232-9b45-72472ceab4dc": {
-          "type": "button",
-          "settings": {
-            "link": "shopify://products/delaminating-alcohol-inks-online-course",
-            "link_text": "Learn more",
-            "button_style": "btn--callout"
-          }
-        }
-      },
-      "block_order": [
-        "cec1e4e1-4b28-4709-8d1a-c986ad40425b",
-        "da0d8502-d1a9-42c4-946f-f3143ddb712c",
-        "16548927896be1844d-2",
-        "text_Ke8zpF",
-        "82fd259e-87e0-4232-9b45-72472ceab4dc"
-      ],
-      "settings": {
-        "image_position": "left",
-        "image_mobile_position": "above-content",
-        "image_padding": "none",
-        "image": "shopify://shop_images/photo_2025-03-0116.31.19.jpg",
-        "aspect_ratio": "square",
-        "focal_point": "image_presentation",
-        "content_alignment": "center",
-        "background_color": "#416471",
-        "text_color": "#d1d8c0",
-        "button_background_color": "#d1d8c0",
-        "button_text_color": "#ffffff",
-        "enable_animation": true,
-        "section_padding": "section--vertical-padding-top-only"
-      }
-    },
     "d71df2af-ba99-428a-9772-57ebe99ef94d": {
       "type": "newsletter-compact",
       "blocks": {
@@ -1863,6 +1863,7 @@
     "16558561315f6147d3",
     "bd1b0d05-5e8a-4131-8ba5-990b15b8a742",
     "16548772614c49ba39",
+    "165489278903cc3881",
     "b64fa078-1aa4-4ab2-912e-946bf4e5f262",
     "1655747757d7226f15",
     "16548834739d532589",
@@ -1877,7 +1878,6 @@
     "1654916105fd939f8f",
     "16548801325228c324",
     "1655748277aeb95c8a",
-    "165489278903cc3881",
     "d71df2af-ba99-428a-9772-57ebe99ef94d"
   ]
 }
