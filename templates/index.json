@@ -1791,13 +1791,14 @@
         "82fd259e-87e0-4232-9b45-72472ceab4dc"
       ],
       "settings": {
-        "image_position": "right",
+        "image_position": "left",
         "image_mobile_position": "above-content",
         "image_padding": "none",
-        "aspect_ratio": "landscape",
+        "image": "shopify://shop_images/photo_2025-03-0116.31.19.jpg",
+        "aspect_ratio": "square",
         "focal_point": "image_presentation",
         "content_alignment": "center",
-        "background_color": "#562a26",
+        "background_color": "#416471",
         "text_color": "#d1d8c0",
         "button_background_color": "#d1d8c0",
         "button_text_color": "#ffffff",
